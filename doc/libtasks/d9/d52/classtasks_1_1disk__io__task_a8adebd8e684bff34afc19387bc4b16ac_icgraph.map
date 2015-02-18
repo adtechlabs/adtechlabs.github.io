@@ -1,0 +1,10 @@
+<map id="tasks::disk_io_task::get_string" name="tasks::disk_io_task::get_string">
+<area shape="rect" id="node2" href="$d9/d52/classtasks_1_1disk__io__task.html#a896b5ebd037e89633a5db5649a6dcbb3" title="tasks::disk_io_task\l::disk_io_task" alt="" coords="201,5,335,46"/>
+<area shape="rect" id="node3" href="$d9/d52/classtasks_1_1disk__io__task.html#a1330b08e15b539fe9382c4c8c25cda9a" title="tasks::disk_io_task\l::~disk_io_task" alt="" coords="201,70,335,111"/>
+<area shape="rect" id="node4" href="$d9/d52/classtasks_1_1disk__io__task.html#ae03ee8a0504e129f628f67962cb8b415" title="tasks::disk_io_task::op" alt="" coords="189,136,347,163"/>
+<area shape="rect" id="node8" href="$d9/d52/classtasks_1_1disk__io__task.html#a19f803bc65c2cb2bc6c676db3c15bf00" title="tasks::disk_io_task\l::handle_event" alt="" coords="201,187,335,229"/>
+<area shape="rect" id="node9" href="$d9/d52/classtasks_1_1disk__io__task.html#a23b21c2641131cd429ab3cab55404355" title="tasks::disk_io_task\l::dispose" alt="" coords="201,253,335,294"/>
+<area shape="rect" id="node5" href="$d9/d52/classtasks_1_1disk__io__task.html#ac6adaca03bc7cb027c868c39c8b525af" title="tasks::disk_io_task\l::add_task" alt="" coords="395,129,530,170"/>
+<area shape="rect" id="node6" href="$da/dee/classtest__disk__io__task.html#a9c25624668ac4fb05d80c9e2f6248e3a" title="test_disk_io_task::\lwrite" alt="" coords="591,99,723,141"/>
+<area shape="rect" id="node7" href="$da/dee/classtest__disk__io__task.html#a955a97b94427dd160b81a3aff8e71b8d" title="test_disk_io_task::read" alt="" coords="579,165,736,192"/>
+</map>

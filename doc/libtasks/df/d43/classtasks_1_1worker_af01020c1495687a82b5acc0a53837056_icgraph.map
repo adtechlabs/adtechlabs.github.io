@@ -1,0 +1,22 @@
+<map id="tasks::worker::exec_in_worker_ctx" name="tasks::worker::exec_in_worker_ctx">
+<area shape="rect" id="node2" href="$d9/d52/classtasks_1_1disk__io__task.html#a23b21c2641131cd429ab3cab55404355" title="tasks::disk_io_task\l::dispose" alt="" coords="213,5,347,46"/>
+<area shape="rect" id="node3" href="$de/de3/classtasks_1_1io__task__base.html#af42cadd61a36bec27c067521f94cd801" title="Start a watcher in the context of the given worker. " alt="" coords="211,70,349,111"/>
+<area shape="rect" id="node4" href="$de/de3/classtasks_1_1io__task__base.html#a3ae2cf1cccb7db2337eefcfbdc4c6417" title="Stop a watcher in the context of the given worker. " alt="" coords="211,135,349,177"/>
+<area shape="rect" id="node6" href="$de/de3/classtasks_1_1io__task__base.html#a9f80b3d6463ffcf3fed9f05c1af1cca4" title="Udate a watcher in the context of the given worker. " alt="" coords="211,201,349,242"/>
+<area shape="rect" id="node12" href="$de/de3/classtasks_1_1io__task__base.html#a5cc6993fd4ddf26af94fa9f8e8f54235" title="Stop the watcher before being deleted. " alt="" coords="211,266,349,307"/>
+<area shape="rect" id="node13" href="$d0/dac/classtasks_1_1net__io__task.html#ac9af98f1bea22c48939d657d88293067" title="tasks::net_io_task\l::add_task" alt="" coords="215,331,345,373"/>
+<area shape="rect" id="node14" href="$d5/d9a/classtasks_1_1timer__task.html#a85b31b79bef51662df50e51c886ee771" title="Activate the underlying watcher to listen for I/O or timer events. " alt="" coords="215,397,345,438"/>
+<area shape="rect" id="node17" href="$d5/d9a/classtasks_1_1timer__task.html#a563b2f6c2547dfc434a3d5014b3a2cda" title="Deactivate the underlying watcher. " alt="" coords="215,462,345,503"/>
+<area shape="rect" id="node18" href="$da/d73/classtasks_1_1net_1_1uwsgi__thrift__async__processor.html#aeb5947eb5c8c5c817d8ffa0c91641f9b" title="tasks::net::uwsgi_thrift\l_async_processor::handle\l_request" alt="" coords="193,527,367,583"/>
+<area shape="rect" id="node19" href="$de/d04/namespacetasks.html#a3e33e373b9dbf11285de417da82fd269" title="Callback for async events. " alt="" coords="212,606,348,647"/>
+<area shape="rect" id="node21" href="$df/d43/classtasks_1_1worker.html#a78137585b4cd36523d0c0f2888be3204" title="Same as exec_in_ctx(task_func_t f) " alt="" coords="195,672,365,699"/>
+<area shape="rect" id="node5" href="$d5/d2c/classtasks_1_1net_1_1http__sender.html#aa557541342d08a5b760a7ab8ef0a01cf" title="tasks::net::http_sender\l::send" alt="" coords="417,135,573,177"/>
+<area shape="rect" id="node7" href="$d5/d2c/classtasks_1_1net_1_1http__sender.html#a05a811e7a63c526de3e1bf9c92aeb3ba" title="tasks::net::http_sender\l::handle_event" alt="" coords="417,201,573,242"/>
+<area shape="rect" id="node8" href="$d1/da5/classtasks_1_1net_1_1uwsgi__task.html#ae36e9d54f000a845707dca0f80c97031" title="tasks::net::uwsgi_task\l::handle_event" alt="" coords="417,266,572,307"/>
+<area shape="rect" id="node9" href="$d1/da5/classtasks_1_1net_1_1uwsgi__task.html#a049774118f72950828da30a7af01e10f" title="tasks::net::uwsgi_task\l::send_response" alt="" coords="417,331,572,373"/>
+<area shape="rect" id="node10" href="$d7/d8f/classuwsgi__handler.html#a27cb6c799556b646dae3b9749204b0b9" title="uwsgi_handler::handle\l_request" alt="" coords="638,266,789,307"/>
+<area shape="rect" id="node11" href="$d3/d84/classtasks_1_1net_1_1uwsgi__thrift__processor.html#a0db99757d968baf1fccf273b130e13d0" title="tasks::net::uwsgi_thrift\l_processor::handle_request" alt="" coords="622,331,805,373"/>
+<area shape="rect" id="node15" href="$d6/dc9/classtasks_1_1dispatcher.html#a6fc3fb597041623eb87c696364a0a08c" title="tasks::dispatcher::\lremove_event_task" alt="" coords="427,397,563,438"/>
+<area shape="rect" id="node16" href="$d6/dc9/classtasks_1_1dispatcher.html#aa63903229ad8948e8fc48a1131fd77a3" title="Remove a task from the system. " alt="" coords="648,397,779,438"/>
+<area shape="rect" id="node20" href="$df/d43/classtasks_1_1worker.html#a542a75d46dcfb36e76eef52f6ce9354e" title="tasks::worker::worker" alt="" coords="421,613,569,640"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="tasks::worker::add_async_event" name="tasks::worker::add_async_event">
+<area shape="rect" id="node2" href="$d9/d52/classtasks_1_1disk__io__task.html#ae03ee8a0504e129f628f67962cb8b415" title="tasks::disk_io_task::op" alt="" coords="184,41,341,68"/>
+<area shape="rect" id="node3" href="$d9/d52/classtasks_1_1disk__io__task.html#ac6adaca03bc7cb027c868c39c8b525af" title="tasks::disk_io_task\l::add_task" alt="" coords="390,34,525,75"/>
+<area shape="rect" id="node4" href="$da/dee/classtest__disk__io__task.html#a9c25624668ac4fb05d80c9e2f6248e3a" title="test_disk_io_task::\lwrite" alt="" coords="586,5,718,46"/>
+<area shape="rect" id="node5" href="$da/dee/classtest__disk__io__task.html#a955a97b94427dd160b81a3aff8e71b8d" title="test_disk_io_task::read" alt="" coords="573,71,731,97"/>
+</map>

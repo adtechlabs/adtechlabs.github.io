@@ -1,0 +1,9 @@
+<map id="tasks::tasks_exception::what" name="tasks::tasks_exception::what">
+<area shape="rect" id="node2" href="$dc/d51/classtasks_1_1net_1_1acceptor.html#ae2ef0a755b9c3ffbefa0939c498a919d" title="tasks::net::acceptor\l::acceptor" alt="" coords="231,5,369,46"/>
+<area shape="rect" id="node3" href="$dc/d51/classtasks_1_1net_1_1acceptor.html#ae137081dc29022fa770536dfc459f365" title="tasks::net::acceptor\l::handle_event" alt="" coords="231,70,369,111"/>
+<area shape="rect" id="node4" href="$de/d57/classecho__handler.html#a1b2bf191622c4bcb2ac1d25c2da4cc45" title="echo_handler::handle\l_event" alt="" coords="227,135,373,177"/>
+<area shape="rect" id="node5" href="$d5/d08/http__client_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="275,201,325,228"/>
+<area shape="rect" id="node6" href="$d7/d5b/classtest__http__sender.html#a97a41903cd3c4b2525f268dca57b4671" title="test_http_sender::requests" alt="" coords="211,252,389,279"/>
+<area shape="rect" id="node7" href="$d5/d6c/classtest__socket.html#a3e22f36f531e046ff56d124d017a7022" title="test_socket::unix" alt="" coords="239,303,361,329"/>
+<area shape="rect" id="node8" href="$d1/da5/classtasks_1_1net_1_1uwsgi__task.html#ae36e9d54f000a845707dca0f80c97031" title="tasks::net::uwsgi_task\l::handle_event" alt="" coords="223,354,377,395"/>
+</map>

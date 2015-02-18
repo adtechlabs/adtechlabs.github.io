@@ -1,0 +1,22 @@
+<map id="test_http_sender.h" name="test_http_sender.h">
+<area shape="rect" id="node5" href="$da/d73/dispatcher_8h.html" title="tasks/dispatcher.h" alt="" coords="846,403,975,429"/>
+<area shape="rect" id="node22" href="$dc/d28/net__io__task_8h.html" title="tasks/net_io_task.h" alt="" coords="703,171,837,197"/>
+<area shape="rect" id="node38" href="$db/db0/http__sender_8h.html" title="tasks/net/http_sender.h" alt="" coords="1993,88,2151,115"/>
+<area shape="rect" id="node13" href="$d7/d68/ev__wrapper_8h.html" title="tasks/ev_wrapper.h" alt="" coords="635,485,769,512"/>
+<area shape="rect" id="node15" href="$d1/d69/bitset_8h.html" title="tasks/tools/bitset.h" alt="" coords="1112,485,1245,512"/>
+<area shape="rect" id="node18" href="$d5/d77/logging_8h.html" title="tasks/logging.h" alt="" coords="2521,485,2631,512"/>
+<area shape="rect" id="node23" href="$da/d21/io__task__base_8h.html" title="tasks/io_task_base.h" alt="" coords="673,245,820,272"/>
+<area shape="rect" id="node33" href="$da/ddd/socket_8h.html" title="tasks/net/socket.h" alt="" coords="1683,403,1812,429"/>
+<area shape="rect" id="node24" href="$df/d29/event__task_8h.html" title="tasks/event_task.h" alt="" coords="1088,320,1221,347"/>
+<area shape="rect" id="node31" href="$d5/dbe/disposable_8h.html" title="tasks/disposable.h" alt="" coords="328,320,457,347"/>
+<area shape="rect" id="node32" href="$dd/d9a/io__base_8h.html" title="tasks/io_base.h" alt="" coords="211,485,325,512"/>
+<area shape="rect" id="node25" href="$db/da4/task_8h.html" title="tasks/task.h" alt="" coords="1838,403,1932,429"/>
+<area shape="rect" id="node27" href="$d9/d69/error__base_8h.html" title="tasks/error_base.h" alt="" coords="1427,403,1556,429"/>
+<area shape="rect" id="node30" href="$d9/df0/tasks__exception_8h.html" title="tasks/tasks_exception.h" alt="" coords="1321,485,1484,512"/>
+<area shape="rect" id="node39" href="$da/da5/worker_8h.html" title="tasks/worker.h" alt="" coords="1541,245,1648,272"/>
+<area shape="rect" id="node41" href="$d2/de4/http__request_8h.html" title="tasks/net/http_request.h" alt="" coords="2168,171,2331,197"/>
+<area shape="rect" id="node50" href="$de/d49/http__response_8h.html" title="tasks/net/http_response.h" alt="" coords="2363,171,2536,197"/>
+<area shape="rect" id="node42" href="$da/d94/http__base_8h.html" title="tasks/net/http_base.h" alt="" coords="2422,320,2569,347"/>
+<area shape="rect" id="node48" href="$de/d76/io__state_8h.html" title="tasks/net/io_state.h" alt="" coords="2997,403,3133,429"/>
+<area shape="rect" id="node49" href="$d5/d08/buffer_8h.html" title="tasks/tools/buffer.h" alt="" coords="2211,403,2345,429"/>
+</map>

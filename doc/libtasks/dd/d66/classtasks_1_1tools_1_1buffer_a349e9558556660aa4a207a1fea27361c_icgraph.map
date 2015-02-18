@@ -1,0 +1,11 @@
+<map id="tasks::tools::buffer::to_write" name="tasks::tools::buffer::to_write">
+<area shape="rect" id="node2" href="$d9/d52/classtasks_1_1disk__io__task.html#ae03ee8a0504e129f628f67962cb8b415" title="tasks::disk_io_task::op" alt="" coords="192,41,349,68"/>
+<area shape="rect" id="node6" href="$d5/d2f/classtasks_1_1net_1_1http__response.html#a6f329fee1d60843a18d073dc32c86ca1" title="tasks::net::http_response\l::read_data" alt="" coords="185,93,356,134"/>
+<area shape="rect" id="node7" href="$d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a9c0afb5a06ed140599e7e980f22c2bbf" title="tasks::net::uwsgi_request\l::read_vars" alt="" coords="185,158,357,199"/>
+<area shape="rect" id="node10" href="$d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a2670c87604212f49c98e61e8c09bfebd" title="tasks::net::uwsgi_request\l::read_content" alt="" coords="185,223,357,265"/>
+<area shape="rect" id="node3" href="$d9/d52/classtasks_1_1disk__io__task.html#ac6adaca03bc7cb027c868c39c8b525af" title="tasks::disk_io_task\l::add_task" alt="" coords="425,34,559,75"/>
+<area shape="rect" id="node4" href="$da/dee/classtest__disk__io__task.html#a9c25624668ac4fb05d80c9e2f6248e3a" title="test_disk_io_task::\lwrite" alt="" coords="639,5,771,46"/>
+<area shape="rect" id="node5" href="$da/dee/classtest__disk__io__task.html#a955a97b94427dd160b81a3aff8e71b8d" title="test_disk_io_task::read" alt="" coords="627,71,784,97"/>
+<area shape="rect" id="node8" href="$d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a191aa6626c9e448409660046ef4619b7" title="tasks::net::uwsgi_request\l::read_data" alt="" coords="406,190,578,231"/>
+<area shape="rect" id="node9" href="$d1/da5/classtasks_1_1net_1_1uwsgi__task.html#ae36e9d54f000a845707dca0f80c97031" title="tasks::net::uwsgi_task\l::handle_event" alt="" coords="628,190,783,231"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="tasks::net::uwsgi_thrift_processor::handle_request" name="tasks::net::uwsgi_thrift_processor::handle_request">
+<area shape="rect" id="node2" href="$d1/da5/classtasks_1_1net_1_1uwsgi__task.html#ad09bad790f8ca92ad615ee7ac27e6450" title="tasks::net::uwsgi_task\l::request_p" alt="" coords="245,5,400,46"/>
+<area shape="rect" id="node3" href="$d1/da5/classtasks_1_1net_1_1uwsgi__task.html#a1a1a8f34968d69aac160c5fdbf1a0af9" title="tasks::net::uwsgi_task\l::response_p" alt="" coords="245,70,400,111"/>
+<area shape="rect" id="node4" href="$d1/da5/classtasks_1_1net_1_1uwsgi__task.html#afc0dfec6ae11b0ca0228be9ee603eeb4" title="tasks::net::uwsgi_task\l::response" alt="" coords="245,135,400,177"/>
+<area shape="rect" id="node5" href="$d5/d2f/classtasks_1_1net_1_1http__response.html#ac5fc8b7ee8c6b4bfb2f64a596fb05c29" title="tasks::net::http_response\l::set_status" alt="" coords="237,201,408,242"/>
+<area shape="rect" id="node7" href="$d8/d49/classtasks_1_1error__base.html#a8d9ac4103fa0513280b2be58625002fe" title="Set an exception to report an error. " alt="" coords="257,266,388,307"/>
+<area shape="rect" id="node8" href="$d5/d84/classtasks_1_1net_1_1http__base.html#a2ade4fa3b41f57b280683eff053f5bc5" title="tasks::net::http_base\l::set_header" alt="" coords="250,331,395,373"/>
+<area shape="rect" id="node10" href="$d1/da5/classtasks_1_1net_1_1uwsgi__task.html#a049774118f72950828da30a7af01e10f" title="tasks::net::uwsgi_task\l::send_response" alt="" coords="245,410,400,451"/>
+<area shape="rect" id="node6" href="$d5/d2f/classtasks_1_1net_1_1http__response.html#a4d33ac9e26dfcef21b6d9dcf0eaad3fa" title="tasks::net::http_response\l::status" alt="" coords="456,201,627,242"/>
+<area shape="rect" id="node9" href="$d5/d84/classtasks_1_1net_1_1http__base.html#a9e35f8333a96606212d57e40481687f1" title="tasks::net::http_base\l::header" alt="" coords="469,318,614,359"/>
+<area shape="rect" id="node11" href="$df/d43/classtasks_1_1worker.html#af9d8fcab43c8b5e4b98374babd5d8884" title="Provide access to the executing worker thread object in the current thread context. " alt="" coords="910,453,1037,480"/>
+<area shape="rect" id="node12" href="$de/de3/classtasks_1_1io__task__base.html#acc0fd61e882c4cadc71bebc6b71906bd" title="Update the events the object monitors. " alt="" coords="472,435,611,477"/>
+<area shape="rect" id="node15" href="$de/de3/classtasks_1_1io__task__base.html#a9f80b3d6463ffcf3fed9f05c1af1cca4" title="Udate a watcher in the context of the given worker. " alt="" coords="472,566,611,607"/>
+<area shape="rect" id="node13" href="$de/de3/classtasks_1_1io__task__base.html#a91ca05cd25045bf71d7012fa7dffce29" title="tasks::io_task_base\l::get_string" alt="" coords="688,501,827,542"/>
+<area shape="rect" id="node14" href="$de/de3/classtasks_1_1io__task__base.html#a13443986e9978674fc95c1baf0375180" title="Return the monitored events. " alt="" coords="688,435,827,477"/>
+<area shape="rect" id="node16" href="$df/d43/classtasks_1_1worker.html#af01020c1495687a82b5acc0a53837056" title="tasks::worker::exec\l_in_worker_ctx" alt="" coords="689,566,826,607"/>
+<area shape="rect" id="node18" href="$de/de3/classtasks_1_1io__task__base.html#a92e3afa31b892d26a1cd5ada0a8e2c3d" title="Return the io_base object. " alt="" coords="675,632,839,659"/>
+<area shape="rect" id="node19" href="$d8/dc6/classio__base.html#adc05fe8d252619fbb09af87852ec7acb" title="io_base::fd" alt="" coords="714,683,801,709"/>
+<area shape="rect" id="node17" href="$df/d43/classtasks_1_1worker.html#a49ce862b14b1ec7d08ad9ae3e34a8f61" title="Put a functor into the async work queue of a worker and notify it. " alt="" coords="888,573,1059,600"/>
+</map>

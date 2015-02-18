@@ -1,0 +1,7 @@
+<map id="tasks::net_io_task::~net_io_task" name="tasks::net_io_task::~net_io_task">
+<area shape="rect" id="node2" href="$d0/dac/classtasks_1_1net__io__task.html#a539d229727ed78d1a3b87594a93fd08d" title="A debug helper. " alt="" coords="185,49,314,90"/>
+<area shape="rect" id="node6" href="$d8/dc6/classio__base.html#aa9e9f5eba342c4b88138abaaf3856109" title="io_base::close" alt="" coords="196,115,303,141"/>
+<area shape="rect" id="node3" href="$d0/dac/classtasks_1_1net__io__task.html#a8e88dbef17d74fd0e01680d103c85e41" title="Grant socket access to the io_task_base. " alt="" coords="363,5,517,32"/>
+<area shape="rect" id="node4" href="$d8/dc6/classio__base.html#adc05fe8d252619fbb09af87852ec7acb" title="io_base::fd" alt="" coords="397,56,483,83"/>
+<area shape="rect" id="node5" href="$de/de3/classtasks_1_1io__task__base.html#a13443986e9978674fc95c1baf0375180" title="Return the monitored events. " alt="" coords="371,107,509,149"/>
+</map>

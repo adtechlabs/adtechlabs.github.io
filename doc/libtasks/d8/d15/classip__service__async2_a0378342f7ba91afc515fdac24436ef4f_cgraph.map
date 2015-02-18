@@ -1,0 +1,9 @@
+<map id="ip_service_async2::service" name="ip_service_async2::service">
+<area shape="rect" id="node2" href="$de/d04/namespacetasks.html#acbaa29475c3e90809925bd54efdabd61" title="Execute code in a separate executor thread. " alt="" coords="237,12,328,39"/>
+<area shape="rect" id="node4" href="$d8/d64/classtasks_1_1net_1_1uwsgi__thrift__async__handler.html#addd8d3a4738dfdb80a2af1c3d1f1f6a4" title="tasks::net::uwsgi_thrift\l_async_handler\&lt; IpService\l_lookup_result, IpService\l_lookup_args \&gt;::result" alt="" coords="193,63,373,134"/>
+<area shape="rect" id="node5" href="$d8/d64/classtasks_1_1net_1_1uwsgi__thrift__async__handler.html#a645feca93565947c36bb89194d9ad956" title="tasks::net::uwsgi_thrift\l_async_handler\&lt; IpService\l_lookup_result, IpService\l_lookup_args \&gt;::set_error" alt="" coords="193,158,373,229"/>
+<area shape="rect" id="node7" href="$d8/d64/classtasks_1_1net_1_1uwsgi__thrift__async__handler.html#ad39ace6c5d1a7da07b2e311b15bf58a3" title="tasks::net::uwsgi_thrift\l_async_handler\&lt; IpService\l_lookup_result, IpService\l_lookup_args \&gt;::finish" alt="" coords="193,253,373,323"/>
+<area shape="rect" id="node8" href="$d7/d81/test__uwsgi__thrift__async_8cpp.html#a09fa0b460e85d39180f49e7ea91257f2" title="g_finished" alt="" coords="242,348,323,375"/>
+<area shape="rect" id="node3" href="$d6/dc9/classtasks_1_1dispatcher.html#a36c445936d02e0bdd2f6d064311efb5e" title="tasks::dispatcher::\linstance" alt="" coords="421,5,552,46"/>
+<area shape="rect" id="node6" href="$d8/d49/classtasks_1_1error__base.html#a8d9ac4103fa0513280b2be58625002fe" title="Set an exception to report an error. " alt="" coords="421,173,552,214"/>
+</map>

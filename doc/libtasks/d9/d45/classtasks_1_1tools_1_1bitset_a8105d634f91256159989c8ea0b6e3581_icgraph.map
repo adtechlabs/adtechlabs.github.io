@@ -1,0 +1,8 @@
+<map id="tasks::tools::bitset::toggle" name="tasks::tools::bitset::toggle">
+<area shape="rect" id="node2" href="$d9/d45/classtasks_1_1tools_1_1bitset.html#a7aa917a033cfa6443b7978d8934bdef8" title="tasks::tools::bitset\l::unset" alt="" coords="184,121,315,162"/>
+<area shape="rect" id="node6" href="$d1/d42/test__bitset_8cpp.html#a784ba4b2d0e67101fda9c0975503abe5" title="full_iteration" alt="" coords="382,187,474,213"/>
+<area shape="rect" id="node3" href="$d6/dc9/classtasks_1_1dispatcher.html#ab1de50ccbc2a1d653a5b80be64d2f3b5" title="Start the event loop. Do not block. " alt="" coords="363,5,493,46"/>
+<area shape="rect" id="node5" href="$d6/dc9/classtasks_1_1dispatcher.html#ac5c95726ce1f6d98d9c9d27557fbddb3" title="Get a free worker to promote it to the leader. " alt="" coords="363,70,493,111"/>
+<area shape="rect" id="node7" href="$d4/d6d/classtest__bitset.html#a0d253545483db3fd857c19f88e48fb94" title="test_bitset::test" alt="" coords="559,161,673,188"/>
+<area shape="rect" id="node4" href="$d6/dc9/classtasks_1_1dispatcher.html#af94da68a83d84223856f73d0279ebbff" title="This method starts the system and blocks until terminate() gets called. " alt="" coords="542,12,690,39"/>
+</map>

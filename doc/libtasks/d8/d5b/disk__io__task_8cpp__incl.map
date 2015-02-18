@@ -1,0 +1,13 @@
+<map id="disk_io_task.cpp" name="disk_io_task.cpp">
+<area shape="rect" id="node2" href="$da/da5/worker_8h.html" title="tasks/worker.h" alt="" coords="993,80,1100,107"/>
+<area shape="rect" id="node16" href="$d5/d77/logging_8h.html" title="tasks/logging.h" alt="" coords="30,304,140,331"/>
+<area shape="rect" id="node28" href="$db/d12/disk__io__task_8h.html" title="tasks/disk_io_task.h" alt="" coords="385,80,527,107"/>
+<area shape="rect" id="node3" href="$da/d73/dispatcher_8h.html" title="tasks/dispatcher.h" alt="" coords="1209,229,1337,256"/>
+<area shape="rect" id="node11" href="$d7/d68/ev__wrapper_8h.html" title="tasks/ev_wrapper.h" alt="" coords="1704,304,1839,331"/>
+<area shape="rect" id="node20" href="$df/d29/event__task_8h.html" title="tasks/event_task.h" alt="" coords="616,155,749,181"/>
+<area shape="rect" id="node13" href="$d1/d69/bitset_8h.html" title="tasks/tools/bitset.h" alt="" coords="1197,304,1331,331"/>
+<area shape="rect" id="node21" href="$db/da4/task_8h.html" title="tasks/task.h" alt="" coords="635,229,729,256"/>
+<area shape="rect" id="node23" href="$d9/d69/error__base_8h.html" title="tasks/error_base.h" alt="" coords="469,229,599,256"/>
+<area shape="rect" id="node26" href="$d9/df0/tasks__exception_8h.html" title="tasks/tasks_exception.h" alt="" coords="457,304,620,331"/>
+<area shape="rect" id="node29" href="$d5/d08/buffer_8h.html" title="tasks/tools/buffer.h" alt="" coords="305,229,439,256"/>
+</map>

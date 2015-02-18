@@ -1,0 +1,10 @@
+<map id="echo_handler::handle_event" name="echo_handler::handle_event">
+<area shape="rect" id="node2" href="$d5/d79/classtasks_1_1net_1_1socket.html#a08fdb04977ad536af7d5222348007a3a" title="tasks::net::socket\l::read" alt="" coords="215,30,342,71"/>
+<area shape="rect" id="node5" href="$d2/d2f/classtasks_1_1tasks__exception.html#aca46805d75065a66342caff1892097d7" title="Return the error message. " alt="" coords="200,161,357,202"/>
+<area shape="rect" id="node6" href="$d5/d79/classtasks_1_1net_1_1socket.html#a1730bf0b7cdfe224a3d9b0b58400f05c" title="tasks::net::socket\l::write" alt="" coords="215,95,342,137"/>
+<area shape="rect" id="node9" href="$d2/da7/classstats.html#a89fe7d71d7b37cf174213d9387622c5b" title="stats::inc_req" alt="" coords="228,227,329,253"/>
+<area shape="rect" id="node3" href="$d5/d79/classtasks_1_1net_1_1socket.html#ab395b344aec48b4e41e27542709c3609" title="tasks::net::socket\l::addr" alt="" coords="421,5,547,46"/>
+<area shape="rect" id="node4" href="$d5/d79/classtasks_1_1net_1_1socket.html#aeec4664123928381e60ab090995a3687" title="tasks::net::socket::udp" alt="" coords="406,71,562,97"/>
+<area shape="rect" id="node7" href="$d5/d79/classtasks_1_1net_1_1socket.html#afad539f32d439ff911cee347cf88a8e2" title="tasks::net::socket\l::socket" alt="" coords="421,122,547,163"/>
+<area shape="rect" id="node8" href="$d5/d79/classtasks_1_1net_1_1socket.html#ad8f488ff605cf79a21d52873f338511b" title="tasks::net::socket\l::init_sockaddr" alt="" coords="421,187,547,229"/>
+</map>

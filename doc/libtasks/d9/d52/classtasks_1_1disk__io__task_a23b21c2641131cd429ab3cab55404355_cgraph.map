@@ -1,0 +1,7 @@
+<map id="tasks::disk_io_task::dispose" name="tasks::disk_io_task::dispose">
+<area shape="rect" id="node2" href="$d6/dc9/classtasks_1_1dispatcher.html#a36c445936d02e0bdd2f6d064311efb5e" title="tasks::dispatcher::\linstance" alt="" coords="193,5,324,46"/>
+<area shape="rect" id="node3" href="$df/d43/classtasks_1_1worker.html#af01020c1495687a82b5acc0a53837056" title="tasks::worker::exec\l_in_worker_ctx" alt="" coords="190,70,327,111"/>
+<area shape="rect" id="node6" href="$d9/d52/classtasks_1_1disk__io__task.html#a8adebd8e684bff34afc19387bc4b16ac" title="tasks::disk_io_task\l::get_string" alt="" coords="191,135,326,177"/>
+<area shape="rect" id="node4" href="$df/d43/classtasks_1_1worker.html#af9d8fcab43c8b5e4b98374babd5d8884" title="Provide access to the executing worker thread object in the current thread context. " alt="" coords="398,52,525,79"/>
+<area shape="rect" id="node5" href="$df/d43/classtasks_1_1worker.html#a49ce862b14b1ec7d08ad9ae3e34a8f61" title="Put a functor into the async work queue of a worker and notify it. " alt="" coords="376,103,547,129"/>
+</map>

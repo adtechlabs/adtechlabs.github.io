@@ -1,0 +1,5 @@
+<map id="tasks::tools::buffer::xsgetn" name="tasks::tools::buffer::xsgetn">
+<area shape="rect" id="node2" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#a4aa78ebe1f30b9516503840a996ca0e1" title="tasks::tools::buffer\l::read" alt="" coords="184,38,315,79"/>
+<area shape="rect" id="node3" href="$d5/d84/classtasks_1_1net_1_1http__base.html#af9598789f0ef6a1e9f93cf208e5597c7" title="tasks::net::http_base\l::read" alt="" coords="377,5,522,46"/>
+<area shape="rect" id="node4" href="$d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a145d041d91e49d02c96dadfd7bb4527c" title="tasks::net::uwsgi_request\l::read" alt="" coords="363,70,535,111"/>
+</map>

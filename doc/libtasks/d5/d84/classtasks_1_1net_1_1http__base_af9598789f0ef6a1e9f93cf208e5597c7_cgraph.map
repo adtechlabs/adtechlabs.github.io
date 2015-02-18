@@ -1,0 +1,7 @@
+<map id="tasks::net::http_base::read" name="tasks::net::http_base::read">
+<area shape="rect" id="node2" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#a4aa78ebe1f30b9516503840a996ca0e1" title="tasks::tools::buffer\l::read" alt="" coords="200,38,331,79"/>
+<area shape="rect" id="node3" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#a92afa6540d886099f72343eae8e4323e" title="tasks::tools::buffer\l::xsgetn" alt="" coords="379,38,509,79"/>
+<area shape="rect" id="node4" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#af5630314b25a87931d442e3b457c09e4" title="tasks::tools::buffer\l::size" alt="" coords="557,5,688,46"/>
+<area shape="rect" id="node5" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#a45b0a29d59c21606a91fea4e30b493a3" title="tasks::tools::buffer\l::to_read" alt="" coords="557,70,688,111"/>
+<area shape="rect" id="node6" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#a7ba8895adf0e926c085e69b3b5f9654a" title="tasks::tools::buffer\l::ptr_end" alt="" coords="736,70,867,111"/>
+</map>

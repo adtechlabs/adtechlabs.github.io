@@ -1,0 +1,7 @@
+<map id="tasks::tasks_exception::error_code" name="tasks::tasks_exception::error_code">
+<area shape="rect" id="node2" href="$d8/d49/classtasks_1_1error__base.html#a8584b2fe6056ef434ceeeb5f7a72f761" title="Return true if an error occured. " alt="" coords="235,5,365,46"/>
+<area shape="rect" id="node5" href="$d8/d49/classtasks_1_1error__base.html#a66248de29507b7f05b791a884962a13c" title="Return the error code. " alt="" coords="235,70,365,111"/>
+<area shape="rect" id="node6" href="$d7/d5b/classtest__http__sender.html#ad6eb21909fa498e6238c0e84a91bb3c3" title="test_http_sender::requests\l_close" alt="" coords="211,135,389,177"/>
+<area shape="rect" id="node3" href="$df/d43/classtasks_1_1worker.html#a3a5d28cada13ab34ea812d206e7ca6f3" title="Main method of the thread. " alt="" coords="438,12,565,39"/>
+<area shape="rect" id="node4" href="$df/d43/classtasks_1_1worker.html#a542a75d46dcfb36e76eef52f6ce9354e" title="tasks::worker::worker" alt="" coords="614,12,762,39"/>
+</map>

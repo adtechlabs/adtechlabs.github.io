@@ -1,0 +1,15 @@
+<map id="tasks::net_io_task::add_task" name="tasks::net_io_task::add_task">
+<area shape="rect" id="node2" href="$df/d43/classtasks_1_1worker.html#af01020c1495687a82b5acc0a53837056" title="tasks::worker::exec\l_in_worker_ctx" alt="" coords="185,49,322,90"/>
+<area shape="rect" id="node5" href="$d0/dac/classtasks_1_1net__io__task.html#a539d229727ed78d1a3b87594a93fd08d" title="A debug helper. " alt="" coords="189,171,318,213"/>
+<area shape="rect" id="node9" href="$de/de3/classtasks_1_1io__task__base.html#a2cc08c934cd5bbb207339597d7ca2776" title="Initialize the watcher. " alt="" coords="184,262,323,303"/>
+<area shape="rect" id="node12" href="$d6/d2e/classtasks_1_1event__task.html#a1bed1d92dbf4b293948bf6123be5ff78" title="tasks::event_task::\lassign_worker" alt="" coords="186,327,321,369"/>
+<area shape="rect" id="node14" href="$de/de3/classtasks_1_1io__task__base.html#a1c44e2d0f99e26b2b841868917c611f1" title="Return the io watcher object. " alt="" coords="184,393,323,434"/>
+<area shape="rect" id="node3" href="$df/d43/classtasks_1_1worker.html#af9d8fcab43c8b5e4b98374babd5d8884" title="Provide access to the executing worker thread object in the current thread context. " alt="" coords="393,5,519,32"/>
+<area shape="rect" id="node4" href="$df/d43/classtasks_1_1worker.html#a49ce862b14b1ec7d08ad9ae3e34a8f61" title="Put a functor into the async work queue of a worker and notify it. " alt="" coords="371,56,541,83"/>
+<area shape="rect" id="node6" href="$d0/dac/classtasks_1_1net__io__task.html#a8e88dbef17d74fd0e01680d103c85e41" title="Grant socket access to the io_task_base. " alt="" coords="379,107,533,133"/>
+<area shape="rect" id="node7" href="$d8/dc6/classio__base.html#adc05fe8d252619fbb09af87852ec7acb" title="io_base::fd" alt="" coords="413,224,499,251"/>
+<area shape="rect" id="node8" href="$de/de3/classtasks_1_1io__task__base.html#a13443986e9978674fc95c1baf0375180" title="Return the monitored events. " alt="" coords="387,158,525,199"/>
+<area shape="rect" id="node10" href="$de/de3/classtasks_1_1io__task__base.html#a91ca05cd25045bf71d7012fa7dffce29" title="tasks::io_task_base\l::get_string" alt="" coords="387,275,525,317"/>
+<area shape="rect" id="node11" href="$de/de3/classtasks_1_1io__task__base.html#a92e3afa31b892d26a1cd5ada0a8e2c3d" title="Return the io_base object. " alt="" coords="374,341,538,368"/>
+<area shape="rect" id="node13" href="$d6/dc9/classtasks_1_1dispatcher.html#a274be124d8a11e9a68a8debb69daac0b" title="tasks::dispatcher::\lrun_mode" alt="" coords="391,393,521,434"/>
+</map>

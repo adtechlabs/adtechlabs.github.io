@@ -1,0 +1,7 @@
+<map id="tasks::executor::run" name="tasks::executor::run">
+<area shape="rect" id="node2" href="$da/de3/classtasks_1_1exec__task.html#a9b82efc32053c6cd5b761e2f9e4c2706" title="tasks::exec_task::execute" alt="" coords="192,12,368,39"/>
+<area shape="rect" id="node4" href="$d7/d3c/classtasks_1_1task.html#af5a79fa4e4500894378a1cdfbcde7550" title="Returns true if auto deletion is active. " alt="" coords="199,63,361,89"/>
+<area shape="rect" id="node5" href="$d7/d3c/classtasks_1_1task.html#a6760521fd40b9ec2797089281bc549bb" title="Called by a worker when a task has auto_deletion enabled. " alt="" coords="217,113,343,140"/>
+<area shape="rect" id="node3" href="$da/de3/classtasks_1_1exec__task.html#abd3af37b399c205e1ec48e960497a9fc" title="tasks::exec_task::get\l_string" alt="" coords="417,5,565,46"/>
+<area shape="rect" id="node6" href="$d6/dc9/classtasks_1_1dispatcher.html#a36c445936d02e0bdd2f6d064311efb5e" title="tasks::dispatcher::\linstance" alt="" coords="425,106,556,147"/>
+</map>

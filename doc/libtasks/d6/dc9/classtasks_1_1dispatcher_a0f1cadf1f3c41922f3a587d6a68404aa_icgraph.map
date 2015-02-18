@@ -1,0 +1,7 @@
+<map id="tasks::dispatcher::get_worker_by_task" name="tasks::dispatcher::get_worker_by_task">
+<area shape="rect" id="node2" href="$d6/dc9/classtasks_1_1dispatcher.html#a1ed405b5465b95f8fd79d68aa460fcf6" title="Add an event task to the system. " alt="" coords="195,5,325,46"/>
+<area shape="rect" id="node5" href="$d6/dc9/classtasks_1_1dispatcher.html#a6fc3fb597041623eb87c696364a0a08c" title="tasks::dispatcher::\lremove_event_task" alt="" coords="192,70,328,111"/>
+<area shape="rect" id="node3" href="$d6/dc9/classtasks_1_1dispatcher.html#adea6e284569cb76d49aaf4dc8b780b60" title="tasks::dispatcher::\ladd_task" alt="" coords="376,5,507,46"/>
+<area shape="rect" id="node4" href="$d6/dc9/classtasks_1_1dispatcher.html#af94da68a83d84223856f73d0279ebbff" title="This method starts the system and blocks until terminate() gets called. " alt="" coords="555,12,703,39"/>
+<area shape="rect" id="node6" href="$d6/dc9/classtasks_1_1dispatcher.html#aa63903229ad8948e8fc48a1131fd77a3" title="Remove a task from the system. " alt="" coords="376,70,507,111"/>
+</map>

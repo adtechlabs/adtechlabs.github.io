@@ -1,0 +1,18 @@
+<map id="test_disk_io_task::read" name="test_disk_io_task::read">
+<area shape="rect" id="node2" href="$d9/d52/classtasks_1_1disk__io__task.html#ac6adaca03bc7cb027c868c39c8b525af" title="tasks::disk_io_task\l::add_task" alt="" coords="217,221,351,262"/>
+<area shape="rect" id="node16" href="$d7/d3c/classtasks_1_1task.html#a312660702dbcf9485adfbb2355bbe3e4" title="tasks::task::on_finish" alt="" coords="211,287,357,313"/>
+<area shape="rect" id="node17" href="$d9/d52/classtasks_1_1disk__io__task.html#a42e373c61d79cfefbc0be5d505f19e14" title="tasks::disk_io_task\l::bytes" alt="" coords="217,338,351,379"/>
+<area shape="rect" id="node3" href="$d9/d52/classtasks_1_1disk__io__task.html#ae03ee8a0504e129f628f67962cb8b415" title="tasks::disk_io_task::op" alt="" coords="405,228,563,255"/>
+<area shape="rect" id="node4" href="$d9/d52/classtasks_1_1disk__io__task.html#a8adebd8e684bff34afc19387bc4b16ac" title="tasks::disk_io_task\l::get_string" alt="" coords="611,5,746,46"/>
+<area shape="rect" id="node5" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#aff2ff10a6510772460f298006d29402d" title="tasks::tools::buffer\l::ptr_write" alt="" coords="815,93,945,134"/>
+<area shape="rect" id="node6" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#a349e9558556660aa4a207a1fea27361c" title="tasks::tools::buffer\l::to_write" alt="" coords="613,187,744,229"/>
+<area shape="rect" id="node8" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#ab11cdd85f5489482dae47b7ad1322832" title="tasks::tools::buffer\l::move_ptr_write" alt="" coords="613,122,744,163"/>
+<area shape="rect" id="node9" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#ad0eedb9145d09170ec24107999b9d8ee" title="tasks::tools::buffer\l::ptr_read" alt="" coords="613,253,744,294"/>
+<area shape="rect" id="node10" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#a45b0a29d59c21606a91fea4e30b493a3" title="tasks::tools::buffer\l::to_read" alt="" coords="613,318,744,359"/>
+<area shape="rect" id="node11" href="$d8/d49/classtasks_1_1error__base.html#a8d9ac4103fa0513280b2be58625002fe" title="Set an exception to report an error. " alt="" coords="613,383,744,425"/>
+<area shape="rect" id="node12" href="$df/d43/classtasks_1_1worker.html#afc2c51895085b8d50381ee14e7ff0f2a" title="Add an event to the workers queue from a different thread context. " alt="" coords="613,449,744,490"/>
+<area shape="rect" id="node7" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#a7ba8895adf0e926c085e69b3b5f9654a" title="tasks::tools::buffer\l::ptr_end" alt="" coords="815,187,945,229"/>
+<area shape="rect" id="node13" href="$d6/dc9/classtasks_1_1dispatcher.html#a36c445936d02e0bdd2f6d064311efb5e" title="tasks::dispatcher::\linstance" alt="" coords="815,390,945,431"/>
+<area shape="rect" id="node14" href="$df/d43/classtasks_1_1worker.html#a49ce862b14b1ec7d08ad9ae3e34a8f61" title="Put a functor into the async work queue of a worker and notify it. " alt="" coords="795,456,965,483"/>
+<area shape="rect" id="node15" href="$df/d43/classtasks_1_1worker.html#aa7e693790fb68e5acabccc4c86467b38" title="Add an event to the workers queue. " alt="" coords="815,507,945,549"/>
+</map>

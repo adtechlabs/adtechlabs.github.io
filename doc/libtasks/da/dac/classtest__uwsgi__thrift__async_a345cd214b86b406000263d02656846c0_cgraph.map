@@ -1,0 +1,5 @@
+<map id="test_uwsgi_thrift_async::request_finish_exec_timeout" name="test_uwsgi_thrift_async::request_finish_exec_timeout">
+<area shape="rect" id="node2" href="$d0/dac/classtasks_1_1net__io__task.html#a1fca4aa6fec6f9ace6525c7d7db8ed91" title="tasks::net_io_task\l::add_task" alt="" coords="214,5,343,46"/>
+<area shape="rect" id="node4" href="$d7/d81/test__uwsgi__thrift__async_8cpp.html#a09fa0b460e85d39180f49e7ea91257f2" title="g_finished" alt="" coords="238,71,319,97"/>
+<area shape="rect" id="node3" href="$d6/dc9/classtasks_1_1dispatcher.html#a36c445936d02e0bdd2f6d064311efb5e" title="tasks::dispatcher::\linstance" alt="" coords="392,5,523,46"/>
+</map>

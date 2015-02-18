@@ -1,0 +1,7 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$d6/dc9/classtasks_1_1dispatcher.html#a50787eb5af4f1ce048c6a41a777a4c80" title="tasks::dispatcher::\linit_run_mode" alt="" coords="108,5,239,46"/>
+<area shape="rect" id="node3" href="$d6/dc9/classtasks_1_1dispatcher.html#a2d992ff16832acb3e5ad2f92ad11e9f5" title="tasks::dispatcher::\linit_workers" alt="" coords="108,70,239,111"/>
+<area shape="rect" id="node4" href="$d8/d3f/classtasks_1_1executor.html#a11742b94f2fbc6dea377cbbb02dfe669" title="tasks::executor::set\l_timeout" alt="" coords="104,135,243,177"/>
+<area shape="rect" id="node5" href="$d6/dc9/classtasks_1_1dispatcher.html#a36c445936d02e0bdd2f6d064311efb5e" title="tasks::dispatcher::\linstance" alt="" coords="108,201,239,242"/>
+<area shape="rect" id="node6" href="$d6/dc9/classtasks_1_1dispatcher.html#a503adf4d50ad6b956a6fc59215e013b6" title="tasks::dispatcher::\ldestroy" alt="" coords="108,266,239,307"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="tasks::dispatcher::add_task" name="tasks::dispatcher::add_task">
+<area shape="rect" id="node2" href="$d6/dc9/classtasks_1_1dispatcher.html#a1ed405b5465b95f8fd79d68aa460fcf6" title="Add an event task to the system. " alt="" coords="184,165,315,206"/>
+<area shape="rect" id="node10" href="$d6/dc9/classtasks_1_1dispatcher.html#abe8e57bef3ca3f4d17cd4aeb16010d6f" title="Add an exec task to the system. " alt="" coords="184,262,315,303"/>
+<area shape="rect" id="node3" href="$d6/dc9/classtasks_1_1dispatcher.html#a0f1cadf1f3c41922f3a587d6a68404aa" title="tasks::dispatcher::\lget_worker_by_task" alt="" coords="363,34,501,75"/>
+<area shape="rect" id="node6" href="$d6/d2e/classtasks_1_1event__task.html#ade2d212c640ddc789204794821bbf17e" title="Initialize the underlying watcher object. " alt="" coords="365,99,499,141"/>
+<area shape="rect" id="node7" href="$d6/d2e/classtasks_1_1event__task.html#a1bed1d92dbf4b293948bf6123be5ff78" title="tasks::event_task::\lassign_worker" alt="" coords="365,165,499,206"/>
+<area shape="rect" id="node9" href="$d6/d2e/classtasks_1_1event__task.html#ac31f9ced1d3a67eeaf31db102e84aa16" title="Activate the underlying watcher to listen for I/O or timer events. " alt="" coords="365,230,499,271"/>
+<area shape="rect" id="node4" href="$d6/d2e/classtasks_1_1event__task.html#a9b59758202bc6620312a161d8ecf097a" title="Returns a pointer to the assigned worker. " alt="" coords="550,5,685,46"/>
+<area shape="rect" id="node5" href="$df/d43/classtasks_1_1worker.html#af9d8fcab43c8b5e4b98374babd5d8884" title="Provide access to the executing worker thread object in the current thread context. " alt="" coords="554,71,681,97"/>
+<area shape="rect" id="node8" href="$d6/dc9/classtasks_1_1dispatcher.html#a274be124d8a11e9a68a8debb69daac0b" title="tasks::dispatcher::\lrun_mode" alt="" coords="552,165,683,206"/>
+<area shape="rect" id="node11" href="$d6/dc9/classtasks_1_1dispatcher.html#a6f0b2249ffcd21a10196f709ba06ed92" title="Find a free executor. If non is found a new executor gets created. " alt="" coords="367,295,497,337"/>
+</map>

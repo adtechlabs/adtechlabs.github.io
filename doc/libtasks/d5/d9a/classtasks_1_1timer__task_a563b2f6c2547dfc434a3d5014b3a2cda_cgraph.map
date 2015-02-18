@@ -1,0 +1,6 @@
+<map id="tasks::timer_task::stop_watcher" name="tasks::timer_task::stop_watcher">
+<area shape="rect" id="node2" href="$df/d43/classtasks_1_1worker.html#af01020c1495687a82b5acc0a53837056" title="tasks::worker::exec\l_in_worker_ctx" alt="" coords="185,23,322,65"/>
+<area shape="rect" id="node5" href="$d5/d9a/classtasks_1_1timer__task.html#a1e3fb858d20ae15501112ffa5509824c" title="tasks::timer_task::\lget_string" alt="" coords="188,89,319,130"/>
+<area shape="rect" id="node3" href="$df/d43/classtasks_1_1worker.html#af9d8fcab43c8b5e4b98374babd5d8884" title="Provide access to the executing worker thread object in the current thread context. " alt="" coords="393,5,519,32"/>
+<area shape="rect" id="node4" href="$df/d43/classtasks_1_1worker.html#a49ce862b14b1ec7d08ad9ae3e34a8f61" title="Put a functor into the async work queue of a worker and notify it. " alt="" coords="371,56,541,83"/>
+</map>

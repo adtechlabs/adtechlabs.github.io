@@ -1,0 +1,6 @@
+<map id="tasks::net::socket::connect" name="tasks::net::socket::connect">
+<area shape="rect" id="node2" href="$d5/d2c/classtasks_1_1net_1_1http__sender.html#aa557541342d08a5b760a7ab8ef0a01cf" title="tasks::net::http_sender\l::send" alt="" coords="182,5,338,46"/>
+<area shape="rect" id="node3" href="$d5/d79/classtasks_1_1net_1_1socket.html#af9c1212789b2915336cdaae250695659" title="tasks::net::socket\l::connect" alt="" coords="197,70,323,111"/>
+<area shape="rect" id="node4" href="$d5/d6c/classtest__socket.html#a3358b600ab10f80b3dfe691e4f0a80b9" title="test_socket::tcp" alt="" coords="202,136,318,163"/>
+<area shape="rect" id="node5" href="$d5/d6c/classtest__socket.html#a3e22f36f531e046ff56d124d017a7022" title="test_socket::unix" alt="" coords="199,187,321,213"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="tasks::net::socket::set_blocking" name="tasks::net::socket::set_blocking">
+<area shape="rect" id="node2" href="$d5/d6c/classtest__socket.html#a3358b600ab10f80b3dfe691e4f0a80b9" title="test_socket::tcp" alt="" coords="185,5,301,32"/>
+<area shape="rect" id="node3" href="$d5/d6c/classtest__socket.html#ab95cc4790a3c2dcddfd6795e5cc07da7" title="test_socket::udp" alt="" coords="183,56,302,83"/>
+<area shape="rect" id="node4" href="$d5/d6c/classtest__socket.html#a3e22f36f531e046ff56d124d017a7022" title="test_socket::unix" alt="" coords="181,107,304,133"/>
+</map>

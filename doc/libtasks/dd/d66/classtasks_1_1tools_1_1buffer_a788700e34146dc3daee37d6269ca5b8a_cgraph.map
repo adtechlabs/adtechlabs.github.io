@@ -1,0 +1,10 @@
+<map id="tasks::tools::buffer::buffer" name="tasks::tools::buffer::buffer">
+<area shape="rect" id="node2" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#a0e7449147cc621704167c8f9476252fa" title="tasks::tools::buffer\l::set_size" alt="" coords="184,194,315,235"/>
+<area shape="rect" id="node3" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#ad0eedb9145d09170ec24107999b9d8ee" title="tasks::tools::buffer\l::ptr_read" alt="" coords="375,5,505,46"/>
+<area shape="rect" id="node4" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#aff2ff10a6510772460f298006d29402d" title="tasks::tools::buffer\l::ptr_write" alt="" coords="375,70,505,111"/>
+<area shape="rect" id="node5" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#a921ee00ee75b2e36470e62a79e52e9a8" title="tasks::tools::buffer\l::offset_read" alt="" coords="375,135,505,177"/>
+<area shape="rect" id="node6" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#a9bf648c8ca66a88555105a01b68c8b7d" title="tasks::tools::buffer\l::ptr_begin" alt="" coords="565,194,696,235"/>
+<area shape="rect" id="node7" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#a3249f073f0459f612626ebdd8422dc1c" title="tasks::tools::buffer\l::offset_write" alt="" coords="375,253,505,294"/>
+<area shape="rect" id="node8" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#a1a4f0a538f046c0e640941529d9bffcb" title="tasks::tools::buffer::ptr" alt="" coords="363,319,517,345"/>
+<area shape="rect" id="node9" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#a7ba8895adf0e926c085e69b3b5f9654a" title="tasks::tools::buffer\l::ptr_end" alt="" coords="375,370,505,411"/>
+</map>

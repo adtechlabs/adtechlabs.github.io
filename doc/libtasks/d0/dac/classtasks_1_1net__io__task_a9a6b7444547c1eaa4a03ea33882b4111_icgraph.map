@@ -1,0 +1,10 @@
+<map id="tasks::net_io_task::socket" name="tasks::net_io_task::socket">
+<area shape="rect" id="node2" href="$dc/d51/classtasks_1_1net_1_1acceptor.html#ae2ef0a755b9c3ffbefa0939c498a919d" title="tasks::net::acceptor\l::acceptor" alt="" coords="193,5,332,46"/>
+<area shape="rect" id="node3" href="$dc/d51/classtasks_1_1net_1_1acceptor.html#a4d8455090db9b8b4f533b6c1777a8eca" title="tasks::net::acceptor\l::~acceptor" alt="" coords="193,70,332,111"/>
+<area shape="rect" id="node4" href="$dc/d51/classtasks_1_1net_1_1acceptor.html#ae137081dc29022fa770536dfc459f365" title="tasks::net::acceptor\l::handle_event" alt="" coords="193,135,332,177"/>
+<area shape="rect" id="node5" href="$d5/d2c/classtasks_1_1net_1_1http__sender.html#a05a811e7a63c526de3e1bf9c92aeb3ba" title="tasks::net::http_sender\l::handle_event" alt="" coords="185,201,341,242"/>
+<area shape="rect" id="node6" href="$d5/d2c/classtasks_1_1net_1_1http__sender.html#a9d10adfa0782fc564cdf4698f15f387c" title="tasks::net::http_sender\l::connected" alt="" coords="185,266,341,307"/>
+<area shape="rect" id="node7" href="$d5/d2c/classtasks_1_1net_1_1http__sender.html#aa557541342d08a5b760a7ab8ef0a01cf" title="tasks::net::http_sender\l::send" alt="" coords="390,295,546,337"/>
+<area shape="rect" id="node8" href="$d0/dac/classtasks_1_1net__io__task.html#a8bf9ca732a0622358b0064446940805a" title="tasks::net_io_task\l::net_io_task" alt="" coords="198,383,327,425"/>
+<area shape="rect" id="node9" href="$d1/da5/classtasks_1_1net_1_1uwsgi__task.html#ae36e9d54f000a845707dca0f80c97031" title="tasks::net::uwsgi_task\l::handle_event" alt="" coords="185,449,340,490"/>
+</map>

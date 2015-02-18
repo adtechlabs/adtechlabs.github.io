@@ -1,0 +1,11 @@
+<map id="tasks::net::uwsgi_task::send_response" name="tasks::net::uwsgi_task::send_response">
+<area shape="rect" id="node2" href="$df/d43/classtasks_1_1worker.html#af9d8fcab43c8b5e4b98374babd5d8884" title="Provide access to the executing worker thread object in the current thread context. " alt="" coords="630,42,757,68"/>
+<area shape="rect" id="node3" href="$de/de3/classtasks_1_1io__task__base.html#acc0fd61e882c4cadc71bebc6b71906bd" title="Update the events the object monitors. " alt="" coords="208,57,347,98"/>
+<area shape="rect" id="node6" href="$de/de3/classtasks_1_1io__task__base.html#a9f80b3d6463ffcf3fed9f05c1af1cca4" title="Udate a watcher in the context of the given worker. " alt="" coords="208,154,347,196"/>
+<area shape="rect" id="node4" href="$de/de3/classtasks_1_1io__task__base.html#a91ca05cd25045bf71d7012fa7dffce29" title="tasks::io_task_base\l::get_string" alt="" coords="408,89,547,130"/>
+<area shape="rect" id="node5" href="$de/de3/classtasks_1_1io__task__base.html#a13443986e9978674fc95c1baf0375180" title="Return the monitored events. " alt="" coords="408,24,547,65"/>
+<area shape="rect" id="node7" href="$df/d43/classtasks_1_1worker.html#af01020c1495687a82b5acc0a53837056" title="tasks::worker::exec\l_in_worker_ctx" alt="" coords="409,154,546,196"/>
+<area shape="rect" id="node9" href="$de/de3/classtasks_1_1io__task__base.html#a92e3afa31b892d26a1cd5ada0a8e2c3d" title="Return the io_base object. " alt="" coords="395,220,559,247"/>
+<area shape="rect" id="node10" href="$d8/dc6/classio__base.html#adc05fe8d252619fbb09af87852ec7acb" title="io_base::fd" alt="" coords="434,271,521,298"/>
+<area shape="rect" id="node8" href="$df/d43/classtasks_1_1worker.html#a49ce862b14b1ec7d08ad9ae3e34a8f61" title="Put a functor into the async work queue of a worker and notify it. " alt="" coords="608,162,779,188"/>
+</map>

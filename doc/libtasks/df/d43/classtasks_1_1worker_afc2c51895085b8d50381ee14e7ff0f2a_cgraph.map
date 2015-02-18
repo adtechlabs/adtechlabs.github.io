@@ -1,0 +1,5 @@
+<map id="tasks::worker::add_async_event" name="tasks::worker::add_async_event">
+<area shape="rect" id="node2" href="$d6/dc9/classtasks_1_1dispatcher.html#a36c445936d02e0bdd2f6d064311efb5e" title="tasks::dispatcher::\linstance" alt="" coords="204,5,335,46"/>
+<area shape="rect" id="node3" href="$df/d43/classtasks_1_1worker.html#a49ce862b14b1ec7d08ad9ae3e34a8f61" title="Put a functor into the async work queue of a worker and notify it. " alt="" coords="184,71,355,97"/>
+<area shape="rect" id="node4" href="$df/d43/classtasks_1_1worker.html#aa7e693790fb68e5acabccc4c86467b38" title="Add an event to the workers queue. " alt="" coords="204,122,335,163"/>
+</map>

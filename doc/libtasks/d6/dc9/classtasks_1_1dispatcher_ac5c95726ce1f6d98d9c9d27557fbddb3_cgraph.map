@@ -1,0 +1,6 @@
+<map id="tasks::dispatcher::free_worker" name="tasks::dispatcher::free_worker">
+<area shape="rect" id="node2" href="$d9/d45/classtasks_1_1tools_1_1bitset.html#a50f9de41bf24eeb68df54085c4b70cc2" title="tasks::tools::bitset\l::next" alt="" coords="184,5,315,46"/>
+<area shape="rect" id="node4" href="$d9/d45/classtasks_1_1tools_1_1bitset.html#a7aa917a033cfa6443b7978d8934bdef8" title="tasks::tools::bitset\l::unset" alt="" coords="184,70,315,111"/>
+<area shape="rect" id="node3" href="$d9/d45/classtasks_1_1tools_1_1bitset.html#a1a98a696eddee8fb05c9fea79e44ae23" title="tasks::tools::bitset\l::test" alt="" coords="363,5,493,46"/>
+<area shape="rect" id="node5" href="$d9/d45/classtasks_1_1tools_1_1bitset.html#a8105d634f91256159989c8ea0b6e3581" title="tasks::tools::bitset\l::toggle" alt="" coords="363,70,493,111"/>
+</map>

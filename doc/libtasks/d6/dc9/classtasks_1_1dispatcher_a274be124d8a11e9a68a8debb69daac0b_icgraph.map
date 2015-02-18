@@ -1,0 +1,14 @@
+<map id="tasks::dispatcher::run_mode" name="tasks::dispatcher::run_mode">
+<area shape="rect" id="node2" href="$d6/d2e/classtasks_1_1event__task.html#a1bed1d92dbf4b293948bf6123be5ff78" title="tasks::event_task::\lassign_worker" alt="" coords="201,102,335,143"/>
+<area shape="rect" id="node9" href="$df/d43/classtasks_1_1worker.html#a542a75d46dcfb36e76eef52f6ce9354e" title="tasks::worker::worker" alt="" coords="585,256,733,283"/>
+<area shape="rect" id="node10" href="$df/d43/classtasks_1_1worker.html#abacc80578a55ae6614412ef25aeee9bb" title="Return the event loop pointer for this worker. " alt="" coords="191,252,345,279"/>
+<area shape="rect" id="node11" href="$df/d43/classtasks_1_1worker.html#ac942bd223671898c55e3f57c647bcfc9" title="Find a free worker and promote it to become the next leader. " alt="" coords="190,303,346,345"/>
+<area shape="rect" id="node13" href="$df/d43/classtasks_1_1worker.html#a4c3a7f55b32bd209fd4a53b674ee8b69" title="Let the dispatcher know that this thread is free to become a leader and take on some work..." alt="" coords="185,369,351,396"/>
+<area shape="rect" id="node3" href="$d6/dc9/classtasks_1_1dispatcher.html#a1ed405b5465b95f8fd79d68aa460fcf6" title="Add an event task to the system. " alt="" coords="403,5,533,46"/>
+<area shape="rect" id="node6" href="$d6/dc9/classtasks_1_1dispatcher.html#a6fc3fb597041623eb87c696364a0a08c" title="tasks::dispatcher::\lremove_event_task" alt="" coords="400,70,536,111"/>
+<area shape="rect" id="node8" href="$d0/dac/classtasks_1_1net__io__task.html#ac9af98f1bea22c48939d657d88293067" title="tasks::net_io_task\l::add_task" alt="" coords="403,135,533,177"/>
+<area shape="rect" id="node4" href="$d6/dc9/classtasks_1_1dispatcher.html#adea6e284569cb76d49aaf4dc8b780b60" title="tasks::dispatcher::\ladd_task" alt="" coords="593,5,724,46"/>
+<area shape="rect" id="node5" href="$d6/dc9/classtasks_1_1dispatcher.html#af94da68a83d84223856f73d0279ebbff" title="This method starts the system and blocks until terminate() gets called. " alt="" coords="782,12,930,39"/>
+<area shape="rect" id="node7" href="$d6/dc9/classtasks_1_1dispatcher.html#aa63903229ad8948e8fc48a1131fd77a3" title="Remove a task from the system. " alt="" coords="593,70,724,111"/>
+<area shape="rect" id="node12" href="$df/d43/classtasks_1_1worker.html#a3a5d28cada13ab34ea812d206e7ca6f3" title="Main method of the thread. " alt="" coords="405,311,531,337"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="tasks::net::http_sender::handle_event" name="tasks::net::http_sender::handle_event">
+<area shape="rect" id="node2" href="$d0/dac/classtasks_1_1net__io__task.html#a9a6b7444547c1eaa4a03ea33882b4111" title="Provide access to the underlying socket object. " alt="" coords="215,5,345,46"/>
+<area shape="rect" id="node3" href="$de/de3/classtasks_1_1io__task__base.html#acc0fd61e882c4cadc71bebc6b71906bd" title="Update the events the object monitors. " alt="" coords="211,70,349,111"/>
+<area shape="rect" id="node6" href="$de/de3/classtasks_1_1io__task__base.html#a9f80b3d6463ffcf3fed9f05c1af1cca4" title="Udate a watcher in the context of the given worker. " alt="" coords="211,135,349,177"/>
+<area shape="rect" id="node12" href="$d8/d49/classtasks_1_1error__base.html#a8d9ac4103fa0513280b2be58625002fe" title="Set an exception to report an error. " alt="" coords="215,201,345,242"/>
+<area shape="rect" id="node4" href="$de/de3/classtasks_1_1io__task__base.html#a91ca05cd25045bf71d7012fa7dffce29" title="tasks::io_task_base\l::get_string" alt="" coords="411,70,549,111"/>
+<area shape="rect" id="node5" href="$de/de3/classtasks_1_1io__task__base.html#a13443986e9978674fc95c1baf0375180" title="Return the monitored events. " alt="" coords="411,5,549,46"/>
+<area shape="rect" id="node7" href="$df/d43/classtasks_1_1worker.html#af01020c1495687a82b5acc0a53837056" title="tasks::worker::exec\l_in_worker_ctx" alt="" coords="411,135,549,177"/>
+<area shape="rect" id="node10" href="$de/de3/classtasks_1_1io__task__base.html#a92e3afa31b892d26a1cd5ada0a8e2c3d" title="Return the io_base object. " alt="" coords="398,201,562,228"/>
+<area shape="rect" id="node11" href="$d8/dc6/classio__base.html#adc05fe8d252619fbb09af87852ec7acb" title="io_base::fd" alt="" coords="437,252,523,279"/>
+<area shape="rect" id="node8" href="$df/d43/classtasks_1_1worker.html#af9d8fcab43c8b5e4b98374babd5d8884" title="Provide access to the executing worker thread object in the current thread context. " alt="" coords="633,117,759,144"/>
+<area shape="rect" id="node9" href="$df/d43/classtasks_1_1worker.html#a49ce862b14b1ec7d08ad9ae3e34a8f61" title="Put a functor into the async work queue of a worker and notify it. " alt="" coords="611,168,781,195"/>
+</map>

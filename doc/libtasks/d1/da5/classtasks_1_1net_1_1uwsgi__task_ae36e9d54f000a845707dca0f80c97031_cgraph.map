@@ -1,0 +1,51 @@
+<map id="tasks::net::uwsgi_task::handle_event" name="tasks::net::uwsgi_task::handle_event">
+<area shape="rect" id="node2" href="$d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a191aa6626c9e448409660046ef4619b7" title="tasks::net::uwsgi_request\l::read_data" alt="" coords="430,361,602,402"/>
+<area shape="rect" id="node22" href="$d0/dac/classtasks_1_1net__io__task.html#a9a6b7444547c1eaa4a03ea33882b4111" title="Provide access to the underlying socket object. " alt="" coords="230,613,359,654"/>
+<area shape="rect" id="node23" href="$d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a302568f847cf681e400bbcac20c9a33f" title="tasks::net::uwsgi_request\l::done" alt="" coords="209,678,381,719"/>
+<area shape="rect" id="node24" href="$d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a75eda4302cc85ffe167631ff3a1faabe" title="tasks::net::uwsgi_request\l::header" alt="" coords="209,743,381,785"/>
+<area shape="rect" id="node25" href="$d1/da5/classtasks_1_1net_1_1uwsgi__task.html#a31e7f2622677429e2621b119445ddbf2" title="tasks::net::uwsgi_task\l::handle_request" alt="" coords="217,809,372,850"/>
+<area shape="rect" id="node26" href="$d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a8af345ebdc8d5fab1f49c80bb8991361" title="tasks::net::uwsgi_request\l::clear" alt="" coords="430,86,602,127"/>
+<area shape="rect" id="node28" href="$d8/d49/classtasks_1_1error__base.html#a8d9ac4103fa0513280b2be58625002fe" title="Set an exception to report an error. " alt="" coords="229,874,360,915"/>
+<area shape="rect" id="node29" href="$d5/d84/classtasks_1_1net_1_1http__base.html#ae6a64dae6aa6e72483f6e50dbee32401" title="tasks::net::http_base\l::write_data" alt="" coords="443,637,589,678"/>
+<area shape="rect" id="node37" href="$d5/d84/classtasks_1_1net_1_1http__base.html#af725ab2246a0d78741358dc2ce39d777" title="tasks::net::http_base\l::done" alt="" coords="222,939,367,981"/>
+<area shape="rect" id="node38" href="$d1/da5/classtasks_1_1net_1_1uwsgi__task.html#acd5f111537a00cde88ee733e63ff3be4" title="tasks::net::uwsgi_task\l::finish_request" alt="" coords="217,278,372,319"/>
+<area shape="rect" id="node41" href="$de/de3/classtasks_1_1io__task__base.html#acc0fd61e882c4cadc71bebc6b71906bd" title="Update the events the object monitors. " alt="" coords="225,1081,364,1122"/>
+<area shape="rect" id="node44" href="$de/de3/classtasks_1_1io__task__base.html#a9f80b3d6463ffcf3fed9f05c1af1cca4" title="Udate a watcher in the context of the given worker. " alt="" coords="225,1005,364,1046"/>
+<area shape="rect" id="node50" href="$d2/d2f/classtasks_1_1tasks__exception.html#aca46805d75065a66342caff1892097d7" title="Return the error message. " alt="" coords="216,1146,373,1187"/>
+<area shape="rect" id="node3" href="$d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a392ab5b015d0d44a13b34430d0bd773b" title="tasks::net::uwsgi_request\l::read_header" alt="" coords="651,454,823,495"/>
+<area shape="rect" id="node7" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#a0e7449147cc621704167c8f9476252fa" title="tasks::tools::buffer\l::set_size" alt="" coords="907,357,1037,398"/>
+<area shape="rect" id="node15" href="$d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a9c0afb5a06ed140599e7e980f22c2bbf" title="tasks::net::uwsgi_request\l::read_vars" alt="" coords="651,302,823,343"/>
+<area shape="rect" id="node21" href="$d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a2670c87604212f49c98e61e8c09bfebd" title="tasks::net::uwsgi_request\l::read_content" alt="" coords="651,237,823,278"/>
+<area shape="rect" id="node4" href="$d5/d79/classtasks_1_1net_1_1socket.html#a08fdb04977ad536af7d5222348007a3a" title="tasks::net::socket\l::read" alt="" coords="909,487,1035,529"/>
+<area shape="rect" id="node5" href="$d5/d79/classtasks_1_1net_1_1socket.html#ab395b344aec48b4e41e27542709c3609" title="tasks::net::socket\l::addr" alt="" coords="1135,714,1262,755"/>
+<area shape="rect" id="node6" href="$d5/d79/classtasks_1_1net_1_1socket.html#aeec4664123928381e60ab090995a3687" title="tasks::net::socket::udp" alt="" coords="1121,780,1277,807"/>
+<area shape="rect" id="node8" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#ad0eedb9145d09170ec24107999b9d8ee" title="tasks::tools::buffer\l::ptr_read" alt="" coords="1133,597,1264,638"/>
+<area shape="rect" id="node9" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#aff2ff10a6510772460f298006d29402d" title="tasks::tools::buffer\l::ptr_write" alt="" coords="1133,149,1264,190"/>
+<area shape="rect" id="node10" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#a921ee00ee75b2e36470e62a79e52e9a8" title="tasks::tools::buffer\l::offset_read" alt="" coords="1133,357,1264,398"/>
+<area shape="rect" id="node11" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#a9bf648c8ca66a88555105a01b68c8b7d" title="tasks::tools::buffer\l::ptr_begin" alt="" coords="1325,357,1456,398"/>
+<area shape="rect" id="node12" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#a3249f073f0459f612626ebdd8422dc1c" title="tasks::tools::buffer\l::offset_write" alt="" coords="1133,422,1264,463"/>
+<area shape="rect" id="node13" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#a1a4f0a538f046c0e640941529d9bffcb" title="tasks::tools::buffer::ptr" alt="" coords="1121,488,1276,515"/>
+<area shape="rect" id="node14" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#a7ba8895adf0e926c085e69b3b5f9654a" title="tasks::tools::buffer\l::ptr_end" alt="" coords="1133,239,1264,281"/>
+<area shape="rect" id="node16" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#a349e9558556660aa4a207a1fea27361c" title="tasks::tools::buffer\l::to_write" alt="" coords="907,239,1037,281"/>
+<area shape="rect" id="node17" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#ab11cdd85f5489482dae47b7ad1322832" title="tasks::tools::buffer\l::move_ptr_write" alt="" coords="907,122,1037,163"/>
+<area shape="rect" id="node18" href="$d2/dad/classtasks_1_1net_1_1uwsgi__request.html#ae0b8f002a767012f47b1472d989c901b" title="tasks::net::uwsgi_request\l::parse_vars" alt="" coords="886,422,1058,463"/>
+<area shape="rect" id="node20" href="$d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a95c712981c751ac39691dffffa7f917a" title="tasks::net::uwsgi_request::var" alt="" coords="873,305,1071,332"/>
+<area shape="rect" id="node19" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#af5630314b25a87931d442e3b457c09e4" title="tasks::tools::buffer\l::size" alt="" coords="1133,897,1264,938"/>
+<area shape="rect" id="node27" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#a494f1802fe64f3b446ad762793b8f37f" title="tasks::tools::buffer\l::clear" alt="" coords="907,5,1037,46"/>
+<area shape="rect" id="node30" href="$d5/d84/classtasks_1_1net_1_1http__base.html#a4fd2b9f2149622cd27fbaeb7f6007462" title="tasks::net::http_base\l::prepare_data_buffer" alt="" coords="665,605,810,646"/>
+<area shape="rect" id="node31" href="$d5/d84/classtasks_1_1net_1_1http__base.html#ac6f63784a2f821d248cd8a65f3068aaa" title="tasks::net::http_base\l::write_headers" alt="" coords="665,670,810,711"/>
+<area shape="rect" id="node34" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#a45b0a29d59c21606a91fea4e30b493a3" title="tasks::tools::buffer\l::to_read" alt="" coords="907,553,1037,594"/>
+<area shape="rect" id="node36" href="$d5/d84/classtasks_1_1net_1_1http__base.html#a923c3574efcb3be598775e3a633b6ff0" title="tasks::net::http_base\l::write_content" alt="" coords="665,735,810,777"/>
+<area shape="rect" id="node32" href="$d5/d79/classtasks_1_1net_1_1socket.html#a1730bf0b7cdfe224a3d9b0b58400f05c" title="tasks::net::socket\l::write" alt="" coords="909,787,1035,829"/>
+<area shape="rect" id="node35" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#a87065c66cecdf25ca7ac8b06562aff34" title="tasks::tools::buffer\l::move_ptr_read" alt="" coords="907,670,1037,711"/>
+<area shape="rect" id="node33" href="$d5/d79/classtasks_1_1net_1_1socket.html#afad539f32d439ff911cee347cf88a8e2" title="tasks::net::socket\l::socket" alt="" coords="1135,831,1262,873"/>
+<area shape="rect" id="node39" href="$d5/d2f/classtasks_1_1net_1_1http__response.html#a52a509d321442026371d94658c5160f7" title="tasks::net::http_response\l::clear" alt="" coords="431,206,601,247"/>
+<area shape="rect" id="node40" href="$d5/d84/classtasks_1_1net_1_1http__base.html#a22c77ae44ee6f22484dd11e3f87969f2" title="tasks::net::http_base\l::clear" alt="" coords="665,117,810,158"/>
+<area shape="rect" id="node42" href="$de/de3/classtasks_1_1io__task__base.html#a91ca05cd25045bf71d7012fa7dffce29" title="tasks::io_task_base\l::get_string" alt="" coords="447,1093,585,1134"/>
+<area shape="rect" id="node43" href="$de/de3/classtasks_1_1io__task__base.html#a13443986e9978674fc95c1baf0375180" title="Return the monitored events. " alt="" coords="447,1158,585,1199"/>
+<area shape="rect" id="node45" href="$df/d43/classtasks_1_1worker.html#af01020c1495687a82b5acc0a53837056" title="tasks::worker::exec\l_in_worker_ctx" alt="" coords="447,925,585,966"/>
+<area shape="rect" id="node48" href="$de/de3/classtasks_1_1io__task__base.html#a92e3afa31b892d26a1cd5ada0a8e2c3d" title="Return the io_base object. " alt="" coords="434,991,598,1017"/>
+<area shape="rect" id="node49" href="$d8/dc6/classio__base.html#adc05fe8d252619fbb09af87852ec7acb" title="io_base::fd" alt="" coords="473,1041,559,1068"/>
+<area shape="rect" id="node46" href="$df/d43/classtasks_1_1worker.html#af9d8fcab43c8b5e4b98374babd5d8884" title="Provide access to the executing worker thread object in the current thread context. " alt="" coords="674,1056,801,1083"/>
+<area shape="rect" id="node47" href="$df/d43/classtasks_1_1worker.html#a49ce862b14b1ec7d08ad9ae3e34a8f61" title="Put a functor into the async work queue of a worker and notify it. " alt="" coords="652,1005,823,1032"/>
+</map>

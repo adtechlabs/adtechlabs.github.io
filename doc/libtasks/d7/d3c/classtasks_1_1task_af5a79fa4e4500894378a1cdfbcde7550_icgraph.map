@@ -1,0 +1,6 @@
+<map id="tasks::task::auto_delete" name="tasks::task::auto_delete">
+<area shape="rect" id="node2" href="$d8/d3f/classtasks_1_1executor.html#ac20e0d24b93e7875cd02f9bfbe74f1d9" title="tasks::executor::run" alt="" coords="216,5,355,32"/>
+<area shape="rect" id="node4" href="$df/d43/classtasks_1_1worker.html#a3a5d28cada13ab34ea812d206e7ca6f3" title="Main method of the thread. " alt="" coords="222,56,349,83"/>
+<area shape="rect" id="node3" href="$d8/d3f/classtasks_1_1executor.html#ab257be0a9cceb79cba2e4121e3e3ce37" title="tasks::executor::executor" alt="" coords="403,5,573,32"/>
+<area shape="rect" id="node5" href="$df/d43/classtasks_1_1worker.html#a542a75d46dcfb36e76eef52f6ce9354e" title="tasks::worker::worker" alt="" coords="414,56,562,83"/>
+</map>

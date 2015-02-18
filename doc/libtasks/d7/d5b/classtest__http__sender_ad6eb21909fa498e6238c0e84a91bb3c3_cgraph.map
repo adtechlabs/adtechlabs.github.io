@@ -1,0 +1,7 @@
+<map id="test_http_sender::requests_close" name="test_http_sender::requests_close">
+<area shape="rect" id="node2" href="$d6/dc9/classtasks_1_1dispatcher.html#a36c445936d02e0bdd2f6d064311efb5e" title="tasks::dispatcher::\linstance" alt="" coords="245,5,376,46"/>
+<area shape="rect" id="node3" href="$d7/d3c/classtasks_1_1task.html#a312660702dbcf9485adfbb2355bbe3e4" title="tasks::task::on_finish" alt="" coords="237,71,384,97"/>
+<area shape="rect" id="node4" href="$d5/d46/test__http__sender_8cpp.html#abc6105a5f523f08c1ecdcb139821f2ee" title="g_done" alt="" coords="279,121,343,148"/>
+<area shape="rect" id="node5" href="$d2/d2f/classtasks_1_1tasks__exception.html#ad0db42130626175b5f1fe74a52bacf66" title="Return the error code. " alt="" coords="232,173,389,214"/>
+<area shape="rect" id="node6" href="$d2/d2f/classtasks_1_1tasks__exception.html#ad51daa60f5df33091a14e013ed2f06e8" title="Return the error message. " alt="" coords="232,238,389,279"/>
+</map>

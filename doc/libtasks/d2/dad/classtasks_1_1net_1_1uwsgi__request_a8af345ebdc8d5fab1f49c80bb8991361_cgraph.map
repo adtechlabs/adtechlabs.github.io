@@ -1,0 +1,5 @@
+<map id="tasks::net::uwsgi_request::clear" name="tasks::net::uwsgi_request::clear">
+<area shape="rect" id="node2" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#a494f1802fe64f3b446ad762793b8f37f" title="tasks::tools::buffer\l::clear" alt="" coords="227,38,357,79"/>
+<area shape="rect" id="node3" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#a9bf648c8ca66a88555105a01b68c8b7d" title="tasks::tools::buffer\l::ptr_begin" alt="" coords="405,5,536,46"/>
+<area shape="rect" id="node4" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#a7ba8895adf0e926c085e69b3b5f9654a" title="tasks::tools::buffer\l::ptr_end" alt="" coords="405,70,536,111"/>
+</map>

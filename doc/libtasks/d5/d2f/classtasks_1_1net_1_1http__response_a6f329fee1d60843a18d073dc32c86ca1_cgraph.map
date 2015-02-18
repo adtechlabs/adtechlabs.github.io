@@ -1,0 +1,21 @@
+<map id="tasks::net::http_response::read_data" name="tasks::net::http_response::read_data">
+<area shape="rect" id="node2" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#a0e7449147cc621704167c8f9476252fa" title="tasks::tools::buffer\l::set_size" alt="" coords="244,177,375,218"/>
+<area shape="rect" id="node4" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#aff2ff10a6510772460f298006d29402d" title="tasks::tools::buffer\l::ptr_write" alt="" coords="463,305,593,346"/>
+<area shape="rect" id="node7" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#a3249f073f0459f612626ebdd8422dc1c" title="tasks::tools::buffer\l::offset_write" alt="" coords="463,5,593,46"/>
+<area shape="rect" id="node10" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#a349e9558556660aa4a207a1fea27361c" title="tasks::tools::buffer\l::to_write" alt="" coords="244,425,375,466"/>
+<area shape="rect" id="node11" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#a6e9f226e640fecb8da76c2f51fe5d648" title="tasks::tools::buffer\l::buffer_size" alt="" coords="244,359,375,401"/>
+<area shape="rect" id="node12" href="$d5/d79/classtasks_1_1net_1_1socket.html#a08fdb04977ad536af7d5222348007a3a" title="tasks::net::socket\l::read" alt="" coords="246,555,373,597"/>
+<area shape="rect" id="node15" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#ab11cdd85f5489482dae47b7ad1322832" title="tasks::tools::buffer\l::move_ptr_write" alt="" coords="244,294,375,335"/>
+<area shape="rect" id="node16" href="$d5/d2f/classtasks_1_1net_1_1http__response.html#ae3ec20fcf4c9d5584ab7c321383ffdaa" title="tasks::net::http_response\l::parse_data" alt="" coords="224,654,395,695"/>
+<area shape="rect" id="node20" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#a89496dab782c0f74d7c6665b2d3565c6" title="tasks::tools::buffer\l::move_ptr_read_abs" alt="" coords="237,490,381,531"/>
+<area shape="rect" id="node3" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#ad0eedb9145d09170ec24107999b9d8ee" title="tasks::tools::buffer\l::ptr_read" alt="" coords="463,187,593,229"/>
+<area shape="rect" id="node5" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#a921ee00ee75b2e36470e62a79e52e9a8" title="tasks::tools::buffer\l::offset_read" alt="" coords="463,70,593,111"/>
+<area shape="rect" id="node6" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#a9bf648c8ca66a88555105a01b68c8b7d" title="tasks::tools::buffer\l::ptr_begin" alt="" coords="681,99,812,141"/>
+<area shape="rect" id="node8" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#a1a4f0a538f046c0e640941529d9bffcb" title="tasks::tools::buffer::ptr" alt="" coords="880,596,1035,623"/>
+<area shape="rect" id="node9" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#a7ba8895adf0e926c085e69b3b5f9654a" title="tasks::tools::buffer\l::ptr_end" alt="" coords="463,370,593,411"/>
+<area shape="rect" id="node13" href="$d5/d79/classtasks_1_1net_1_1socket.html#ab395b344aec48b4e41e27542709c3609" title="tasks::net::socket\l::addr" alt="" coords="465,589,591,630"/>
+<area shape="rect" id="node14" href="$d5/d79/classtasks_1_1net_1_1socket.html#aeec4664123928381e60ab090995a3687" title="tasks::net::socket::udp" alt="" coords="450,537,606,564"/>
+<area shape="rect" id="node17" href="$d5/d2f/classtasks_1_1net_1_1http__response.html#a30fd03a0313a263157be8011d54a326b" title="tasks::net::http_response\l::parse_line" alt="" coords="443,654,613,695"/>
+<area shape="rect" id="node18" href="$d5/d2f/classtasks_1_1net_1_1http__response.html#ae3a98f1dfc5109839ca2edc426a5096d" title="tasks::net::http_response\l::parse_status" alt="" coords="661,589,832,630"/>
+<area shape="rect" id="node19" href="$d5/d2f/classtasks_1_1net_1_1http__response.html#a75f926292e60c49c14c70b366ecf28a7" title="tasks::net::http_response\l::parse_header" alt="" coords="661,654,832,695"/>
+</map>

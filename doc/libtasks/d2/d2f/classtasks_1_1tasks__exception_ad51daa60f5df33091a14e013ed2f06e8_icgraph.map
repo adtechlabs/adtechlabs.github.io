@@ -1,0 +1,5 @@
+<map id="tasks::tasks_exception::message" name="tasks::tasks_exception::message">
+<area shape="rect" id="node2" href="$d8/d49/classtasks_1_1error__base.html#a3dfcca3d53f3776596d5aa42930d3396" title="Return the error message. " alt="" coords="235,5,365,46"/>
+<area shape="rect" id="node3" href="$d7/d5b/classtest__http__sender.html#a36cd22749e83ef0c7507eb784140fca5" title="test_http_sender::requests\l_keepalive" alt="" coords="211,70,389,111"/>
+<area shape="rect" id="node4" href="$d7/d5b/classtest__http__sender.html#ad6eb21909fa498e6238c0e84a91bb3c3" title="test_http_sender::requests\l_close" alt="" coords="211,135,389,177"/>
+</map>

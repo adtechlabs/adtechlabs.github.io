@@ -1,0 +1,24 @@
+<map id="ip_service.h" name="ip_service.h">
+<area shape="rect" id="node2" href="$d4/dd1/uwsgi__thrift__handler_8h.html" title="tasks/net/uwsgi_thrift\l_handler.h" alt="" coords="1235,81,1381,122"/>
+<area shape="rect" id="node3" href="$d3/d12/uwsgi__task_8h.html" title="tasks/net/uwsgi_task.h" alt="" coords="1229,171,1387,197"/>
+<area shape="rect" id="node8" href="$da/da5/worker_8h.html" title="tasks/worker.h" alt="" coords="2718,320,2825,347"/>
+<area shape="rect" id="node31" href="$dc/d28/net__io__task_8h.html" title="tasks/net_io_task.h" alt="" coords="1188,245,1323,272"/>
+<area shape="rect" id="node40" href="$d7/d13/uwsgi__request_8h.html" title="tasks/net/uwsgi_request.h" alt="" coords="529,395,703,421"/>
+<area shape="rect" id="node45" href="$de/d49/http__response_8h.html" title="tasks/net/http_response.h" alt="" coords="969,245,1143,272"/>
+<area shape="rect" id="node9" href="$da/d73/dispatcher_8h.html" title="tasks/dispatcher.h" alt="" coords="2542,477,2671,504"/>
+<area shape="rect" id="node16" href="$d7/d68/ev__wrapper_8h.html" title="tasks/ev_wrapper.h" alt="" coords="3041,560,3176,587"/>
+<area shape="rect" id="node20" href="$d5/d77/logging_8h.html" title="tasks/logging.h" alt="" coords="2673,560,2783,587"/>
+<area shape="rect" id="node24" href="$df/d29/event__task_8h.html" title="tasks/event_task.h" alt="" coords="2360,395,2493,421"/>
+<area shape="rect" id="node18" href="$d1/d69/bitset_8h.html" title="tasks/tools/bitset.h" alt="" coords="2349,560,2483,587"/>
+<area shape="rect" id="node25" href="$db/da4/task_8h.html" title="tasks/task.h" alt="" coords="3183,477,3277,504"/>
+<area shape="rect" id="node27" href="$d9/d69/error__base_8h.html" title="tasks/error_base.h" alt="" coords="1747,477,1876,504"/>
+<area shape="rect" id="node29" href="$d9/df0/tasks__exception_8h.html" title="tasks/tasks_exception.h" alt="" coords="1457,560,1620,587"/>
+<area shape="rect" id="node32" href="$da/d21/io__task__base_8h.html" title="tasks/io_task_base.h" alt="" coords="2045,320,2192,347"/>
+<area shape="rect" id="node35" href="$da/ddd/socket_8h.html" title="tasks/net/socket.h" alt="" coords="968,477,1097,504"/>
+<area shape="rect" id="node33" href="$d5/dbe/disposable_8h.html" title="tasks/disposable.h" alt="" coords="2053,395,2183,421"/>
+<area shape="rect" id="node34" href="$dd/d9a/io__base_8h.html" title="tasks/io_base.h" alt="" coords="1813,560,1928,587"/>
+<area shape="rect" id="node41" href="$d4/db2/uwsgi__structs_8h.html" title="tasks/net/uwsgi_structs.h" alt="" coords="94,477,265,504"/>
+<area shape="rect" id="node42" href="$de/d76/io__state_8h.html" title="tasks/net/io_state.h" alt="" coords="705,477,841,504"/>
+<area shape="rect" id="node43" href="$d5/d08/buffer_8h.html" title="tasks/tools/buffer.h" alt="" coords="443,477,577,504"/>
+<area shape="rect" id="node46" href="$da/d94/http__base_8h.html" title="tasks/net/http_base.h" alt="" coords="1123,395,1271,421"/>
+</map>

@@ -1,0 +1,28 @@
+<map id="tasks::worker::async_call" name="tasks::worker::async_call">
+<area shape="rect" id="node2" href="$df/d43/classtasks_1_1worker.html#af01020c1495687a82b5acc0a53837056" title="tasks::worker::exec\l_in_worker_ctx" alt="" coords="225,365,362,406"/>
+<area shape="rect" id="node23" href="$df/d43/classtasks_1_1worker.html#afc2c51895085b8d50381ee14e7ff0f2a" title="Add an event to the workers queue from a different thread context. " alt="" coords="228,557,359,598"/>
+<area shape="rect" id="node3" href="$d9/d52/classtasks_1_1disk__io__task.html#a23b21c2641131cd429ab3cab55404355" title="tasks::disk_io_task\l::dispose" alt="" coords="431,5,566,46"/>
+<area shape="rect" id="node4" href="$de/de3/classtasks_1_1io__task__base.html#af42cadd61a36bec27c067521f94cd801" title="Start a watcher in the context of the given worker. " alt="" coords="429,70,568,111"/>
+<area shape="rect" id="node5" href="$de/de3/classtasks_1_1io__task__base.html#a3ae2cf1cccb7db2337eefcfbdc4c6417" title="Stop a watcher in the context of the given worker. " alt="" coords="429,135,568,177"/>
+<area shape="rect" id="node7" href="$de/de3/classtasks_1_1io__task__base.html#a9f80b3d6463ffcf3fed9f05c1af1cca4" title="Udate a watcher in the context of the given worker. " alt="" coords="429,201,568,242"/>
+<area shape="rect" id="node13" href="$de/de3/classtasks_1_1io__task__base.html#a5cc6993fd4ddf26af94fa9f8e8f54235" title="Stop the watcher before being deleted. " alt="" coords="429,266,568,307"/>
+<area shape="rect" id="node14" href="$d0/dac/classtasks_1_1net__io__task.html#ac9af98f1bea22c48939d657d88293067" title="tasks::net_io_task\l::add_task" alt="" coords="434,331,563,373"/>
+<area shape="rect" id="node15" href="$d5/d9a/classtasks_1_1timer__task.html#a85b31b79bef51662df50e51c886ee771" title="Activate the underlying watcher to listen for I/O or timer events. " alt="" coords="433,397,564,438"/>
+<area shape="rect" id="node18" href="$d5/d9a/classtasks_1_1timer__task.html#a563b2f6c2547dfc434a3d5014b3a2cda" title="Deactivate the underlying watcher. " alt="" coords="433,462,564,503"/>
+<area shape="rect" id="node19" href="$da/d73/classtasks_1_1net_1_1uwsgi__thrift__async__processor.html#aeb5947eb5c8c5c817d8ffa0c91641f9b" title="tasks::net::uwsgi_thrift\l_async_processor::handle\l_request" alt="" coords="411,527,586,583"/>
+<area shape="rect" id="node20" href="$de/d04/namespacetasks.html#a3e33e373b9dbf11285de417da82fd269" title="Callback for async events. " alt="" coords="431,606,567,647"/>
+<area shape="rect" id="node22" href="$df/d43/classtasks_1_1worker.html#a78137585b4cd36523d0c0f2888be3204" title="Same as exec_in_ctx(task_func_t f) " alt="" coords="413,672,584,699"/>
+<area shape="rect" id="node6" href="$d5/d2c/classtasks_1_1net_1_1http__sender.html#aa557541342d08a5b760a7ab8ef0a01cf" title="tasks::net::http_sender\l::send" alt="" coords="635,135,791,177"/>
+<area shape="rect" id="node8" href="$d5/d2c/classtasks_1_1net_1_1http__sender.html#a05a811e7a63c526de3e1bf9c92aeb3ba" title="tasks::net::http_sender\l::handle_event" alt="" coords="635,201,791,242"/>
+<area shape="rect" id="node9" href="$d1/da5/classtasks_1_1net_1_1uwsgi__task.html#ae36e9d54f000a845707dca0f80c97031" title="tasks::net::uwsgi_task\l::handle_event" alt="" coords="636,266,791,307"/>
+<area shape="rect" id="node10" href="$d1/da5/classtasks_1_1net_1_1uwsgi__task.html#a049774118f72950828da30a7af01e10f" title="tasks::net::uwsgi_task\l::send_response" alt="" coords="636,331,791,373"/>
+<area shape="rect" id="node11" href="$d7/d8f/classuwsgi__handler.html#a27cb6c799556b646dae3b9749204b0b9" title="uwsgi_handler::handle\l_request" alt="" coords="857,266,1007,307"/>
+<area shape="rect" id="node12" href="$d3/d84/classtasks_1_1net_1_1uwsgi__thrift__processor.html#a0db99757d968baf1fccf273b130e13d0" title="tasks::net::uwsgi_thrift\l_processor::handle_request" alt="" coords="841,331,1023,373"/>
+<area shape="rect" id="node16" href="$d6/dc9/classtasks_1_1dispatcher.html#a6fc3fb597041623eb87c696364a0a08c" title="tasks::dispatcher::\lremove_event_task" alt="" coords="645,397,781,438"/>
+<area shape="rect" id="node17" href="$d6/dc9/classtasks_1_1dispatcher.html#aa63903229ad8948e8fc48a1131fd77a3" title="Remove a task from the system. " alt="" coords="867,397,997,438"/>
+<area shape="rect" id="node21" href="$df/d43/classtasks_1_1worker.html#a542a75d46dcfb36e76eef52f6ce9354e" title="tasks::worker::worker" alt="" coords="639,613,787,640"/>
+<area shape="rect" id="node24" href="$d9/d52/classtasks_1_1disk__io__task.html#ae03ee8a0504e129f628f67962cb8b415" title="tasks::disk_io_task::op" alt="" coords="420,723,577,749"/>
+<area shape="rect" id="node25" href="$d9/d52/classtasks_1_1disk__io__task.html#ac6adaca03bc7cb027c868c39c8b525af" title="tasks::disk_io_task\l::add_task" alt="" coords="646,715,781,757"/>
+<area shape="rect" id="node26" href="$da/dee/classtest__disk__io__task.html#a9c25624668ac4fb05d80c9e2f6248e3a" title="test_disk_io_task::\lwrite" alt="" coords="866,686,998,727"/>
+<area shape="rect" id="node27" href="$da/dee/classtest__disk__io__task.html#a955a97b94427dd160b81a3aff8e71b8d" title="test_disk_io_task::read" alt="" coords="853,752,1011,779"/>
+</map>

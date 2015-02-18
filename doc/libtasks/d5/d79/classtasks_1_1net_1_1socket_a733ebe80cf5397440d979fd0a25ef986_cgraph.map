@@ -1,0 +1,5 @@
+<map id="tasks::net::socket::bind" name="tasks::net::socket::bind">
+<area shape="rect" id="node2" href="$d5/d79/classtasks_1_1net_1_1socket.html#afad539f32d439ff911cee347cf88a8e2" title="tasks::net::socket\l::socket" alt="" coords="182,5,309,46"/>
+<area shape="rect" id="node3" href="$d5/d79/classtasks_1_1net_1_1socket.html#ad8f488ff605cf79a21d52873f338511b" title="tasks::net::socket\l::init_sockaddr" alt="" coords="182,70,309,111"/>
+<area shape="rect" id="node4" href="$d5/d79/classtasks_1_1net_1_1socket.html#a4c6c2915bbcce71ead9f639a5b179270" title="tasks::net::socket\l::bind" alt="" coords="182,135,309,177"/>
+</map>

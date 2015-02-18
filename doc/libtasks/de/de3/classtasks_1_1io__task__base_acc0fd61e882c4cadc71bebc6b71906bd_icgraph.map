@@ -1,0 +1,8 @@
+<map id="tasks::io_task_base::set_events" name="tasks::io_task_base::set_events">
+<area shape="rect" id="node2" href="$d5/d2c/classtasks_1_1net_1_1http__sender.html#a05a811e7a63c526de3e1bf9c92aeb3ba" title="tasks::net::http_sender\l::handle_event" alt="" coords="193,5,349,46"/>
+<area shape="rect" id="node3" href="$d5/d2c/classtasks_1_1net_1_1http__sender.html#aa557541342d08a5b760a7ab8ef0a01cf" title="tasks::net::http_sender\l::send" alt="" coords="193,70,349,111"/>
+<area shape="rect" id="node4" href="$d1/da5/classtasks_1_1net_1_1uwsgi__task.html#ae36e9d54f000a845707dca0f80c97031" title="tasks::net::uwsgi_task\l::handle_event" alt="" coords="193,135,348,177"/>
+<area shape="rect" id="node5" href="$d1/da5/classtasks_1_1net_1_1uwsgi__task.html#a049774118f72950828da30a7af01e10f" title="tasks::net::uwsgi_task\l::send_response" alt="" coords="193,201,348,242"/>
+<area shape="rect" id="node6" href="$d7/d8f/classuwsgi__handler.html#a27cb6c799556b646dae3b9749204b0b9" title="uwsgi_handler::handle\l_request" alt="" coords="414,167,565,209"/>
+<area shape="rect" id="node7" href="$d3/d84/classtasks_1_1net_1_1uwsgi__thrift__processor.html#a0db99757d968baf1fccf273b130e13d0" title="tasks::net::uwsgi_thrift\l_processor::handle_request" alt="" coords="398,233,581,274"/>
+</map>

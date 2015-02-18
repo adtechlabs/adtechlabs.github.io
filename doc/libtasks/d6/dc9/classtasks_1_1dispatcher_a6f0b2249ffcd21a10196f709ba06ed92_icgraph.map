@@ -1,0 +1,5 @@
+<map id="tasks::dispatcher::free_executor" name="tasks::dispatcher::free_executor">
+<area shape="rect" id="node2" href="$d6/dc9/classtasks_1_1dispatcher.html#abe8e57bef3ca3f4d17cd4aeb16010d6f" title="Add an exec task to the system. " alt="" coords="184,5,315,46"/>
+<area shape="rect" id="node3" href="$d6/dc9/classtasks_1_1dispatcher.html#adea6e284569cb76d49aaf4dc8b780b60" title="tasks::dispatcher::\ladd_task" alt="" coords="363,5,493,46"/>
+<area shape="rect" id="node4" href="$d6/dc9/classtasks_1_1dispatcher.html#af94da68a83d84223856f73d0279ebbff" title="This method starts the system and blocks until terminate() gets called. " alt="" coords="542,12,690,39"/>
+</map>

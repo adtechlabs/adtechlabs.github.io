@@ -1,0 +1,5 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$d6/dc9/classtasks_1_1dispatcher.html#a36c445936d02e0bdd2f6d064311efb5e" title="tasks::dispatcher::\linstance" alt="" coords="117,5,248,46"/>
+<area shape="rect" id="node3" href="$d7/d3c/classtasks_1_1task.html#a312660702dbcf9485adfbb2355bbe3e4" title="tasks::task::on_finish" alt="" coords="109,71,256,97"/>
+<area shape="rect" id="node4" href="$d2/d2f/classtasks_1_1tasks__exception.html#aca46805d75065a66342caff1892097d7" title="Return the error message. " alt="" coords="104,122,261,163"/>
+</map>

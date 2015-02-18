@@ -1,0 +1,5 @@
+<map id="tasks::disposable::dispose" name="tasks::disposable::dispose">
+<area shape="rect" id="node2" href="$d0/d74/classtasks_1_1cleanup__task.html#a900f26e2ad378c98295d7427af6780b9" title="tasks::cleanup_task\l::handle_event" alt="" coords="187,5,325,46"/>
+<area shape="rect" id="node3" href="$d6/dc9/classtasks_1_1dispatcher.html#a6fc3fb597041623eb87c696364a0a08c" title="tasks::dispatcher::\lremove_event_task" alt="" coords="188,70,324,111"/>
+<area shape="rect" id="node4" href="$d6/dc9/classtasks_1_1dispatcher.html#aa63903229ad8948e8fc48a1131fd77a3" title="Remove a task from the system. " alt="" coords="373,70,504,111"/>
+</map>

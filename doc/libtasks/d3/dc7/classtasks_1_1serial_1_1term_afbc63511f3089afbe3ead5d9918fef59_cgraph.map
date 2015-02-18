@@ -1,0 +1,6 @@
+<map id="tasks::serial::term::open" name="tasks::serial::term::open">
+<area shape="rect" id="node2" href="$d3/dc7/classtasks_1_1serial_1_1term.html#ad7373c082027e5ace806d786df57dc14" title="Open a terminal device. " alt="" coords="182,23,309,64"/>
+<area shape="rect" id="node3" href="$d3/dc7/classtasks_1_1serial_1_1term.html#af37a7073dc0e5263e4c7b22874a06f98" title="Close the terminal. " alt="" coords="534,27,661,68"/>
+<area shape="rect" id="node4" href="$d3/dc7/classtasks_1_1serial_1_1term.html#a62420d818fc7baba43c70619ec65fa07" title="Access terminal options. " alt="" coords="358,23,485,64"/>
+<area shape="rect" id="node5" href="$d3/dc7/classtasks_1_1serial_1_1term.html#a6ab3420af9cd8303bdbaa78831bb1fb2" title="Set terminal options. " alt="" coords="358,88,485,130"/>
+</map>

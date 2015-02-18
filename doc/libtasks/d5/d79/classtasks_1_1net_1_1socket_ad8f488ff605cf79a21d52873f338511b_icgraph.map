@@ -1,0 +1,12 @@
+<map id="tasks::net::socket::init_sockaddr" name="tasks::net::socket::init_sockaddr">
+<area shape="rect" id="node2" href="$d5/d79/classtasks_1_1net_1_1socket.html#a733ebe80cf5397440d979fd0a25ef986" title="tasks::net::socket\l::bind" alt="" coords="182,99,309,141"/>
+<area shape="rect" id="node3" href="$d5/d79/classtasks_1_1net_1_1socket.html#a1730bf0b7cdfe224a3d9b0b58400f05c" title="tasks::net::socket\l::write" alt="" coords="182,165,309,206"/>
+<area shape="rect" id="node4" href="$de/d57/classecho__handler.html#a1b2bf191622c4bcb2ac1d25c2da4cc45" title="echo_handler::handle\l_event" alt="" coords="358,5,503,46"/>
+<area shape="rect" id="node5" href="$d5/d84/classtasks_1_1net_1_1http__base.html#ac6f63784a2f821d248cd8a65f3068aaa" title="tasks::net::http_base\l::write_headers" alt="" coords="358,70,503,111"/>
+<area shape="rect" id="node8" href="$d5/d84/classtasks_1_1net_1_1http__base.html#a923c3574efcb3be598775e3a633b6ff0" title="tasks::net::http_base\l::write_content" alt="" coords="358,135,503,177"/>
+<area shape="rect" id="node9" href="$d5/d6c/classtest__socket.html#a3358b600ab10f80b3dfe691e4f0a80b9" title="test_socket::tcp" alt="" coords="373,201,489,228"/>
+<area shape="rect" id="node10" href="$d5/d6c/classtest__socket.html#ab95cc4790a3c2dcddfd6795e5cc07da7" title="test_socket::udp" alt="" coords="371,252,490,279"/>
+<area shape="rect" id="node11" href="$d5/d6c/classtest__socket.html#a3e22f36f531e046ff56d124d017a7022" title="test_socket::unix" alt="" coords="369,303,492,329"/>
+<area shape="rect" id="node6" href="$d5/d84/classtasks_1_1net_1_1http__base.html#ae6a64dae6aa6e72483f6e50dbee32401" title="tasks::net::http_base\l::write_data" alt="" coords="553,103,698,145"/>
+<area shape="rect" id="node7" href="$d1/da5/classtasks_1_1net_1_1uwsgi__task.html#ae36e9d54f000a845707dca0f80c97031" title="tasks::net::uwsgi_task\l::handle_event" alt="" coords="747,103,901,145"/>
+</map>

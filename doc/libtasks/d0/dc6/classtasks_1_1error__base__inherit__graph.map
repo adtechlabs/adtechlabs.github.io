@@ -1,0 +1,22 @@
+<map id="tasks::error_base" name="tasks::error_base">
+<area shape="rect" id="node2" href="$d6/d2e/classtasks_1_1event__task.html" title="tasks::event_task" alt="" coords="214,136,341,163"/>
+<area shape="rect" id="node18" href="$d8/d64/classtasks_1_1net_1_1uwsgi__thrift__async__handler.html" title="tasks::net::uwsgi_thrift\l_async_handler\&lt; thrift\l_result_type, thrift_args_type \&gt;" alt="" coords="176,187,379,243"/>
+<area shape="rect" id="node19" href="$d8/d64/classtasks_1_1net_1_1uwsgi__thrift__async__handler.html" title="tasks::net::uwsgi_thrift\l_async_handler\&lt; IpService\l_lookup_result, IpService\l_lookup_args \&gt;" alt="" coords="187,267,367,338"/>
+<area shape="rect" id="node3" href="$d9/d52/classtasks_1_1disk__io__task.html" title="tasks::disk_io_task" alt="" coords="429,85,563,112"/>
+<area shape="rect" id="node4" href="$de/de3/classtasks_1_1io__task__base.html" title="This is the base class for io event tasks. It controls an ev_io watcher that monitors io events on fi..." alt="" coords="427,136,565,163"/>
+<area shape="rect" id="node15" href="$d5/d9a/classtasks_1_1timer__task.html" title="tasks::timer_task" alt="" coords="435,187,557,213"/>
+<area shape="rect" id="node5" href="$d0/dac/classtasks_1_1net__io__task.html" title="The net_io_task implements the base for socket based network tasks. " alt="" coords="621,85,750,112"/>
+<area shape="rect" id="node14" href="$d1/dd2/classtasks_1_1serial__io__task.html" title="The serial_io_task implements the base tasks that implement serial communication. ..." alt="" coords="614,136,757,163"/>
+<area shape="rect" id="node6" href="$de/d57/classecho__handler.html" title="echo_handler" alt="" coords="841,5,940,32"/>
+<area shape="rect" id="node7" href="$dc/d51/classtasks_1_1net_1_1acceptor.html" title="tasks::net::acceptor\&lt; T \&gt;" alt="" coords="805,56,976,83"/>
+<area shape="rect" id="node8" href="$d5/d2c/classtasks_1_1net_1_1http__sender.html" title="tasks::net::http_sender\l\&lt; handler_type \&gt;" alt="" coords="813,107,969,149"/>
+<area shape="rect" id="node9" href="$d1/da5/classtasks_1_1net_1_1uwsgi__task.html" title="tasks::net::uwsgi_task" alt="" coords="813,173,968,200"/>
+<area shape="rect" id="node13" href="$dd/d3f/classtest__http__close__handler.html" title="test_http_close_handler" alt="" coords="811,224,971,251"/>
+<area shape="rect" id="node10" href="$da/d73/classtasks_1_1net_1_1uwsgi__thrift__async__processor.html" title="tasks::net::uwsgi_thrift\l_async_processor\&lt; handler_type \&gt;" alt="" coords="1024,61,1251,102"/>
+<area shape="rect" id="node11" href="$d3/d84/classtasks_1_1net_1_1uwsgi__thrift__processor.html" title="tasks::net::uwsgi_thrift\l_processor\&lt; processor_type,\l handler_type \&gt;" alt="" coords="1042,125,1233,181"/>
+<area shape="rect" id="node12" href="$d7/d8f/classuwsgi__handler.html" title="uwsgi_handler" alt="" coords="1085,205,1190,232"/>
+<area shape="rect" id="node16" href="$d2/da7/classstats.html" title="stats" alt="" coords="660,187,711,213"/>
+<area shape="rect" id="node17" href="$d0/d74/classtasks_1_1cleanup__task.html" title="tasks::cleanup_task" alt="" coords="616,237,755,264"/>
+<area shape="rect" id="node20" href="$d6/d07/classip__service__async1.html" title="ip_service_async1" alt="" coords="431,264,561,291"/>
+<area shape="rect" id="node21" href="$d8/d15/classip__service__async2.html" title="ip_service_async2" alt="" coords="431,315,561,341"/>
+</map>

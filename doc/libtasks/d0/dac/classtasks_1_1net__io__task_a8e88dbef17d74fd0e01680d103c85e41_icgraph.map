@@ -1,0 +1,6 @@
+<map id="tasks::net_io_task::iob" name="tasks::net_io_task::iob">
+<area shape="rect" id="node2" href="$d0/dac/classtasks_1_1net__io__task.html#a539d229727ed78d1a3b87594a93fd08d" title="A debug helper. " alt="" coords="209,70,338,111"/>
+<area shape="rect" id="node3" href="$d0/dac/classtasks_1_1net__io__task.html#a8bf9ca732a0622358b0064446940805a" title="tasks::net_io_task\l::net_io_task" alt="" coords="387,5,517,46"/>
+<area shape="rect" id="node4" href="$d0/dac/classtasks_1_1net__io__task.html#ab98e9b708c527c6c35f7a873615a60fd" title="tasks::net_io_task\l::~net_io_task" alt="" coords="387,70,517,111"/>
+<area shape="rect" id="node5" href="$d0/dac/classtasks_1_1net__io__task.html#ac9af98f1bea22c48939d657d88293067" title="tasks::net_io_task\l::add_task" alt="" coords="387,135,517,177"/>
+</map>

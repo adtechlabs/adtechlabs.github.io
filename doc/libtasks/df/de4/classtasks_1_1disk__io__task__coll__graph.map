@@ -1,0 +1,16 @@
+<map id="tasks::disk_io_task" name="tasks::disk_io_task">
+<area shape="rect" id="node2" href="$d6/d2e/classtasks_1_1event__task.html" title="tasks::event_task" alt="" coords="989,112,1115,139"/>
+<area shape="rect" id="node15" href="$d2/dea/structtasks_1_1event.html" title="tasks::event" alt="" coords="1229,136,1323,163"/>
+<area shape="rect" id="node3" href="$d7/d3c/classtasks_1_1task.html" title="The base class for any task. " alt="" coords="741,169,827,196"/>
+<area shape="rect" id="node5" href="$de/d45/structtasks_1_1task_1_1finish__func__t.html" title="tasks::task::finish\l_func_t" alt="" coords="185,162,311,203"/>
+<area shape="rect" id="node6" href="$d8/d49/classtasks_1_1error__base.html" title="A helper class for basic error reporting. " alt="" coords="723,39,845,65"/>
+<area shape="rect" id="node7" href="$d2/d2f/classtasks_1_1tasks__exception.html" title="Tasks execption class. " alt="" coords="419,39,576,65"/>
+<area shape="rect" id="node8" title="STL class. " alt="" coords="196,63,300,89"/>
+<area shape="rect" id="node9" title="STL class. " alt="" coords="208,12,288,39"/>
+<area shape="rect" id="node10" title="STL class. " alt="" coords="6,5,133,46"/>
+<area shape="rect" id="node12" href="$d1/de1/structtasks_1_1event__task_1_1error__func__t.html" title="tasks::event_task::\lerror_func_t" alt="" coords="430,97,565,138"/>
+<area shape="rect" id="node13" href="$df/d43/classtasks_1_1worker.html" title="tasks::worker" alt="" coords="1757,183,1859,209"/>
+<area shape="rect" id="node17" href="$dd/dff/structtasks_1_1loop__t.html" title="Needed to use std::unique_ptr&lt;&gt; " alt="" coords="1227,237,1325,264"/>
+<area shape="rect" id="node19" title="STL class. " alt="" coords="1234,288,1318,315"/>
+<area shape="rect" id="node20" href="$dd/d66/classtasks_1_1tools_1_1buffer.html" title="tasks::tools::buffer" alt="" coords="987,220,1117,247"/>
+</map>

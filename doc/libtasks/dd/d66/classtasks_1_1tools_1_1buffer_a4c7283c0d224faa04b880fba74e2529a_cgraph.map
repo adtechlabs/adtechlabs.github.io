@@ -1,0 +1,11 @@
+<map id="tasks::tools::buffer::overflow" name="tasks::tools::buffer::overflow">
+<area shape="rect" id="node2" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#ae2d553ad39e48e38223e11d6cdff0942" title="tasks::tools::buffer\l::sputc" alt="" coords="184,194,315,235"/>
+<area shape="rect" id="node3" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#a0e7449147cc621704167c8f9476252fa" title="tasks::tools::buffer\l::set_size" alt="" coords="363,194,493,235"/>
+<area shape="rect" id="node4" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#ad0eedb9145d09170ec24107999b9d8ee" title="tasks::tools::buffer\l::ptr_read" alt="" coords="553,5,684,46"/>
+<area shape="rect" id="node5" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#aff2ff10a6510772460f298006d29402d" title="tasks::tools::buffer\l::ptr_write" alt="" coords="553,70,684,111"/>
+<area shape="rect" id="node6" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#a921ee00ee75b2e36470e62a79e52e9a8" title="tasks::tools::buffer\l::offset_read" alt="" coords="553,135,684,177"/>
+<area shape="rect" id="node7" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#a9bf648c8ca66a88555105a01b68c8b7d" title="tasks::tools::buffer\l::ptr_begin" alt="" coords="744,194,875,235"/>
+<area shape="rect" id="node8" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#a3249f073f0459f612626ebdd8422dc1c" title="tasks::tools::buffer\l::offset_write" alt="" coords="553,253,684,294"/>
+<area shape="rect" id="node9" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#a1a4f0a538f046c0e640941529d9bffcb" title="tasks::tools::buffer::ptr" alt="" coords="541,319,696,345"/>
+<area shape="rect" id="node10" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#a7ba8895adf0e926c085e69b3b5f9654a" title="tasks::tools::buffer\l::ptr_end" alt="" coords="553,370,684,411"/>
+</map>

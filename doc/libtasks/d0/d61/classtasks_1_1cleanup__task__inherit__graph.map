@@ -1,0 +1,6 @@
+<map id="tasks::cleanup_task" name="tasks::cleanup_task">
+<area shape="rect" id="node2" href="$d5/d9a/classtasks_1_1timer__task.html" title="tasks::timer_task" alt="" coords="51,155,173,181"/>
+<area shape="rect" id="node3" href="$d6/d2e/classtasks_1_1event__task.html" title="tasks::event_task" alt="" coords="49,80,175,107"/>
+<area shape="rect" id="node4" href="$d7/d3c/classtasks_1_1task.html" title="The base class for any task. " alt="" coords="5,5,91,32"/>
+<area shape="rect" id="node5" href="$d8/d49/classtasks_1_1error__base.html" title="A helper class for basic error reporting. " alt="" coords="116,5,239,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="tasks::net_io_task::get_string" name="tasks::net_io_task::get_string">
+<area shape="rect" id="node2" href="$d0/dac/classtasks_1_1net__io__task.html#a8bf9ca732a0622358b0064446940805a" title="tasks::net_io_task\l::net_io_task" alt="" coords="185,5,314,46"/>
+<area shape="rect" id="node3" href="$d0/dac/classtasks_1_1net__io__task.html#ab98e9b708c527c6c35f7a873615a60fd" title="tasks::net_io_task\l::~net_io_task" alt="" coords="185,70,314,111"/>
+<area shape="rect" id="node4" href="$d0/dac/classtasks_1_1net__io__task.html#ac9af98f1bea22c48939d657d88293067" title="tasks::net_io_task\l::add_task" alt="" coords="185,135,314,177"/>
+</map>

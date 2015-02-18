@@ -1,0 +1,6 @@
+<map id="tasks::net::uwsgi_task::response" name="tasks::net::uwsgi_task::response">
+<area shape="rect" id="node2" href="$d7/d8f/classuwsgi__handler.html#a27cb6c799556b646dae3b9749204b0b9" title="uwsgi_handler::handle\l_request" alt="" coords="225,5,375,46"/>
+<area shape="rect" id="node3" href="$d8/d64/classtasks_1_1net_1_1uwsgi__thrift__async__handler.html#a82b19c75d400a6f340776b50ed91f70a" title="tasks::net::uwsgi_thrift\l_async_handler\&lt; IpService\l_lookup_result, IpService\l_lookup_args \&gt;::response" alt="" coords="210,70,390,141"/>
+<area shape="rect" id="node4" href="$d0/d91/classtasks_1_1net_1_1uwsgi__thrift__handler.html#a47a84b42137042a078970a90f1f8d49f" title="tasks::net::uwsgi_thrift\l_handler\&lt; IpServiceIf \&gt;\l::response" alt="" coords="221,165,379,221"/>
+<area shape="rect" id="node5" href="$d3/d84/classtasks_1_1net_1_1uwsgi__thrift__processor.html#a0db99757d968baf1fccf273b130e13d0" title="tasks::net::uwsgi_thrift\l_processor::handle_request" alt="" coords="209,245,391,286"/>
+</map>

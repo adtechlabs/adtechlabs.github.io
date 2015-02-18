@@ -1,0 +1,7 @@
+<map id="tasks::serial_io_task::serial_io_task" name="tasks::serial_io_task::serial_io_task">
+<area shape="rect" id="node2" href="$d1/dd2/classtasks_1_1serial__io__task.html#a301caa229966268450e40cc38ad11481" title="Provide access to the underlying term object. " alt="" coords="198,5,341,46"/>
+<area shape="rect" id="node3" href="$d8/dc6/classio__base.html#adc05fe8d252619fbb09af87852ec7acb" title="io_base::fd" alt="" coords="429,71,515,97"/>
+<area shape="rect" id="node4" href="$de/de3/classtasks_1_1io__task__base.html#a2cc08c934cd5bbb207339597d7ca2776" title="Initialize the watcher. " alt="" coords="200,122,339,163"/>
+<area shape="rect" id="node5" href="$de/de3/classtasks_1_1io__task__base.html#a91ca05cd25045bf71d7012fa7dffce29" title="tasks::io_task_base\l::get_string" alt="" coords="403,122,541,163"/>
+<area shape="rect" id="node6" href="$de/de3/classtasks_1_1io__task__base.html#a92e3afa31b892d26a1cd5ada0a8e2c3d" title="Return the io_base object. " alt="" coords="390,188,554,215"/>
+</map>

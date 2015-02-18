@@ -1,0 +1,6 @@
+<map id="ip_service_async1::service" name="ip_service_async1::service">
+<area shape="rect" id="node2" href="$d8/d64/classtasks_1_1net_1_1uwsgi__thrift__async__handler.html#addd8d3a4738dfdb80a2af1c3d1f1f6a4" title="tasks::net::uwsgi_thrift\l_async_handler\&lt; IpService\l_lookup_result, IpService\l_lookup_args \&gt;::result" alt="" coords="193,5,373,75"/>
+<area shape="rect" id="node3" href="$d8/d64/classtasks_1_1net_1_1uwsgi__thrift__async__handler.html#a645feca93565947c36bb89194d9ad956" title="tasks::net::uwsgi_thrift\l_async_handler\&lt; IpService\l_lookup_result, IpService\l_lookup_args \&gt;::set_error" alt="" coords="193,99,373,170"/>
+<area shape="rect" id="node5" href="$d8/d64/classtasks_1_1net_1_1uwsgi__thrift__async__handler.html#ad39ace6c5d1a7da07b2e311b15bf58a3" title="tasks::net::uwsgi_thrift\l_async_handler\&lt; IpService\l_lookup_result, IpService\l_lookup_args \&gt;::finish" alt="" coords="193,194,373,265"/>
+<area shape="rect" id="node4" href="$d8/d49/classtasks_1_1error__base.html#a8d9ac4103fa0513280b2be58625002fe" title="Set an exception to report an error. " alt="" coords="421,114,552,155"/>
+</map>

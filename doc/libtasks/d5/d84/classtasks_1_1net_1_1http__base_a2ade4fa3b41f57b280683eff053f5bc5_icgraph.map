@@ -1,0 +1,4 @@
+<map id="tasks::net::http_base::set_header" name="tasks::net::http_base::set_header">
+<area shape="rect" id="node2" href="$d7/d8f/classuwsgi__handler.html#a27cb6c799556b646dae3b9749204b0b9" title="uwsgi_handler::handle\l_request" alt="" coords="217,5,367,46"/>
+<area shape="rect" id="node3" href="$d3/d84/classtasks_1_1net_1_1uwsgi__thrift__processor.html#a0db99757d968baf1fccf273b130e13d0" title="tasks::net::uwsgi_thrift\l_processor::handle_request" alt="" coords="201,70,383,111"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="test_http_sender.cpp" name="test_http_sender.cpp">
+<area shape="rect" id="node2" href="$d2/d1d/test__http__sender_8h.html" title="test_http_sender.h" alt="" coords="1957,80,2087,107"/>
+<area shape="rect" id="node50" href="$d1/d31/acceptor_8h.html" title="tasks/net/acceptor.h" alt="" coords="2357,163,2497,189"/>
+<area shape="rect" id="node6" href="$da/d73/dispatcher_8h.html" title="tasks/dispatcher.h" alt="" coords="2057,485,2185,512"/>
+<area shape="rect" id="node23" href="$dc/d28/net__io__task_8h.html" title="tasks/net_io_task.h" alt="" coords="1333,245,1468,272"/>
+<area shape="rect" id="node39" href="$db/db0/http__sender_8h.html" title="tasks/net/http_sender.h" alt="" coords="1019,163,1177,189"/>
+<area shape="rect" id="node14" href="$d7/d68/ev__wrapper_8h.html" title="tasks/ev_wrapper.h" alt="" coords="1525,560,1660,587"/>
+<area shape="rect" id="node16" href="$d1/d69/bitset_8h.html" title="tasks/tools/bitset.h" alt="" coords="2055,560,2188,587"/>
+<area shape="rect" id="node19" href="$d5/d77/logging_8h.html" title="tasks/logging.h" alt="" coords="1299,560,1409,587"/>
+<area shape="rect" id="node24" href="$da/d21/io__task__base_8h.html" title="tasks/io_task_base.h" alt="" coords="1328,320,1475,347"/>
+<area shape="rect" id="node34" href="$da/ddd/socket_8h.html" title="tasks/net/socket.h" alt="" coords="779,403,908,429"/>
+<area shape="rect" id="node25" href="$df/d29/event__task_8h.html" title="tasks/event_task.h" alt="" coords="1664,403,1797,429"/>
+<area shape="rect" id="node32" href="$d5/dbe/disposable_8h.html" title="tasks/disposable.h" alt="" coords="1528,485,1657,512"/>
+<area shape="rect" id="node33" href="$dd/d9a/io__base_8h.html" title="tasks/io_base.h" alt="" coords="1288,485,1403,512"/>
+<area shape="rect" id="node26" href="$db/da4/task_8h.html" title="tasks/task.h" alt="" coords="1886,485,1980,512"/>
+<area shape="rect" id="node28" href="$d9/d69/error__base_8h.html" title="tasks/error_base.h" alt="" coords="144,485,273,512"/>
+<area shape="rect" id="node31" href="$d9/df0/tasks__exception_8h.html" title="tasks/tasks_exception.h" alt="" coords="221,560,384,587"/>
+<area shape="rect" id="node40" href="$da/da5/worker_8h.html" title="tasks/worker.h" alt="" coords="1863,320,1971,347"/>
+<area shape="rect" id="node42" href="$d2/de4/http__request_8h.html" title="tasks/net/http_request.h" alt="" coords="693,245,856,272"/>
+<area shape="rect" id="node49" href="$de/d49/http__response_8h.html" title="tasks/net/http_response.h" alt="" coords="495,245,668,272"/>
+<area shape="rect" id="node43" href="$da/d94/http__base_8h.html" title="tasks/net/http_base.h" alt="" coords="503,320,651,347"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="tasks::net_io_task::net_io_task" name="tasks::net_io_task::net_io_task">
+<area shape="rect" id="node2" href="$d0/dac/classtasks_1_1net__io__task.html#a539d229727ed78d1a3b87594a93fd08d" title="A debug helper. " alt="" coords="189,57,318,98"/>
+<area shape="rect" id="node4" href="$d8/dc6/classio__base.html#adc05fe8d252619fbb09af87852ec7acb" title="io_base::fd" alt="" coords="410,123,497,149"/>
+<area shape="rect" id="node6" href="$d0/dac/classtasks_1_1net__io__task.html#a9a6b7444547c1eaa4a03ea33882b4111" title="Provide access to the underlying socket object. " alt="" coords="189,174,318,215"/>
+<area shape="rect" id="node7" href="$de/de3/classtasks_1_1io__task__base.html#a2cc08c934cd5bbb207339597d7ca2776" title="Initialize the watcher. " alt="" coords="184,239,323,281"/>
+<area shape="rect" id="node3" href="$d0/dac/classtasks_1_1net__io__task.html#a8e88dbef17d74fd0e01680d103c85e41" title="Grant socket access to the io_task_base. " alt="" coords="376,5,531,32"/>
+<area shape="rect" id="node5" href="$de/de3/classtasks_1_1io__task__base.html#a13443986e9978674fc95c1baf0375180" title="Return the monitored events. " alt="" coords="384,57,523,98"/>
+<area shape="rect" id="node8" href="$de/de3/classtasks_1_1io__task__base.html#a91ca05cd25045bf71d7012fa7dffce29" title="tasks::io_task_base\l::get_string" alt="" coords="384,210,523,251"/>
+<area shape="rect" id="node9" href="$de/de3/classtasks_1_1io__task__base.html#a92e3afa31b892d26a1cd5ada0a8e2c3d" title="Return the io_base object. " alt="" coords="371,276,535,303"/>
+</map>

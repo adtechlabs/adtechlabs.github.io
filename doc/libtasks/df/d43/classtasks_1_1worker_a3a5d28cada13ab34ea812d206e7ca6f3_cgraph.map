@@ -1,0 +1,10 @@
+<map id="tasks::worker::run" name="tasks::worker::run">
+<area shape="rect" id="node2" href="$df/d43/classtasks_1_1worker.html#a4c3a7f55b32bd209fd4a53b674ee8b69" title="Let the dispatcher know that this thread is free to become a leader and take on some work..." alt="" coords="182,73,349,100"/>
+<area shape="rect" id="node5" href="$df/d43/classtasks_1_1worker.html#a04be4543069f9c63f0ca0604a869c1e4" title="tasks::worker::get\l_string" alt="" coords="202,125,329,166"/>
+<area shape="rect" id="node6" href="$df/d43/classtasks_1_1worker.html#ac942bd223671898c55e3f57c647bcfc9" title="Find a free worker and promote it to become the next leader. " alt="" coords="187,7,343,49"/>
+<area shape="rect" id="node7" href="$d8/d49/classtasks_1_1error__base.html#a8584b2fe6056ef434ceeeb5f7a72f761" title="Return true if an error occured. " alt="" coords="200,190,331,231"/>
+<area shape="rect" id="node9" href="$d7/d3c/classtasks_1_1task.html#af5a79fa4e4500894378a1cdfbcde7550" title="Returns true if auto deletion is active. " alt="" coords="184,256,347,283"/>
+<area shape="rect" id="node3" href="$d6/dc9/classtasks_1_1dispatcher.html#a274be124d8a11e9a68a8debb69daac0b" title="tasks::dispatcher::\lrun_mode" alt="" coords="411,70,541,111"/>
+<area shape="rect" id="node4" href="$d6/dc9/classtasks_1_1dispatcher.html#a36c445936d02e0bdd2f6d064311efb5e" title="tasks::dispatcher::\linstance" alt="" coords="411,5,541,46"/>
+<area shape="rect" id="node8" href="$d2/d2f/classtasks_1_1tasks__exception.html#ad0db42130626175b5f1fe74a52bacf66" title="Return the error code. " alt="" coords="397,190,555,231"/>
+</map>

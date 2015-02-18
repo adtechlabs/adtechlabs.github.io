@@ -1,0 +1,10 @@
+<map id="tasks::net::socket::write" name="tasks::net::socket::write">
+<area shape="rect" id="node2" href="$de/d57/classecho__handler.html#a1b2bf191622c4bcb2ac1d25c2da4cc45" title="echo_handler::handle\l_event" alt="" coords="182,5,327,46"/>
+<area shape="rect" id="node3" href="$d5/d84/classtasks_1_1net_1_1http__base.html#ac6f63784a2f821d248cd8a65f3068aaa" title="tasks::net::http_base\l::write_headers" alt="" coords="182,70,327,111"/>
+<area shape="rect" id="node6" href="$d5/d84/classtasks_1_1net_1_1http__base.html#a923c3574efcb3be598775e3a633b6ff0" title="tasks::net::http_base\l::write_content" alt="" coords="182,135,327,177"/>
+<area shape="rect" id="node7" href="$d5/d6c/classtest__socket.html#a3358b600ab10f80b3dfe691e4f0a80b9" title="test_socket::tcp" alt="" coords="197,201,313,228"/>
+<area shape="rect" id="node8" href="$d5/d6c/classtest__socket.html#ab95cc4790a3c2dcddfd6795e5cc07da7" title="test_socket::udp" alt="" coords="195,252,314,279"/>
+<area shape="rect" id="node9" href="$d5/d6c/classtest__socket.html#a3e22f36f531e046ff56d124d017a7022" title="test_socket::unix" alt="" coords="193,303,316,329"/>
+<area shape="rect" id="node4" href="$d5/d84/classtasks_1_1net_1_1http__base.html#ae6a64dae6aa6e72483f6e50dbee32401" title="tasks::net::http_base\l::write_data" alt="" coords="377,103,522,145"/>
+<area shape="rect" id="node5" href="$d1/da5/classtasks_1_1net_1_1uwsgi__task.html#ae36e9d54f000a845707dca0f80c97031" title="tasks::net::uwsgi_task\l::handle_event" alt="" coords="571,103,725,145"/>
+</map>

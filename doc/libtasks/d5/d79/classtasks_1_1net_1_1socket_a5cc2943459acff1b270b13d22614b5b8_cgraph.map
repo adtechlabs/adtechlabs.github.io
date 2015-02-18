@@ -1,0 +1,6 @@
+<map id="tasks::net::socket::listen" name="tasks::net::socket::listen">
+<area shape="rect" id="node2" href="$d5/d79/classtasks_1_1net_1_1socket.html#aeec4664123928381e60ab090995a3687" title="tasks::net::socket::udp" alt="" coords="182,5,338,32"/>
+<area shape="rect" id="node3" href="$d5/d79/classtasks_1_1net_1_1socket.html#a4c6c2915bbcce71ead9f639a5b179270" title="tasks::net::socket\l::bind" alt="" coords="387,49,514,90"/>
+<area shape="rect" id="node4" href="$d5/d79/classtasks_1_1net_1_1socket.html#a7fc48d9aa3190b407c891466c3580897" title="tasks::net::socket\l::listen" alt="" coords="197,107,323,149"/>
+<area shape="rect" id="node5" href="$d5/d79/classtasks_1_1net_1_1socket.html#afad539f32d439ff911cee347cf88a8e2" title="tasks::net::socket\l::socket" alt="" coords="387,114,514,155"/>
+</map>

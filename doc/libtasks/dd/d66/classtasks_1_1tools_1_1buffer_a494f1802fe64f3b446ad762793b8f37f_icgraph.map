@@ -1,0 +1,8 @@
+<map id="tasks::tools::buffer::clear" name="tasks::tools::buffer::clear">
+<area shape="rect" id="node2" href="$d5/d84/classtasks_1_1net_1_1http__base.html#a22c77ae44ee6f22484dd11e3f87969f2" title="tasks::net::http_base\l::clear" alt="" coords="185,70,330,111"/>
+<area shape="rect" id="node7" href="$d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a8af345ebdc8d5fab1f49c80bb8991361" title="tasks::net::uwsgi_request\l::clear" alt="" coords="598,133,770,174"/>
+<area shape="rect" id="node3" href="$d3/d58/classtasks_1_1net_1_1http__request.html#a0ea173b27bfb6a379918dc6956c9cca7" title="tasks::net::http_request\l::clear" alt="" coords="384,5,544,46"/>
+<area shape="rect" id="node4" href="$d5/d2f/classtasks_1_1net_1_1http__response.html#a52a509d321442026371d94658c5160f7" title="tasks::net::http_response\l::clear" alt="" coords="379,70,549,111"/>
+<area shape="rect" id="node5" href="$d1/da5/classtasks_1_1net_1_1uwsgi__task.html#acd5f111537a00cde88ee733e63ff3be4" title="tasks::net::uwsgi_task\l::finish_request" alt="" coords="607,67,761,109"/>
+<area shape="rect" id="node6" href="$d1/da5/classtasks_1_1net_1_1uwsgi__task.html#ae36e9d54f000a845707dca0f80c97031" title="tasks::net::uwsgi_task\l::handle_event" alt="" coords="819,101,973,142"/>
+</map>

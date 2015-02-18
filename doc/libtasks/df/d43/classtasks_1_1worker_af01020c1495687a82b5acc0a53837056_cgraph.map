@@ -1,0 +1,4 @@
+<map id="tasks::worker::exec_in_worker_ctx" name="tasks::worker::exec_in_worker_ctx">
+<area shape="rect" id="node2" href="$df/d43/classtasks_1_1worker.html#af9d8fcab43c8b5e4b98374babd5d8884" title="Provide access to the executing worker thread object in the current thread context. " alt="" coords="214,5,341,32"/>
+<area shape="rect" id="node3" href="$df/d43/classtasks_1_1worker.html#a49ce862b14b1ec7d08ad9ae3e34a8f61" title="Put a functor into the async work queue of a worker and notify it. " alt="" coords="192,56,363,83"/>
+</map>

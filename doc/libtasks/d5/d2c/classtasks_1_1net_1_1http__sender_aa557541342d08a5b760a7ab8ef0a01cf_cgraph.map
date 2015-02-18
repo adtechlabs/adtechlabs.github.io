@@ -1,0 +1,18 @@
+<map id="tasks::net::http_sender::send" name="tasks::net::http_sender::send">
+<area shape="rect" id="node2" href="$d6/dc9/classtasks_1_1dispatcher.html#a36c445936d02e0bdd2f6d064311efb5e" title="tasks::dispatcher::\linstance" alt="" coords="224,5,355,46"/>
+<area shape="rect" id="node3" href="$d5/d2c/classtasks_1_1net_1_1http__sender.html#a9d10adfa0782fc564cdf4698f15f387c" title="tasks::net::http_sender\l::connected" alt="" coords="211,122,367,163"/>
+<area shape="rect" id="node4" href="$d0/dac/classtasks_1_1net__io__task.html#a9a6b7444547c1eaa4a03ea33882b4111" title="Provide access to the underlying socket object. " alt="" coords="434,63,563,105"/>
+<area shape="rect" id="node6" href="$de/de3/classtasks_1_1io__task__base.html#a3ae2cf1cccb7db2337eefcfbdc4c6417" title="Stop a watcher in the context of the given worker. " alt="" coords="220,253,359,294"/>
+<area shape="rect" id="node11" href="$d8/dc6/classio__base.html#aa9e9f5eba342c4b88138abaaf3856109" title="io_base::close" alt="" coords="236,384,343,411"/>
+<area shape="rect" id="node12" href="$de/de3/classtasks_1_1io__task__base.html#acc0fd61e882c4cadc71bebc6b71906bd" title="Update the events the object monitors. " alt="" coords="220,318,359,359"/>
+<area shape="rect" id="node14" href="$d5/d79/classtasks_1_1net_1_1socket.html#a8300379d403e015e38284929f270f76c" title="tasks::net::socket\l::connect" alt="" coords="226,435,353,477"/>
+<area shape="rect" id="node16" href="$de/de3/classtasks_1_1io__task__base.html#a9f80b3d6463ffcf3fed9f05c1af1cca4" title="Udate a watcher in the context of the given worker. " alt="" coords="220,187,359,229"/>
+<area shape="rect" id="node5" href="$d8/dc6/classio__base.html#adc05fe8d252619fbb09af87852ec7acb" title="io_base::fd" alt="" coords="455,129,542,156"/>
+<area shape="rect" id="node7" href="$df/d43/classtasks_1_1worker.html#af01020c1495687a82b5acc0a53837056" title="tasks::worker::exec\l_in_worker_ctx" alt="" coords="430,231,567,273"/>
+<area shape="rect" id="node10" href="$de/de3/classtasks_1_1io__task__base.html#a91ca05cd25045bf71d7012fa7dffce29" title="tasks::io_task_base\l::get_string" alt="" coords="429,297,568,338"/>
+<area shape="rect" id="node8" href="$df/d43/classtasks_1_1worker.html#af9d8fcab43c8b5e4b98374babd5d8884" title="Provide access to the executing worker thread object in the current thread context. " alt="" coords="651,213,778,240"/>
+<area shape="rect" id="node9" href="$df/d43/classtasks_1_1worker.html#a49ce862b14b1ec7d08ad9ae3e34a8f61" title="Put a functor into the async work queue of a worker and notify it. " alt="" coords="629,264,800,291"/>
+<area shape="rect" id="node13" href="$de/de3/classtasks_1_1io__task__base.html#a13443986e9978674fc95c1baf0375180" title="Return the monitored events. " alt="" coords="429,362,568,403"/>
+<area shape="rect" id="node15" href="$d5/d79/classtasks_1_1net_1_1socket.html#afad539f32d439ff911cee347cf88a8e2" title="tasks::net::socket\l::socket" alt="" coords="435,435,562,477"/>
+<area shape="rect" id="node17" href="$de/de3/classtasks_1_1io__task__base.html#a92e3afa31b892d26a1cd5ada0a8e2c3d" title="Return the io_base object. " alt="" coords="417,180,581,207"/>
+</map>

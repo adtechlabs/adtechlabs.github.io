@@ -1,0 +1,4 @@
+<map id="tasks::error_base::sys_errno_str" name="tasks::error_base::sys_errno_str">
+<area shape="rect" id="node2" href="$d8/d49/classtasks_1_1error__base.html#ad04791486417be710c81a6a24be40501" title="Return the errno if available. " alt="" coords="184,5,315,46"/>
+<area shape="rect" id="node3" href="$d2/d2f/classtasks_1_1tasks__exception.html#a03c2977c2ca584635b9d32fba5828506" title="Return the errno if available. " alt="" coords="363,5,520,46"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="tasks::net::uwsgi_request::read" name="tasks::net::uwsgi_request::read">
+<area shape="rect" id="node2" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#a4aa78ebe1f30b9516503840a996ca0e1" title="tasks::tools::buffer\l::read" alt="" coords="227,38,357,79"/>
+<area shape="rect" id="node3" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#a92afa6540d886099f72343eae8e4323e" title="tasks::tools::buffer\l::xsgetn" alt="" coords="405,38,536,79"/>
+<area shape="rect" id="node4" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#af5630314b25a87931d442e3b457c09e4" title="tasks::tools::buffer\l::size" alt="" coords="584,5,715,46"/>
+<area shape="rect" id="node5" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#a45b0a29d59c21606a91fea4e30b493a3" title="tasks::tools::buffer\l::to_read" alt="" coords="584,70,715,111"/>
+<area shape="rect" id="node6" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#a7ba8895adf0e926c085e69b3b5f9654a" title="tasks::tools::buffer\l::ptr_end" alt="" coords="763,70,893,111"/>
+</map>

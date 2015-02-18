@@ -1,0 +1,8 @@
+<map id="tasks::io_task_base::update_watcher" name="tasks::io_task_base::update_watcher">
+<area shape="rect" id="node2" href="$df/d43/classtasks_1_1worker.html#af01020c1495687a82b5acc0a53837056" title="tasks::worker::exec\l_in_worker_ctx" alt="" coords="206,23,343,65"/>
+<area shape="rect" id="node5" href="$de/de3/classtasks_1_1io__task__base.html#a91ca05cd25045bf71d7012fa7dffce29" title="tasks::io_task_base\l::get_string" alt="" coords="205,89,344,130"/>
+<area shape="rect" id="node6" href="$de/de3/classtasks_1_1io__task__base.html#a92e3afa31b892d26a1cd5ada0a8e2c3d" title="Return the io_base object. " alt="" coords="193,155,357,181"/>
+<area shape="rect" id="node7" href="$d8/dc6/classio__base.html#adc05fe8d252619fbb09af87852ec7acb" title="io_base::fd" alt="" coords="231,205,318,232"/>
+<area shape="rect" id="node3" href="$df/d43/classtasks_1_1worker.html#af9d8fcab43c8b5e4b98374babd5d8884" title="Provide access to the executing worker thread object in the current thread context. " alt="" coords="427,5,554,32"/>
+<area shape="rect" id="node4" href="$df/d43/classtasks_1_1worker.html#a49ce862b14b1ec7d08ad9ae3e34a8f61" title="Put a functor into the async work queue of a worker and notify it. " alt="" coords="405,56,576,83"/>
+</map>

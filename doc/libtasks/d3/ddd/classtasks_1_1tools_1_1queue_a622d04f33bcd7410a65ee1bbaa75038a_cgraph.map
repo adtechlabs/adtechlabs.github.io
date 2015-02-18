@@ -1,0 +1,4 @@
+<map id="tasks::tools::queue::pop" name="tasks::tools::queue::pop">
+<area shape="rect" id="node2" href="$d6/d0d/classtasks_1_1tools_1_1spinlock.html#a0d46a1425ac4da0c25c883cb47e1bcad" title="tasks::tools::spinlock\l::lock" alt="" coords="216,5,363,46"/>
+<area shape="rect" id="node3" href="$d6/d0d/classtasks_1_1tools_1_1spinlock.html#af2ad7198a8fc6dc6c8ac4f7fa9835322" title="tasks::tools::spinlock\l::unlock" alt="" coords="216,70,363,111"/>
+</map>

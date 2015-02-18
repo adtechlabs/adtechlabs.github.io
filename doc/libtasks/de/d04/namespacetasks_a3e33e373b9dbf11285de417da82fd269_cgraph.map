@@ -1,0 +1,5 @@
+<map id="tasks::tasks_async_callback" name="tasks::tasks_async_callback">
+<area shape="rect" id="node2" href="$df/d43/classtasks_1_1worker.html#af01020c1495687a82b5acc0a53837056" title="tasks::worker::exec\l_in_worker_ctx" alt="" coords="190,23,327,65"/>
+<area shape="rect" id="node3" href="$df/d43/classtasks_1_1worker.html#af9d8fcab43c8b5e4b98374babd5d8884" title="Provide access to the executing worker thread object in the current thread context. " alt="" coords="398,5,525,32"/>
+<area shape="rect" id="node4" href="$df/d43/classtasks_1_1worker.html#a49ce862b14b1ec7d08ad9ae3e34a8f61" title="Put a functor into the async work queue of a worker and notify it. " alt="" coords="376,56,547,83"/>
+</map>

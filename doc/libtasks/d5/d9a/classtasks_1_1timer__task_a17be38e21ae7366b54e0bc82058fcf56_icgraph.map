@@ -1,0 +1,4 @@
+<map id="tasks::timer_task::init_watcher" name="tasks::timer_task::init_watcher">
+<area shape="rect" id="node2" href="$d6/dc9/classtasks_1_1dispatcher.html#a6fc3fb597041623eb87c696364a0a08c" title="tasks::dispatcher::\lremove_event_task" alt="" coords="184,5,320,46"/>
+<area shape="rect" id="node3" href="$d6/dc9/classtasks_1_1dispatcher.html#aa63903229ad8948e8fc48a1131fd77a3" title="Remove a task from the system. " alt="" coords="368,5,499,46"/>
+</map>

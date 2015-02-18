@@ -1,0 +1,6 @@
+<map id="tasks::net::http_response::clear" name="tasks::net::http_response::clear">
+<area shape="rect" id="node2" href="$d5/d84/classtasks_1_1net_1_1http__base.html#a22c77ae44ee6f22484dd11e3f87969f2" title="tasks::net::http_base\l::clear" alt="" coords="225,38,370,79"/>
+<area shape="rect" id="node3" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#a494f1802fe64f3b446ad762793b8f37f" title="tasks::tools::buffer\l::clear" alt="" coords="419,38,549,79"/>
+<area shape="rect" id="node4" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#a9bf648c8ca66a88555105a01b68c8b7d" title="tasks::tools::buffer\l::ptr_begin" alt="" coords="597,5,728,46"/>
+<area shape="rect" id="node5" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#a7ba8895adf0e926c085e69b3b5f9654a" title="tasks::tools::buffer\l::ptr_end" alt="" coords="597,70,728,111"/>
+</map>

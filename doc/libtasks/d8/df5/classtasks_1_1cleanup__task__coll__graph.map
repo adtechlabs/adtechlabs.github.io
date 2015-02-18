@@ -1,0 +1,17 @@
+<map id="tasks::cleanup_task" name="tasks::cleanup_task">
+<area shape="rect" id="node2" href="$d5/d9a/classtasks_1_1timer__task.html" title="tasks::timer_task" alt="" coords="1220,245,1343,272"/>
+<area shape="rect" id="node3" href="$d6/d2e/classtasks_1_1event__task.html" title="tasks::event_task" alt="" coords="986,180,1113,207"/>
+<area shape="rect" id="node16" href="$d2/dea/structtasks_1_1event.html" title="tasks::event" alt="" coords="1234,191,1329,217"/>
+<area shape="rect" id="node4" href="$d7/d3c/classtasks_1_1task.html" title="The base class for any task. " alt="" coords="738,129,825,156"/>
+<area shape="rect" id="node6" href="$de/d45/structtasks_1_1task_1_1finish__func__t.html" title="tasks::task::finish\l_func_t" alt="" coords="185,119,311,161"/>
+<area shape="rect" id="node7" href="$d8/d49/classtasks_1_1error__base.html" title="A helper class for basic error reporting. " alt="" coords="720,180,843,207"/>
+<area shape="rect" id="node8" href="$d2/d2f/classtasks_1_1tasks__exception.html" title="Tasks execption class. " alt="" coords="419,185,576,212"/>
+<area shape="rect" id="node9" title="STL class. " alt="" coords="196,185,300,212"/>
+<area shape="rect" id="node10" title="STL class. " alt="" coords="208,236,288,263"/>
+<area shape="rect" id="node11" title="STL class. " alt="" coords="6,229,133,270"/>
+<area shape="rect" id="node13" href="$d1/de1/structtasks_1_1event__task_1_1error__func__t.html" title="tasks::event_task::\lerror_func_t" alt="" coords="430,238,565,279"/>
+<area shape="rect" id="node14" href="$df/d43/classtasks_1_1worker.html" title="tasks::worker" alt="" coords="1781,111,1883,137"/>
+<area shape="rect" id="node18" href="$dd/dff/structtasks_1_1loop__t.html" title="Needed to use std::unique_ptr&lt;&gt; " alt="" coords="1233,12,1330,39"/>
+<area shape="rect" id="node20" title="STL class. " alt="" coords="1239,77,1323,104"/>
+<area shape="rect" id="node22" href="$d6/df6/classtasks_1_1disposable.html" title="Base class for objects/tasks that can be deleted. " alt="" coords="1219,296,1343,323"/>
+</map>

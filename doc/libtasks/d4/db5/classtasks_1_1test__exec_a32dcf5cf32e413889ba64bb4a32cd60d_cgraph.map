@@ -1,0 +1,5 @@
+<map id="tasks::test_exec::run" name="tasks::test_exec::run">
+<area shape="rect" id="node2" href="$d6/dc9/classtasks_1_1dispatcher.html#a36c445936d02e0bdd2f6d064311efb5e" title="tasks::dispatcher::\linstance" alt="" coords="411,24,541,65"/>
+<area shape="rect" id="node3" href="$d4/db5/classtasks_1_1test__exec.html#aba04d72a9eabb8852092a3504d787720" title="tasks::test_exec::check\l_state" alt="" coords="200,24,363,65"/>
+<area shape="rect" id="node4" href="$de/d04/namespacetasks.html#acbaa29475c3e90809925bd54efdabd61" title="Execute code in a separate executor thread. " alt="" coords="236,90,327,117"/>
+</map>

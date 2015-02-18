@@ -1,0 +1,4 @@
+<map id="test_uwsgi_thrift_async::request" name="test_uwsgi_thrift_async::request">
+<area shape="rect" id="node2" href="$da/dac/classtest__uwsgi__thrift__async.html#a84fd0c8e1fd23efc6d0786a33484d527" title="test_uwsgi_thrift_async\l::request_finish_in_worker_ctx" alt="" coords="214,5,413,46"/>
+<area shape="rect" id="node3" href="$da/dac/classtest__uwsgi__thrift__async.html#a059217eec203c7c37804734fa75839f4" title="test_uwsgi_thrift_async\l::request_finish_exec" alt="" coords="233,70,393,111"/>
+</map>

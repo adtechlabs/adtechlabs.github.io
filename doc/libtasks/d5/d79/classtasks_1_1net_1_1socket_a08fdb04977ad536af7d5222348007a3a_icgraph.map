@@ -1,0 +1,12 @@
+<map id="tasks::net::socket::read" name="tasks::net::socket::read">
+<area shape="rect" id="node2" href="$de/d57/classecho__handler.html#a1b2bf191622c4bcb2ac1d25c2da4cc45" title="echo_handler::handle\l_event" alt="" coords="195,5,341,46"/>
+<area shape="rect" id="node3" href="$d5/d2f/classtasks_1_1net_1_1http__response.html#a6f329fee1d60843a18d073dc32c86ca1" title="tasks::net::http_response\l::read_data" alt="" coords="183,70,353,111"/>
+<area shape="rect" id="node4" href="$d5/d6c/classtest__socket.html#a3358b600ab10f80b3dfe691e4f0a80b9" title="test_socket::tcp" alt="" coords="210,136,326,163"/>
+<area shape="rect" id="node5" href="$d5/d6c/classtest__socket.html#ab95cc4790a3c2dcddfd6795e5cc07da7" title="test_socket::udp" alt="" coords="209,187,327,213"/>
+<area shape="rect" id="node6" href="$d5/d6c/classtest__socket.html#a3e22f36f531e046ff56d124d017a7022" title="test_socket::unix" alt="" coords="207,237,329,264"/>
+<area shape="rect" id="node7" href="$d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a392ab5b015d0d44a13b34430d0bd773b" title="tasks::net::uwsgi_request\l::read_header" alt="" coords="182,289,354,330"/>
+<area shape="rect" id="node10" href="$d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a9c0afb5a06ed140599e7e980f22c2bbf" title="tasks::net::uwsgi_request\l::read_vars" alt="" coords="182,354,354,395"/>
+<area shape="rect" id="node11" href="$d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a2670c87604212f49c98e61e8c09bfebd" title="tasks::net::uwsgi_request\l::read_content" alt="" coords="182,419,354,461"/>
+<area shape="rect" id="node8" href="$d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a191aa6626c9e448409660046ef4619b7" title="tasks::net::uwsgi_request\l::read_data" alt="" coords="403,354,575,395"/>
+<area shape="rect" id="node9" href="$d1/da5/classtasks_1_1net_1_1uwsgi__task.html#ae36e9d54f000a845707dca0f80c97031" title="tasks::net::uwsgi_task\l::handle_event" alt="" coords="624,354,779,395"/>
+</map>

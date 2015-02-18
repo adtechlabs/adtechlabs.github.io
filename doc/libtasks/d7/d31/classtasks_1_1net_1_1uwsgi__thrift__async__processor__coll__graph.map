@@ -1,0 +1,31 @@
+<map id="tasks::net::uwsgi_thrift_async_processor&lt; handler_type &gt;" name="tasks::net::uwsgi_thrift_async_processor&lt; handler_type &gt;">
+<area shape="rect" id="node2" href="$d1/da5/classtasks_1_1net_1_1uwsgi__task.html" title="tasks::net::uwsgi_task" alt="" coords="2063,348,2217,375"/>
+<area shape="rect" id="node3" href="$d0/dac/classtasks_1_1net__io__task.html" title="The net_io_task implements the base for socket based network tasks. " alt="" coords="1766,296,1895,323"/>
+<area shape="rect" id="node4" href="$de/de3/classtasks_1_1io__task__base.html" title="This is the base class for io event tasks. It controls an ev_io watcher that monitors io events on fi..." alt="" coords="1491,245,1629,272"/>
+<area shape="rect" id="node5" href="$d6/d2e/classtasks_1_1event__task.html" title="tasks::event_task" alt="" coords="1259,140,1386,167"/>
+<area shape="rect" id="node18" href="$d2/dea/structtasks_1_1event.html" title="tasks::event" alt="" coords="1513,84,1607,111"/>
+<area shape="rect" id="node6" href="$d7/d3c/classtasks_1_1task.html" title="The base class for any task. " alt="" coords="971,92,1058,119"/>
+<area shape="rect" id="node8" href="$de/d45/structtasks_1_1task_1_1finish__func__t.html" title="tasks::task::finish\l_func_t" alt="" coords="366,83,493,125"/>
+<area shape="rect" id="node9" href="$d8/d49/classtasks_1_1error__base.html" title="A helper class for basic error reporting. " alt="" coords="953,143,1076,169"/>
+<area shape="rect" id="node10" href="$d2/d2f/classtasks_1_1tasks__exception.html" title="Tasks execption class. " alt="" coords="603,149,760,176"/>
+<area shape="rect" id="node11" title="STL class. " alt="" coords="377,149,481,176"/>
+<area shape="rect" id="node12" title="STL class. " alt="" coords="389,344,469,371"/>
+<area shape="rect" id="node27" href="$d2/dad/classtasks_1_1net_1_1uwsgi__request.html" title="tasks::net::uwsgi_request" alt="" coords="929,347,1101,373"/>
+<area shape="rect" id="node32" href="$d5/d2f/classtasks_1_1net_1_1http__response.html" title="tasks::net::http_response" alt="" coords="1237,409,1408,436"/>
+<area shape="rect" id="node33" href="$d5/d84/classtasks_1_1net_1_1http__base.html" title="tasks::net::http_base" alt="" coords="942,584,1087,611"/>
+<area shape="rect" id="node13" title="STL class. " alt="" coords="171,337,298,378"/>
+<area shape="rect" id="node15" href="$d1/de1/structtasks_1_1event__task_1_1error__func__t.html" title="tasks::event_task::\lerror_func_t" alt="" coords="614,201,749,242"/>
+<area shape="rect" id="node16" href="$df/d43/classtasks_1_1worker.html" title="tasks::worker" alt="" coords="2089,116,2191,143"/>
+<area shape="rect" id="node20" href="$dd/dff/structtasks_1_1loop__t.html" title="Needed to use std::unique_ptr&lt;&gt; " alt="" coords="1511,195,1609,221"/>
+<area shape="rect" id="node22" title="STL class. " alt="" coords="1518,13,1602,40"/>
+<area shape="rect" id="node23" href="$d6/df6/classtasks_1_1disposable.html" title="Base class for objects/tasks that can be deleted. " alt="" coords="1261,195,1385,221"/>
+<area shape="rect" id="node25" href="$d5/d79/classtasks_1_1net_1_1socket.html" title="tasks::net::socket" alt="" coords="1497,296,1623,323"/>
+<area shape="rect" id="node26" href="$d8/dc6/classio__base.html" title="Base class for socket and term. " alt="" coords="1289,296,1356,323"/>
+<area shape="rect" id="node29" href="$dd/d66/classtasks_1_1tools_1_1buffer.html" title="tasks::tools::buffer" alt="" coords="616,608,747,635"/>
+<area shape="rect" id="node34" title="STL class. " alt="" coords="636,665,727,692"/>
+<area shape="rect" id="node35" title="STL class. " alt="" coords="365,666,494,707"/>
+<area shape="rect" id="node36" title="STL class. " alt="" coords="157,709,312,736"/>
+<area shape="rect" id="node39" title="STL class. " alt="" coords="363,731,496,773"/>
+<area shape="rect" id="node37" title="STL class. " alt="" coords="6,709,106,736"/>
+<area shape="rect" id="node38" title="STL class. " alt="" coords="634,725,729,752"/>
+</map>

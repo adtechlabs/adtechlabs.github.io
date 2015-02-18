@@ -1,0 +1,6 @@
+<map id="g_done" name="g_done">
+<area shape="rect" id="node2" href="$d4/d0b/classtest__handler__keepalive.html#a365b0b5bdee4d0f56d456d5925d84b44" title="test_handler_keepalive\l::handle_response" alt="" coords="129,5,284,46"/>
+<area shape="rect" id="node3" href="$d7/d5b/classtest__http__sender.html#a97a41903cd3c4b2525f268dca57b4671" title="test_http_sender::requests" alt="" coords="118,71,295,97"/>
+<area shape="rect" id="node4" href="$d7/d5b/classtest__http__sender.html#a36cd22749e83ef0c7507eb784140fca5" title="test_http_sender::requests\l_keepalive" alt="" coords="118,122,295,163"/>
+<area shape="rect" id="node5" href="$d7/d5b/classtest__http__sender.html#ad6eb21909fa498e6238c0e84a91bb3c3" title="test_http_sender::requests\l_close" alt="" coords="118,187,295,229"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="tasks::net::http_base::write_content" name="tasks::net::http_base::write_content">
+<area shape="rect" id="node2" href="$d5/d79/classtasks_1_1net_1_1socket.html#a1730bf0b7cdfe224a3d9b0b58400f05c" title="tasks::net::socket\l::write" alt="" coords="202,135,329,177"/>
+<area shape="rect" id="node7" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#ad0eedb9145d09170ec24107999b9d8ee" title="tasks::tools::buffer\l::ptr_read" alt="" coords="392,253,523,294"/>
+<area shape="rect" id="node8" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#a45b0a29d59c21606a91fea4e30b493a3" title="tasks::tools::buffer\l::to_read" alt="" coords="200,413,331,454"/>
+<area shape="rect" id="node10" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#af5630314b25a87931d442e3b457c09e4" title="tasks::tools::buffer\l::size" alt="" coords="200,347,331,389"/>
+<area shape="rect" id="node11" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#a87065c66cecdf25ca7ac8b06562aff34" title="tasks::tools::buffer\l::move_ptr_read" alt="" coords="200,282,331,323"/>
+<area shape="rect" id="node3" href="$d5/d79/classtasks_1_1net_1_1socket.html#aeec4664123928381e60ab090995a3687" title="tasks::net::socket::udp" alt="" coords="379,201,535,228"/>
+<area shape="rect" id="node4" href="$d5/d79/classtasks_1_1net_1_1socket.html#afad539f32d439ff911cee347cf88a8e2" title="tasks::net::socket\l::socket" alt="" coords="394,5,521,46"/>
+<area shape="rect" id="node5" href="$d5/d79/classtasks_1_1net_1_1socket.html#ad8f488ff605cf79a21d52873f338511b" title="tasks::net::socket\l::init_sockaddr" alt="" coords="394,70,521,111"/>
+<area shape="rect" id="node6" href="$d5/d79/classtasks_1_1net_1_1socket.html#ab395b344aec48b4e41e27542709c3609" title="tasks::net::socket\l::addr" alt="" coords="394,135,521,177"/>
+<area shape="rect" id="node9" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#a7ba8895adf0e926c085e69b3b5f9654a" title="tasks::tools::buffer\l::ptr_end" alt="" coords="392,383,523,425"/>
+<area shape="rect" id="node12" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#a9bf648c8ca66a88555105a01b68c8b7d" title="tasks::tools::buffer\l::ptr_begin" alt="" coords="392,318,523,359"/>
+</map>

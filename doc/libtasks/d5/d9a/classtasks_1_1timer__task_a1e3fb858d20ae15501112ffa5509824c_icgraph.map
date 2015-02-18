@@ -1,0 +1,8 @@
+<map id="tasks::timer_task::get_string" name="tasks::timer_task::get_string">
+<area shape="rect" id="node2" href="$d5/d9a/classtasks_1_1timer__task.html#a1e6cd638cead98e9b0469e53b8fffa66" title="tasks::timer_task::\ltimer_task" alt="" coords="184,5,315,46"/>
+<area shape="rect" id="node3" href="$d5/d9a/classtasks_1_1timer__task.html#adf6f400278c593657b694fa49558eaaf" title="tasks::timer_task::\l~timer_task" alt="" coords="184,70,315,111"/>
+<area shape="rect" id="node4" href="$d5/d9a/classtasks_1_1timer__task.html#a85b31b79bef51662df50e51c886ee771" title="Activate the underlying watcher to listen for I/O or timer events. " alt="" coords="184,135,315,177"/>
+<area shape="rect" id="node7" href="$d5/d9a/classtasks_1_1timer__task.html#a563b2f6c2547dfc434a3d5014b3a2cda" title="Deactivate the underlying watcher. " alt="" coords="184,201,315,242"/>
+<area shape="rect" id="node5" href="$d6/dc9/classtasks_1_1dispatcher.html#a6fc3fb597041623eb87c696364a0a08c" title="tasks::dispatcher::\lremove_event_task" alt="" coords="363,135,499,177"/>
+<area shape="rect" id="node6" href="$d6/dc9/classtasks_1_1dispatcher.html#aa63903229ad8948e8fc48a1131fd77a3" title="Remove a task from the system. " alt="" coords="547,135,677,177"/>
+</map>

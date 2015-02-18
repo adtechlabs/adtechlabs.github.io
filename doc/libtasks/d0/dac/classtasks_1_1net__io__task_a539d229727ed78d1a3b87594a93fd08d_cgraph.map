@@ -1,0 +1,5 @@
+<map id="tasks::net_io_task::get_string" name="tasks::net_io_task::get_string">
+<area shape="rect" id="node2" href="$d0/dac/classtasks_1_1net__io__task.html#a8e88dbef17d74fd0e01680d103c85e41" title="Grant socket access to the io_task_base. " alt="" coords="184,5,339,32"/>
+<area shape="rect" id="node3" href="$d8/dc6/classio__base.html#adc05fe8d252619fbb09af87852ec7acb" title="io_base::fd" alt="" coords="218,56,305,83"/>
+<area shape="rect" id="node4" href="$de/de3/classtasks_1_1io__task__base.html#a13443986e9978674fc95c1baf0375180" title="Return the monitored events. " alt="" coords="192,107,331,149"/>
+</map>

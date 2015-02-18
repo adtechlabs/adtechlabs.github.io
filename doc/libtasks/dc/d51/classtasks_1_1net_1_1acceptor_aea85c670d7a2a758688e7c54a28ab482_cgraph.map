@@ -1,0 +1,7 @@
+<map id="tasks::net::acceptor::acceptor" name="tasks::net::acceptor::acceptor">
+<area shape="rect" id="node2" href="$d0/dac/classtasks_1_1net__io__task.html#a9a6b7444547c1eaa4a03ea33882b4111" title="Provide access to the underlying socket object. " alt="" coords="206,5,335,46"/>
+<area shape="rect" id="node3" href="$d5/d79/classtasks_1_1net_1_1socket.html#a7fc48d9aa3190b407c891466c3580897" title="tasks::net::socket\l::listen" alt="" coords="207,70,334,111"/>
+<area shape="rect" id="node6" href="$d2/d2f/classtasks_1_1tasks__exception.html#aca46805d75065a66342caff1892097d7" title="Return the error message. " alt="" coords="192,135,349,177"/>
+<area shape="rect" id="node4" href="$d5/d79/classtasks_1_1net_1_1socket.html#afad539f32d439ff911cee347cf88a8e2" title="tasks::net::socket\l::socket" alt="" coords="398,38,525,79"/>
+<area shape="rect" id="node5" href="$d5/d79/classtasks_1_1net_1_1socket.html#a4c6c2915bbcce71ead9f639a5b179270" title="tasks::net::socket\l::bind" alt="" coords="398,103,525,145"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="tasks::dispatcher::remove_task" name="tasks::dispatcher::remove_task">
+<area shape="rect" id="node2" href="$d6/dc9/classtasks_1_1dispatcher.html#a6fc3fb597041623eb87c696364a0a08c" title="tasks::dispatcher::\lremove_event_task" alt="" coords="184,167,320,209"/>
+<area shape="rect" id="node15" href="$d6/dc9/classtasks_1_1dispatcher.html#a3efc12d25b336e7ff11ecba6b50d1f73" title="tasks::dispatcher::\lremove_exec_task" alt="" coords="186,233,318,274"/>
+<area shape="rect" id="node3" href="$d6/dc9/classtasks_1_1dispatcher.html#a0f1cadf1f3c41922f3a587d6a68404aa" title="tasks::dispatcher::\lget_worker_by_task" alt="" coords="368,5,507,46"/>
+<area shape="rect" id="node6" href="$d6/df6/classtasks_1_1disposable.html#a420f0fef229e773808e956e6adcefe8d" title="Check if a task can be disposed or not. " alt="" coords="371,70,503,111"/>
+<area shape="rect" id="node7" href="$d6/df6/classtasks_1_1disposable.html#a9a312436c0c4e028cb352236c8afbe11" title="Dispose an object. " alt="" coords="371,135,503,177"/>
+<area shape="rect" id="node8" href="$d5/d9a/classtasks_1_1timer__task.html#a17be38e21ae7366b54e0bc82058fcf56" title="Initialize the underlying watcher object. " alt="" coords="372,201,503,242"/>
+<area shape="rect" id="node9" href="$d6/d2e/classtasks_1_1event__task.html#a1bed1d92dbf4b293948bf6123be5ff78" title="tasks::event_task::\lassign_worker" alt="" coords="370,266,505,307"/>
+<area shape="rect" id="node11" href="$d5/d9a/classtasks_1_1timer__task.html#a85b31b79bef51662df50e51c886ee771" title="Activate the underlying watcher to listen for I/O or timer events. " alt="" coords="372,331,503,373"/>
+<area shape="rect" id="node4" href="$d6/d2e/classtasks_1_1event__task.html#a9b59758202bc6620312a161d8ecf097a" title="Returns a pointer to the assigned worker. " alt="" coords="557,5,691,46"/>
+<area shape="rect" id="node5" href="$df/d43/classtasks_1_1worker.html#af9d8fcab43c8b5e4b98374babd5d8884" title="Provide access to the executing worker thread object in the current thread context. " alt="" coords="763,191,890,217"/>
+<area shape="rect" id="node10" href="$d6/dc9/classtasks_1_1dispatcher.html#a274be124d8a11e9a68a8debb69daac0b" title="tasks::dispatcher::\lrun_mode" alt="" coords="559,233,689,274"/>
+<area shape="rect" id="node12" href="$df/d43/classtasks_1_1worker.html#af01020c1495687a82b5acc0a53837056" title="tasks::worker::exec\l_in_worker_ctx" alt="" coords="555,298,693,339"/>
+<area shape="rect" id="node14" href="$d5/d9a/classtasks_1_1timer__task.html#a1e3fb858d20ae15501112ffa5509824c" title="tasks::timer_task::\lget_string" alt="" coords="559,363,689,405"/>
+<area shape="rect" id="node13" href="$df/d43/classtasks_1_1worker.html#a49ce862b14b1ec7d08ad9ae3e34a8f61" title="Put a functor into the async work queue of a worker and notify it. " alt="" coords="741,305,912,332"/>
+</map>

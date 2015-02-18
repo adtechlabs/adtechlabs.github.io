@@ -1,0 +1,9 @@
+<map id="tasks::net::uwsgi_request::read_content" name="tasks::net::uwsgi_request::read_content">
+<area shape="rect" id="node2" href="$d5/d79/classtasks_1_1net_1_1socket.html#a08fdb04977ad536af7d5222348007a3a" title="tasks::net::socket\l::read" alt="" coords="229,49,355,90"/>
+<area shape="rect" id="node5" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#aff2ff10a6510772460f298006d29402d" title="tasks::tools::buffer\l::ptr_write" alt="" coords="419,151,549,193"/>
+<area shape="rect" id="node6" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#a349e9558556660aa4a207a1fea27361c" title="tasks::tools::buffer\l::to_write" alt="" coords="227,231,357,273"/>
+<area shape="rect" id="node8" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#ab11cdd85f5489482dae47b7ad1322832" title="tasks::tools::buffer\l::move_ptr_write" alt="" coords="227,166,357,207"/>
+<area shape="rect" id="node3" href="$d5/d79/classtasks_1_1net_1_1socket.html#ab395b344aec48b4e41e27542709c3609" title="tasks::net::socket\l::addr" alt="" coords="421,5,547,46"/>
+<area shape="rect" id="node4" href="$d5/d79/classtasks_1_1net_1_1socket.html#aeec4664123928381e60ab090995a3687" title="tasks::net::socket::udp" alt="" coords="406,71,562,97"/>
+<area shape="rect" id="node7" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#a7ba8895adf0e926c085e69b3b5f9654a" title="tasks::tools::buffer\l::ptr_end" alt="" coords="419,217,549,258"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="tasks::net::uwsgi_task" name="tasks::net::uwsgi_task">
+<area shape="rect" id="node8" href="$da/d73/classtasks_1_1net_1_1uwsgi__thrift__async__processor.html" title="tasks::net::uwsgi_thrift\l_async_processor\&lt; handler_type \&gt;" alt="" coords="920,5,1147,46"/>
+<area shape="rect" id="node9" href="$d3/d84/classtasks_1_1net_1_1uwsgi__thrift__processor.html" title="tasks::net::uwsgi_thrift\l_processor\&lt; processor_type,\l handler_type \&gt;" alt="" coords="938,69,1129,125"/>
+<area shape="rect" id="node10" href="$d7/d8f/classuwsgi__handler.html" title="uwsgi_handler" alt="" coords="981,149,1086,176"/>
+<area shape="rect" id="node2" href="$d0/dac/classtasks_1_1net__io__task.html" title="The net_io_task implements the base for socket based network tasks. " alt="" coords="539,117,669,144"/>
+<area shape="rect" id="node3" href="$de/de3/classtasks_1_1io__task__base.html" title="This is the base class for io event tasks. It controls an ev_io watcher that monitors io events on fi..." alt="" coords="352,117,491,144"/>
+<area shape="rect" id="node4" href="$d6/d2e/classtasks_1_1event__task.html" title="tasks::event_task" alt="" coords="177,92,303,119"/>
+<area shape="rect" id="node5" href="$d7/d3c/classtasks_1_1task.html" title="The base class for any task. " alt="" coords="23,67,110,93"/>
+<area shape="rect" id="node6" href="$d8/d49/classtasks_1_1error__base.html" title="A helper class for basic error reporting. " alt="" coords="5,117,128,144"/>
+<area shape="rect" id="node7" href="$d6/df6/classtasks_1_1disposable.html" title="Base class for objects/tasks that can be deleted. " alt="" coords="178,143,302,169"/>
+</map>

@@ -1,0 +1,31 @@
+<map id="tasks::dispatcher::instance" name="tasks::dispatcher::instance">
+<area shape="rect" id="node2" href="$d9/d52/classtasks_1_1disk__io__task.html#a23b21c2641131cd429ab3cab55404355" title="tasks::disk_io_task\l::dispose" alt="" coords="206,5,341,46"/>
+<area shape="rect" id="node3" href="$d2/da7/classstats.html#ae4db8fcbf412dc0ac1201e669ffd0c5a" title="stats::handle_event" alt="" coords="205,71,341,97"/>
+<area shape="rect" id="node4" href="$d9/d04/echoserver_8cpp.html#a48bc8269f9046d40e104a2595f4bc0cb" title="handle_signal" alt="" coords="223,121,324,148"/>
+<area shape="rect" id="node5" href="$d9/d04/echoserver_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="248,172,299,199"/>
+<area shape="rect" id="node6" href="$de/d04/namespacetasks.html#acbaa29475c3e90809925bd54efdabd61" title="Execute code in a separate executor thread. " alt="" coords="228,273,319,300"/>
+<area shape="rect" id="node7" href="$d4/db5/classtasks_1_1test__exec.html#a32dcf5cf32e413889ba64bb4a32cd60d" title="tasks::test_exec::run" alt="" coords="438,193,583,220"/>
+<area shape="rect" id="node9" href="$d5/d2c/classtasks_1_1net_1_1http__sender.html#aa557541342d08a5b760a7ab8ef0a01cf" title="tasks::net::http_sender\l::send" alt="" coords="195,325,351,366"/>
+<area shape="rect" id="node10" href="$d0/dac/classtasks_1_1net__io__task.html#a1fca4aa6fec6f9ace6525c7d7db8ed91" title="tasks::net_io_task\l::add_task" alt="" coords="209,390,338,431"/>
+<area shape="rect" id="node16" href="$d7/d3c/classtasks_1_1task.html#a6760521fd40b9ec2797089281bc549bb" title="Called by a worker when a task has auto_deletion enabled. " alt="" coords="210,456,337,483"/>
+<area shape="rect" id="node19" href="$d7/d5b/classtest__http__sender.html#ad6eb21909fa498e6238c0e84a91bb3c3" title="test_http_sender::requests\l_close" alt="" coords="185,507,362,549"/>
+<area shape="rect" id="node20" href="$d5/d6c/classtest__socket.html#a3358b600ab10f80b3dfe691e4f0a80b9" title="test_socket::tcp" alt="" coords="215,573,331,600"/>
+<area shape="rect" id="node21" href="$d5/d6c/classtest__socket.html#a3e22f36f531e046ff56d124d017a7022" title="test_socket::unix" alt="" coords="212,624,335,651"/>
+<area shape="rect" id="node22" href="$df/d43/classtasks_1_1worker.html#afc2c51895085b8d50381ee14e7ff0f2a" title="Add an event to the workers queue from a different thread context. " alt="" coords="208,675,339,717"/>
+<area shape="rect" id="node27" href="$df/d43/classtasks_1_1worker.html#ac942bd223671898c55e3f57c647bcfc9" title="Find a free worker and promote it to become the next leader. " alt="" coords="195,741,351,782"/>
+<area shape="rect" id="node30" href="$df/d43/classtasks_1_1worker.html#a4c3a7f55b32bd209fd4a53b674ee8b69" title="Let the dispatcher know that this thread is free to become a leader and take on some work..." alt="" coords="190,807,357,833"/>
+<area shape="rect" id="node8" href="$d8/d15/classip__service__async2.html#a0378342f7ba91afc515fdac24436ef4f" title="ip_service_async2::\lservice" alt="" coords="441,245,580,286"/>
+<area shape="rect" id="node11" href="$dc/d51/classtasks_1_1net_1_1acceptor.html#ae137081dc29022fa770536dfc459f365" title="tasks::net::acceptor\l::handle_event" alt="" coords="441,310,580,351"/>
+<area shape="rect" id="node12" href="$df/d57/classtest__uwsgi__thrift.html#a8e0f02f18a01b9e00dc88871b1b71e51" title="test_uwsgi_thrift::\lrequest" alt="" coords="447,375,574,417"/>
+<area shape="rect" id="node13" href="$da/dac/classtest__uwsgi__thrift__async.html#a84fd0c8e1fd23efc6d0786a33484d527" title="test_uwsgi_thrift_async\l::request_finish_in_worker_ctx" alt="" coords="411,441,610,482"/>
+<area shape="rect" id="node14" href="$da/dac/classtest__uwsgi__thrift__async.html#a059217eec203c7c37804734fa75839f4" title="test_uwsgi_thrift_async\l::request_finish_exec" alt="" coords="431,506,591,547"/>
+<area shape="rect" id="node15" href="$da/dac/classtest__uwsgi__thrift__async.html#a345cd214b86b406000263d02656846c0" title="test_uwsgi_thrift_async\l::request_finish_exec\l_timeout" alt="" coords="431,571,591,627"/>
+<area shape="rect" id="node17" href="$d8/d3f/classtasks_1_1executor.html#ac20e0d24b93e7875cd02f9bfbe74f1d9" title="tasks::executor::run" alt="" coords="441,651,580,677"/>
+<area shape="rect" id="node18" href="$d8/d3f/classtasks_1_1executor.html#ab257be0a9cceb79cba2e4121e3e3ce37" title="tasks::executor::executor" alt="" coords="659,648,829,675"/>
+<area shape="rect" id="node23" href="$d9/d52/classtasks_1_1disk__io__task.html#ae03ee8a0504e129f628f67962cb8b415" title="tasks::disk_io_task::op" alt="" coords="432,705,589,732"/>
+<area shape="rect" id="node24" href="$d9/d52/classtasks_1_1disk__io__task.html#ac6adaca03bc7cb027c868c39c8b525af" title="tasks::disk_io_task\l::add_task" alt="" coords="677,699,811,741"/>
+<area shape="rect" id="node25" href="$da/dee/classtest__disk__io__task.html#a9c25624668ac4fb05d80c9e2f6248e3a" title="test_disk_io_task::\lwrite" alt="" coords="890,670,1022,711"/>
+<area shape="rect" id="node26" href="$da/dee/classtest__disk__io__task.html#a955a97b94427dd160b81a3aff8e71b8d" title="test_disk_io_task::read" alt="" coords="877,736,1035,763"/>
+<area shape="rect" id="node28" href="$df/d43/classtasks_1_1worker.html#a3a5d28cada13ab34ea812d206e7ca6f3" title="Main method of the thread. " alt="" coords="447,785,574,812"/>
+<area shape="rect" id="node29" href="$df/d43/classtasks_1_1worker.html#a542a75d46dcfb36e76eef52f6ce9354e" title="tasks::worker::worker" alt="" coords="670,785,818,812"/>
+</map>

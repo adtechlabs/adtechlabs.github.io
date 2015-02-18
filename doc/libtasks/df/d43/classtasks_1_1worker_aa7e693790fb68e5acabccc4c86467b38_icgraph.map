@@ -1,0 +1,8 @@
+<map id="tasks::worker::add_event" name="tasks::worker::add_event">
+<area shape="rect" id="node2" href="$df/d43/classtasks_1_1worker.html#afc2c51895085b8d50381ee14e7ff0f2a" title="Add an event to the workers queue from a different thread context. " alt="" coords="185,34,316,75"/>
+<area shape="rect" id="node7" href="$de/d04/namespacetasks.html#a995213753e5a4cbd853133ef57e760e3" title="Callback for I/O events. " alt="" coords="184,99,317,141"/>
+<area shape="rect" id="node3" href="$d9/d52/classtasks_1_1disk__io__task.html#ae03ee8a0504e129f628f67962cb8b415" title="tasks::disk_io_task::op" alt="" coords="365,41,523,68"/>
+<area shape="rect" id="node4" href="$d9/d52/classtasks_1_1disk__io__task.html#ac6adaca03bc7cb027c868c39c8b525af" title="tasks::disk_io_task\l::add_task" alt="" coords="571,34,706,75"/>
+<area shape="rect" id="node5" href="$da/dee/classtest__disk__io__task.html#a9c25624668ac4fb05d80c9e2f6248e3a" title="test_disk_io_task::\lwrite" alt="" coords="767,5,899,46"/>
+<area shape="rect" id="node6" href="$da/dee/classtest__disk__io__task.html#a955a97b94427dd160b81a3aff8e71b8d" title="test_disk_io_task::read" alt="" coords="755,71,912,97"/>
+</map>

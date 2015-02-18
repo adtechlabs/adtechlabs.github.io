@@ -1,0 +1,4 @@
+<map id="tasks::cleanup_task::handle_event" name="tasks::cleanup_task::handle_event">
+<area shape="rect" id="node2" href="$d6/df6/classtasks_1_1disposable.html#a420f0fef229e773808e956e6adcefe8d" title="Check if a task can be disposed or not. " alt="" coords="193,5,325,46"/>
+<area shape="rect" id="node3" href="$d6/df6/classtasks_1_1disposable.html#a9a312436c0c4e028cb352236c8afbe11" title="Dispose an object. " alt="" coords="193,70,325,111"/>
+</map>

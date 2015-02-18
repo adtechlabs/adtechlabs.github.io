@@ -1,0 +1,4 @@
+<map id="tasks::dispatcher::get_worker_by_task" name="tasks::dispatcher::get_worker_by_task">
+<area shape="rect" id="node2" href="$d6/d2e/classtasks_1_1event__task.html#a9b59758202bc6620312a161d8ecf097a" title="Returns a pointer to the assigned worker. " alt="" coords="193,5,327,46"/>
+<area shape="rect" id="node3" href="$df/d43/classtasks_1_1worker.html#af9d8fcab43c8b5e4b98374babd5d8884" title="Provide access to the executing worker thread object in the current thread context. " alt="" coords="197,71,323,97"/>
+</map>

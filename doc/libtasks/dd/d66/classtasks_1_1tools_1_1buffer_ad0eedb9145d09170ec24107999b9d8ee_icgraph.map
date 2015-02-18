@@ -1,0 +1,26 @@
+<map id="tasks::tools::buffer::ptr_read" name="tasks::tools::buffer::ptr_read">
+<area shape="rect" id="node2" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#a87065c66cecdf25ca7ac8b06562aff34" title="tasks::tools::buffer\l::move_ptr_read" alt="" coords="197,70,328,111"/>
+<area shape="rect" id="node3" href="$d5/d84/classtasks_1_1net_1_1http__base.html#ac6f63784a2f821d248cd8a65f3068aaa" title="tasks::net::http_base\l::write_headers" alt="" coords="403,5,549,46"/>
+<area shape="rect" id="node6" href="$d5/d84/classtasks_1_1net_1_1http__base.html#a923c3574efcb3be598775e3a633b6ff0" title="tasks::net::http_base\l::write_content" alt="" coords="403,70,549,111"/>
+<area shape="rect" id="node7" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#a0e7449147cc621704167c8f9476252fa" title="tasks::tools::buffer\l::set_size" alt="" coords="197,259,328,301"/>
+<area shape="rect" id="node21" href="$d9/d52/classtasks_1_1disk__io__task.html#ae03ee8a0504e129f628f67962cb8b415" title="tasks::disk_io_task::op" alt="" coords="184,376,341,403"/>
+<area shape="rect" id="node24" href="$d5/d84/classtasks_1_1net_1_1http__base.html#a3a5a7dfa94f1fc2bf9c08482f11c575c" title="tasks::net::http_base\l::content_p" alt="" coords="190,529,335,570"/>
+<area shape="rect" id="node4" href="$d5/d84/classtasks_1_1net_1_1http__base.html#ae6a64dae6aa6e72483f6e50dbee32401" title="tasks::net::http_base\l::write_data" alt="" coords="625,70,770,111"/>
+<area shape="rect" id="node5" href="$d1/da5/classtasks_1_1net_1_1uwsgi__task.html#ae36e9d54f000a845707dca0f80c97031" title="tasks::net::uwsgi_task\l::handle_event" alt="" coords="841,129,996,170"/>
+<area shape="rect" id="node8" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#a788700e34146dc3daee37d6269ca5b8a" title="tasks::tools::buffer\l::buffer" alt="" coords="411,383,541,425"/>
+<area shape="rect" id="node9" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#ae2d553ad39e48e38223e11d6cdff0942" title="tasks::tools::buffer\l::sputc" alt="" coords="411,449,541,490"/>
+<area shape="rect" id="node11" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#a88e8a4d0e8d53f1911090baff1efa68e" title="tasks::tools::buffer\l::xsputn" alt="" coords="411,318,541,359"/>
+<area shape="rect" id="node18" href="$d5/d2f/classtasks_1_1net_1_1http__response.html#a6f329fee1d60843a18d073dc32c86ca1" title="tasks::net::http_response\l::read_data" alt="" coords="391,201,561,242"/>
+<area shape="rect" id="node19" href="$d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a9c0afb5a06ed140599e7e980f22c2bbf" title="tasks::net::uwsgi_request\l::read_vars" alt="" coords="390,135,562,177"/>
+<area shape="rect" id="node20" href="$d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a191aa6626c9e448409660046ef4619b7" title="tasks::net::uwsgi_request\l::read_data" alt="" coords="611,135,783,177"/>
+<area shape="rect" id="node10" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#a4c7283c0d224faa04b880fba74e2529a" title="tasks::tools::buffer\l::overflow" alt="" coords="632,426,763,467"/>
+<area shape="rect" id="node12" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#a7bec8ac29d878f56e1d1167e4fa9891f" title="tasks::tools::buffer\l::write" alt="" coords="632,329,763,370"/>
+<area shape="rect" id="node13" href="$d5/d84/classtasks_1_1net_1_1http__base.html#a85e5143ed8e09d177f2e5c7b2d424be0" title="tasks::net::http_base\l::write" alt="" coords="846,266,991,307"/>
+<area shape="rect" id="node14" href="$d3/d58/classtasks_1_1net_1_1http__request.html#a8e0ad7b40915a108dc3ba7df3b3b619a" title="tasks::net::http_request\l::prepare_data_buffer" alt="" coords="839,331,999,373"/>
+<area shape="rect" id="node15" href="$d5/d2f/classtasks_1_1net_1_1http__response.html#a88d8c1a1ae75471dfdd51aa1ff1b2516" title="tasks::net::http_response\l::prepare_data_buffer" alt="" coords="833,397,1004,438"/>
+<area shape="rect" id="node16" href="$da/dee/classtest__disk__io__task.html#a9c25624668ac4fb05d80c9e2f6248e3a" title="test_disk_io_task::\lwrite" alt="" coords="853,477,985,518"/>
+<area shape="rect" id="node17" href="$d2/dad/classtasks_1_1net_1_1uwsgi__request.html#aa55ce7b164b1f0d4c72456872a28ea37" title="tasks::net::uwsgi_request\l::write" alt="" coords="833,201,1005,242"/>
+<area shape="rect" id="node22" href="$d9/d52/classtasks_1_1disk__io__task.html#ac6adaca03bc7cb027c868c39c8b525af" title="tasks::disk_io_task\l::add_task" alt="" coords="409,514,543,555"/>
+<area shape="rect" id="node23" href="$da/dee/classtest__disk__io__task.html#a955a97b94427dd160b81a3aff8e71b8d" title="test_disk_io_task::read" alt="" coords="619,543,776,569"/>
+<area shape="rect" id="node25" href="$d5/d84/classtasks_1_1net_1_1http__base.html#a098e1714287e6f4f1e71d7399b9bfb30" title="tasks::net::http_base\l::print" alt="" coords="403,579,549,621"/>
+</map>

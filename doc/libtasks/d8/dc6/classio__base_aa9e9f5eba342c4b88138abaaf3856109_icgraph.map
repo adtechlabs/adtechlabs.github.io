@@ -1,0 +1,7 @@
+<map id="io_base::close" name="io_base::close">
+<area shape="rect" id="node2" href="$d5/d2c/classtasks_1_1net_1_1http__sender.html#aa557541342d08a5b760a7ab8ef0a01cf" title="tasks::net::http_sender\l::send" alt="" coords="161,5,317,46"/>
+<area shape="rect" id="node3" href="$d0/dac/classtasks_1_1net__io__task.html#ab98e9b708c527c6c35f7a873615a60fd" title="tasks::net_io_task\l::~net_io_task" alt="" coords="174,70,303,111"/>
+<area shape="rect" id="node4" href="$d5/d6c/classtest__socket.html#a3358b600ab10f80b3dfe691e4f0a80b9" title="test_socket::tcp" alt="" coords="181,136,297,163"/>
+<area shape="rect" id="node5" href="$d5/d6c/classtest__socket.html#ab95cc4790a3c2dcddfd6795e5cc07da7" title="test_socket::udp" alt="" coords="179,187,298,213"/>
+<area shape="rect" id="node6" href="$d5/d6c/classtest__socket.html#a3e22f36f531e046ff56d124d017a7022" title="test_socket::unix" alt="" coords="177,237,300,264"/>
+</map>
