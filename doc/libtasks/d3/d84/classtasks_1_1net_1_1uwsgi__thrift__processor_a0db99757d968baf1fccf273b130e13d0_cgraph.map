@@ -5,7 +5,7 @@
 <area shape="rect" id="node5" href="$d5/d2f/classtasks_1_1net_1_1http__response.html#ac5fc8b7ee8c6b4bfb2f64a596fb05c29" title="tasks::net::http_response\l::set_status" alt="" coords="237,201,408,242"/>
 <area shape="rect" id="node7" href="$d8/d49/classtasks_1_1error__base.html#a8d9ac4103fa0513280b2be58625002fe" title="Set an exception to report an error. " alt="" coords="257,266,388,307"/>
 <area shape="rect" id="node8" href="$d5/d84/classtasks_1_1net_1_1http__base.html#a2ade4fa3b41f57b280683eff053f5bc5" title="tasks::net::http_base\l::set_header" alt="" coords="250,331,395,373"/>
-<area shape="rect" id="node10" href="$d1/da5/classtasks_1_1net_1_1uwsgi__task.html#a049774118f72950828da30a7af01e10f" title="tasks::net::uwsgi_task\l::send_response" alt="" coords="245,410,400,451"/>
+<area shape="rect" id="node10" href="$d1/da5/classtasks_1_1net_1_1uwsgi__task.html#a049774118f72950828da30a7af01e10f" title="Send the resonse back. " alt="" coords="245,410,400,451"/>
 <area shape="rect" id="node6" href="$d5/d2f/classtasks_1_1net_1_1http__response.html#a4d33ac9e26dfcef21b6d9dcf0eaad3fa" title="tasks::net::http_response\l::status" alt="" coords="456,201,627,242"/>
 <area shape="rect" id="node9" href="$d5/d84/classtasks_1_1net_1_1http__base.html#a9e35f8333a96606212d57e40481687f1" title="tasks::net::http_base\l::header" alt="" coords="469,318,614,359"/>
 <area shape="rect" id="node11" href="$df/d43/classtasks_1_1worker.html#af9d8fcab43c8b5e4b98374babd5d8884" title="Provide access to the executing worker thread object in the current thread context. " alt="" coords="910,453,1037,480"/>

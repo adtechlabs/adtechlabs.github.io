@@ -1,6 +1,6 @@
 <map id="tasks::worker::get" name="tasks::worker::get">
 <area shape="rect" id="node2" href="$d6/dc9/classtasks_1_1dispatcher.html#a0f1cadf1f3c41922f3a587d6a68404aa" title="tasks::dispatcher::\lget_worker_by_task" alt="" coords="181,63,320,105"/>
-<area shape="rect" id="node8" href="$d1/da5/classtasks_1_1net_1_1uwsgi__task.html#a049774118f72950828da30a7af01e10f" title="tasks::net::uwsgi_task\l::send_response" alt="" coords="593,819,748,861"/>
+<area shape="rect" id="node8" href="$d1/da5/classtasks_1_1net_1_1uwsgi__task.html#a049774118f72950828da30a7af01e10f" title="Send the resonse back. " alt="" coords="593,819,748,861"/>
 <area shape="rect" id="node11" href="$df/d43/classtasks_1_1worker.html#af01020c1495687a82b5acc0a53837056" title="tasks::worker::exec\l_in_worker_ctx" alt="" coords="182,449,319,490"/>
 <area shape="rect" id="node3" href="$d6/dc9/classtasks_1_1dispatcher.html#a1ed405b5465b95f8fd79d68aa460fcf6" title="Add an event task to the system. " alt="" coords="391,5,521,46"/>
 <area shape="rect" id="node6" href="$d6/dc9/classtasks_1_1dispatcher.html#a6fc3fb597041623eb87c696364a0a08c" title="tasks::dispatcher::\lremove_event_task" alt="" coords="603,95,739,137"/>

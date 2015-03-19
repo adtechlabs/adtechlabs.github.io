@@ -9,8 +9,8 @@
 <area shape="rect" id="node9" href="$d2/d2f/classtasks_1_1tasks__exception.html" title="Tasks execption class. " alt="" coords="603,148,760,175"/>
 <area shape="rect" id="node10" title="STL class. " alt="" coords="377,148,481,175"/>
 <area shape="rect" id="node11" title="STL class. " alt="" coords="389,343,469,369"/>
-<area shape="rect" id="node26" href="$d2/dad/classtasks_1_1net_1_1uwsgi__request.html" title="tasks::net::uwsgi_request" alt="" coords="929,345,1101,372"/>
-<area shape="rect" id="node31" href="$d5/d2f/classtasks_1_1net_1_1http__response.html" title="tasks::net::http_response" alt="" coords="1237,409,1408,436"/>
+<area shape="rect" id="node26" href="$d2/dad/classtasks_1_1net_1_1uwsgi__request.html" title="The uwsgi protocol implementation for a request. The response is a HTTP/1.1 response. " alt="" coords="929,345,1101,372"/>
+<area shape="rect" id="node31" href="$d5/d2f/classtasks_1_1net_1_1http__response.html" title="The HTTP response implementation. " alt="" coords="1237,409,1408,436"/>
 <area shape="rect" id="node32" href="$d5/d84/classtasks_1_1net_1_1http__base.html" title="tasks::net::http_base" alt="" coords="942,583,1087,609"/>
 <area shape="rect" id="node12" title="STL class. " alt="" coords="171,335,298,377"/>
 <area shape="rect" id="node14" href="$d1/de1/structtasks_1_1event__task_1_1error__func__t.html" title="tasks::event_task::\lerror_func_t" alt="" coords="614,199,749,241"/>
@@ -18,7 +18,7 @@
 <area shape="rect" id="node19" href="$dd/dff/structtasks_1_1loop__t.html" title="Needed to use std::unique_ptr&lt;&gt; " alt="" coords="1511,195,1609,221"/>
 <area shape="rect" id="node21" title="STL class. " alt="" coords="1518,13,1602,40"/>
 <area shape="rect" id="node22" href="$d6/df6/classtasks_1_1disposable.html" title="Base class for objects/tasks that can be deleted. " alt="" coords="1261,195,1385,221"/>
-<area shape="rect" id="node24" href="$d5/d79/classtasks_1_1net_1_1socket.html" title="tasks::net::socket" alt="" coords="1497,296,1623,323"/>
+<area shape="rect" id="node24" href="$d5/d79/classtasks_1_1net_1_1socket.html" title="The socket class. " alt="" coords="1497,296,1623,323"/>
 <area shape="rect" id="node25" href="$d8/dc6/classio__base.html" title="Base class for socket and term. " alt="" coords="1289,296,1356,323"/>
 <area shape="rect" id="node28" href="$dd/d66/classtasks_1_1tools_1_1buffer.html" title="tasks::tools::buffer" alt="" coords="616,607,747,633"/>
 <area shape="rect" id="node33" title="STL class. " alt="" coords="636,664,727,691"/>

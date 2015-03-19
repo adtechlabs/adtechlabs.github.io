@@ -1,5 +1,5 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
 <area shape="rect" id="node1" href="$d5/d84/classtasks_1_1net_1_1http__base.html" title="tasks::net::http_base" alt="" coords="6,31,151,57"/>
-<area shape="rect" id="node2" href="$d3/d58/classtasks_1_1net_1_1http__request.html" title="tasks::net::http_request" alt="" coords="205,5,365,32"/>
-<area shape="rect" id="node3" href="$d5/d2f/classtasks_1_1net_1_1http__response.html" title="tasks::net::http_response" alt="" coords="200,56,371,83"/>
+<area shape="rect" id="node2" href="$d3/d58/classtasks_1_1net_1_1http__request.html" title="The HTTP request implementation. " alt="" coords="205,5,365,32"/>
+<area shape="rect" id="node3" href="$d5/d2f/classtasks_1_1net_1_1http__response.html" title="The HTTP response implementation. " alt="" coords="200,56,371,83"/>
 </map>

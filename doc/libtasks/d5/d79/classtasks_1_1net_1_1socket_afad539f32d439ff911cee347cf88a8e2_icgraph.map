@@ -2,7 +2,7 @@
 <area shape="rect" id="node2" href="$d5/d79/classtasks_1_1net_1_1socket.html#a0c70ba0799887ea21b3c058d95e4ac34" title="tasks::net::socket\l::socket" alt="" coords="182,5,309,46"/>
 <area shape="rect" id="node3" href="$d5/d79/classtasks_1_1net_1_1socket.html#a7fc48d9aa3190b407c891466c3580897" title="tasks::net::socket\l::listen" alt="" coords="182,70,309,111"/>
 <area shape="rect" id="node6" href="$d5/d79/classtasks_1_1net_1_1socket.html#a733ebe80cf5397440d979fd0a25ef986" title="tasks::net::socket\l::bind" alt="" coords="182,135,309,177"/>
-<area shape="rect" id="node7" href="$d5/d79/classtasks_1_1net_1_1socket.html#a42f88ea9ed6738837ba1a7ebfa3df919" title="tasks::net::socket\l::accept" alt="" coords="182,201,309,242"/>
+<area shape="rect" id="node7" href="$d5/d79/classtasks_1_1net_1_1socket.html#a42f88ea9ed6738837ba1a7ebfa3df919" title="Accept new client connections. " alt="" coords="182,201,309,242"/>
 <area shape="rect" id="node9" href="$d5/d79/classtasks_1_1net_1_1socket.html#a8300379d403e015e38284929f270f76c" title="tasks::net::socket\l::connect" alt="" coords="182,266,309,307"/>
 <area shape="rect" id="node14" href="$d5/d79/classtasks_1_1net_1_1socket.html#a1730bf0b7cdfe224a3d9b0b58400f05c" title="tasks::net::socket\l::write" alt="" coords="182,426,309,467"/>
 <area shape="rect" id="node4" href="$dc/d51/classtasks_1_1net_1_1acceptor.html#ae2ef0a755b9c3ffbefa0939c498a919d" title="tasks::net::acceptor\l::acceptor" alt="" coords="367,70,505,111"/>
@@ -16,6 +16,6 @@
 <area shape="rect" id="node16" href="$d5/d84/classtasks_1_1net_1_1http__base.html#ac6f63784a2f821d248cd8a65f3068aaa" title="tasks::net::http_base\l::write_headers" alt="" coords="363,615,509,657"/>
 <area shape="rect" id="node19" href="$d5/d84/classtasks_1_1net_1_1http__base.html#a923c3574efcb3be598775e3a633b6ff0" title="tasks::net::http_base\l::write_content" alt="" coords="363,550,509,591"/>
 <area shape="rect" id="node20" href="$d5/d6c/classtest__socket.html#ab95cc4790a3c2dcddfd6795e5cc07da7" title="test_socket::udp" alt="" coords="377,433,495,460"/>
-<area shape="rect" id="node17" href="$d5/d84/classtasks_1_1net_1_1http__base.html#ae6a64dae6aa6e72483f6e50dbee32401" title="tasks::net::http_base\l::write_data" alt="" coords="563,583,709,625"/>
+<area shape="rect" id="node17" href="$d5/d84/classtasks_1_1net_1_1http__base.html#ae6a64dae6aa6e72483f6e50dbee32401" title="Write a HTTP object to a socket. " alt="" coords="563,583,709,625"/>
 <area shape="rect" id="node18" href="$d1/da5/classtasks_1_1net_1_1uwsgi__task.html#ae36e9d54f000a845707dca0f80c97031" title="tasks::net::uwsgi_task\l::handle_event" alt="" coords="757,583,912,625"/>
 </map>

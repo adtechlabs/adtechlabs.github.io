@@ -5,11 +5,11 @@
 <area shape="rect" id="node4" href="$d2/d2f/classtasks_1_1tasks__exception.html" title="Tasks execption class. " alt="" coords="603,548,760,575"/>
 <area shape="rect" id="node5" title="STL class. " alt="" coords="377,548,481,575"/>
 <area shape="rect" id="node6" title="STL class. " alt="" coords="389,377,469,404"/>
-<area shape="rect" id="node28" href="$d2/dad/classtasks_1_1net_1_1uwsgi__request.html" title="tasks::net::uwsgi_request" alt="" coords="929,369,1101,396"/>
-<area shape="rect" id="node33" href="$d5/d2f/classtasks_1_1net_1_1http__response.html" title="tasks::net::http_response" alt="" coords="1237,303,1408,329"/>
+<area shape="rect" id="node28" href="$d2/dad/classtasks_1_1net_1_1uwsgi__request.html" title="The uwsgi protocol implementation for a request. The response is a HTTP/1.1 response. " alt="" coords="929,369,1101,396"/>
+<area shape="rect" id="node33" href="$d5/d2f/classtasks_1_1net_1_1http__response.html" title="The HTTP response implementation. " alt="" coords="1237,303,1408,329"/>
 <area shape="rect" id="node34" href="$d5/d84/classtasks_1_1net_1_1http__base.html" title="tasks::net::http_base" alt="" coords="942,180,1087,207"/>
 <area shape="rect" id="node7" title="STL class. " alt="" coords="171,370,298,411"/>
-<area shape="rect" id="node8" href="$d1/da5/classtasks_1_1net_1_1uwsgi__task.html" title="tasks::net::uwsgi_task" alt="" coords="2059,385,2213,412"/>
+<area shape="rect" id="node8" href="$d1/da5/classtasks_1_1net_1_1uwsgi__task.html" title="The base class for the uwsgi protocol implementation. " alt="" coords="2059,385,2213,412"/>
 <area shape="rect" id="node9" href="$d0/dac/classtasks_1_1net__io__task.html" title="The net_io_task implements the base for socket based network tasks. " alt="" coords="1766,440,1895,467"/>
 <area shape="rect" id="node10" href="$de/de3/classtasks_1_1io__task__base.html" title="This is the base class for io event tasks. It controls an ev_io watcher that monitors io events on fi..." alt="" coords="1491,440,1629,467"/>
 <area shape="rect" id="node19" href="$d2/dea/structtasks_1_1event.html" title="tasks::event" alt="" coords="1513,795,1607,821"/>
@@ -20,7 +20,7 @@
 <area shape="rect" id="node21" href="$dd/dff/structtasks_1_1loop__t.html" title="Needed to use std::unique_ptr&lt;&gt; " alt="" coords="1511,616,1609,643"/>
 <area shape="rect" id="node23" title="STL class. " alt="" coords="1518,681,1602,708"/>
 <area shape="rect" id="node24" href="$d6/df6/classtasks_1_1disposable.html" title="Base class for objects/tasks that can be deleted. " alt="" coords="1261,456,1385,483"/>
-<area shape="rect" id="node26" href="$d5/d79/classtasks_1_1net_1_1socket.html" title="tasks::net::socket" alt="" coords="1497,491,1623,517"/>
+<area shape="rect" id="node26" href="$d5/d79/classtasks_1_1net_1_1socket.html" title="The socket class. " alt="" coords="1497,491,1623,517"/>
 <area shape="rect" id="node27" href="$d8/dc6/classio__base.html" title="Base class for socket and term. " alt="" coords="1289,507,1356,533"/>
 <area shape="rect" id="node30" href="$dd/d66/classtasks_1_1tools_1_1buffer.html" title="tasks::tools::buffer" alt="" coords="616,157,747,184"/>
 <area shape="rect" id="node35" title="STL class. " alt="" coords="636,19,727,45"/>

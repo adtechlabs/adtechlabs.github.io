@@ -1,6 +1,6 @@
 <map id="tasks::net::acceptor::handle_event" name="tasks::net::acceptor::handle_event">
 <area shape="rect" id="node2" href="$d0/dac/classtasks_1_1net__io__task.html#a9a6b7444547c1eaa4a03ea33882b4111" title="Provide access to the underlying socket object. " alt="" coords="206,5,335,46"/>
-<area shape="rect" id="node3" href="$d5/d79/classtasks_1_1net_1_1socket.html#a42f88ea9ed6738837ba1a7ebfa3df919" title="tasks::net::socket\l::accept" alt="" coords="207,70,334,111"/>
+<area shape="rect" id="node3" href="$d5/d79/classtasks_1_1net_1_1socket.html#a42f88ea9ed6738837ba1a7ebfa3df919" title="Accept new client connections. " alt="" coords="207,70,334,111"/>
 <area shape="rect" id="node6" href="$d8/dc6/classio__base.html#adc05fe8d252619fbb09af87852ec7acb" title="io_base::fd" alt="" coords="227,136,314,163"/>
 <area shape="rect" id="node7" href="$d0/dac/classtasks_1_1net__io__task.html#a1fca4aa6fec6f9ace6525c7d7db8ed91" title="tasks::net_io_task\l::add_task" alt="" coords="206,187,335,229"/>
 <area shape="rect" id="node9" href="$d2/d2f/classtasks_1_1tasks__exception.html#aca46805d75065a66342caff1892097d7" title="Return the error message. " alt="" coords="192,253,349,294"/>

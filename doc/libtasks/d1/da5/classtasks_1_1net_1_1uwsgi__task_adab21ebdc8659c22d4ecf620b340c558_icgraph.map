@@ -1,4 +1,4 @@
 <map id="tasks::net::uwsgi_task::request" name="tasks::net::uwsgi_task::request">
-<area shape="rect" id="node2" href="$d8/d64/classtasks_1_1net_1_1uwsgi__thrift__async__handler.html#a2a0f0aa41741217d8b045bd68b493c39" title="tasks::net::uwsgi_thrift\l_async_handler\&lt; IpService\l_lookup_result, IpService\l_lookup_args \&gt;::request" alt="" coords="209,5,389,75"/>
-<area shape="rect" id="node3" href="$d0/d91/classtasks_1_1net_1_1uwsgi__thrift__handler.html#acd15fb73e9d71b63b43363f507fcbaee" title="tasks::net::uwsgi_thrift\l_handler\&lt; IpServiceIf \&gt;\l::request" alt="" coords="219,100,378,156"/>
+<area shape="rect" id="node2" href="$d8/d64/classtasks_1_1net_1_1uwsgi__thrift__async__handler.html#a0d67ad7479d391e9993c74f6d4f8dbdc" title="tasks::net::uwsgi_thrift\l_async_handler\&lt; IpService\l_lookup_result, IpService\l_lookup_args \&gt;::request" alt="" coords="209,5,389,75"/>
+<area shape="rect" id="node3" href="$d0/d91/classtasks_1_1net_1_1uwsgi__thrift__handler.html#aa59ad0e794f2040211e983304d20b56c" title="tasks::net::uwsgi_thrift\l_handler\&lt; IpServiceIf \&gt;\l::request" alt="" coords="219,100,378,156"/>
 </map>

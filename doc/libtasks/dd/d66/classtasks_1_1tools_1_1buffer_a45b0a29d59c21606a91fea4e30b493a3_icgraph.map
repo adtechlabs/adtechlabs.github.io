@@ -1,7 +1,7 @@
 <map id="tasks::tools::buffer::to_read" name="tasks::tools::buffer::to_read">
 <area shape="rect" id="node2" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#a92afa6540d886099f72343eae8e4323e" title="tasks::tools::buffer\l::xsgetn" alt="" coords="197,75,328,117"/>
 <area shape="rect" id="node6" href="$d9/d52/classtasks_1_1disk__io__task.html#ae03ee8a0504e129f628f67962cb8b415" title="tasks::disk_io_task::op" alt="" coords="184,147,341,173"/>
-<area shape="rect" id="node10" href="$d5/d84/classtasks_1_1net_1_1http__base.html#ae6a64dae6aa6e72483f6e50dbee32401" title="tasks::net::http_base\l::write_data" alt="" coords="390,251,535,293"/>
+<area shape="rect" id="node10" href="$d5/d84/classtasks_1_1net_1_1http__base.html#ae6a64dae6aa6e72483f6e50dbee32401" title="Write a HTTP object to a socket. " alt="" coords="390,251,535,293"/>
 <area shape="rect" id="node12" href="$d5/d84/classtasks_1_1net_1_1http__base.html#ac6f63784a2f821d248cd8a65f3068aaa" title="tasks::net::http_base\l::write_headers" alt="" coords="190,249,335,290"/>
 <area shape="rect" id="node13" href="$d5/d84/classtasks_1_1net_1_1http__base.html#a923c3574efcb3be598775e3a633b6ff0" title="tasks::net::http_base\l::write_content" alt="" coords="190,314,335,355"/>
 <area shape="rect" id="node3" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#a4aa78ebe1f30b9516503840a996ca0e1" title="tasks::tools::buffer\l::read" alt="" coords="397,70,528,111"/>

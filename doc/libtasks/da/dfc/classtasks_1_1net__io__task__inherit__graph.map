@@ -2,7 +2,7 @@
 <area shape="rect" id="node7" href="$de/d57/classecho__handler.html" title="echo_handler" alt="" coords="753,5,852,32"/>
 <area shape="rect" id="node8" href="$dc/d51/classtasks_1_1net_1_1acceptor.html" title="tasks::net::acceptor\&lt; T \&gt;" alt="" coords="717,56,888,83"/>
 <area shape="rect" id="node9" href="$d5/d2c/classtasks_1_1net_1_1http__sender.html" title="tasks::net::http_sender\l\&lt; handler_type \&gt;" alt="" coords="725,107,881,149"/>
-<area shape="rect" id="node10" href="$d1/da5/classtasks_1_1net_1_1uwsgi__task.html" title="tasks::net::uwsgi_task" alt="" coords="725,173,880,200"/>
+<area shape="rect" id="node10" href="$d1/da5/classtasks_1_1net_1_1uwsgi__task.html" title="The base class for the uwsgi protocol implementation. " alt="" coords="725,173,880,200"/>
 <area shape="rect" id="node14" href="$dd/d3f/classtest__http__close__handler.html" title="test_http_close_handler" alt="" coords="723,224,883,251"/>
 <area shape="rect" id="node2" href="$de/de3/classtasks_1_1io__task__base.html" title="This is the base class for io event tasks. It controls an ev_io watcher that monitors io events on fi..." alt="" coords="352,85,491,112"/>
 <area shape="rect" id="node3" href="$d6/d2e/classtasks_1_1event__task.html" title="tasks::event_task" alt="" coords="177,60,303,87"/>

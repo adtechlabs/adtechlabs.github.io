@@ -7,6 +7,6 @@
 <area shape="rect" id="node9" href="$d5/d6c/classtest__socket.html#a3358b600ab10f80b3dfe691e4f0a80b9" title="test_socket::tcp" alt="" coords="373,201,489,228"/>
 <area shape="rect" id="node10" href="$d5/d6c/classtest__socket.html#ab95cc4790a3c2dcddfd6795e5cc07da7" title="test_socket::udp" alt="" coords="371,252,490,279"/>
 <area shape="rect" id="node11" href="$d5/d6c/classtest__socket.html#a3e22f36f531e046ff56d124d017a7022" title="test_socket::unix" alt="" coords="369,303,492,329"/>
-<area shape="rect" id="node6" href="$d5/d84/classtasks_1_1net_1_1http__base.html#ae6a64dae6aa6e72483f6e50dbee32401" title="tasks::net::http_base\l::write_data" alt="" coords="553,103,698,145"/>
+<area shape="rect" id="node6" href="$d5/d84/classtasks_1_1net_1_1http__base.html#ae6a64dae6aa6e72483f6e50dbee32401" title="Write a HTTP object to a socket. " alt="" coords="553,103,698,145"/>
 <area shape="rect" id="node7" href="$d1/da5/classtasks_1_1net_1_1uwsgi__task.html#ae36e9d54f000a845707dca0f80c97031" title="tasks::net::uwsgi_task\l::handle_event" alt="" coords="747,103,901,145"/>
 </map>

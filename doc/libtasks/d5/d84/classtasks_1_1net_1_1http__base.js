@@ -16,6 +16,7 @@ var classtasks_1_1net_1_1http__base =
     [ "set_state", "d5/d84/classtasks_1_1net_1_1http__base.html#a3620a8028d69416d903083679fe671b5", null ],
     [ "state", "d5/d84/classtasks_1_1net_1_1http__base.html#abede654801cd98a7850cd5b6ed3dce95", null ],
     [ "write", "d5/d84/classtasks_1_1net_1_1http__base.html#a85e5143ed8e09d177f2e5c7b2d424be0", null ],
+    [ "write", "d5/d84/classtasks_1_1net_1_1http__base.html#a29dcb5be4de34e2a971541523592fda8", null ],
     [ "write", "d5/d84/classtasks_1_1net_1_1http__base.html#a62b58add0fa445cfe5de026a816db449", null ],
     [ "write_content", "d5/d84/classtasks_1_1net_1_1http__base.html#a923c3574efcb3be598775e3a633b6ff0", null ],
     [ "write_data", "d5/d84/classtasks_1_1net_1_1http__base.html#ae6a64dae6aa6e72483f6e50dbee32401", null ],

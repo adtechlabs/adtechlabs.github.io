@@ -77,6 +77,9 @@ $(document).ready(function(){initNavTree('d2/dad/classtasks_1_1net_1_1uwsgi__req
 </div><!--header-->
 <div class="contents">
 
+<p>The uwsgi protocol implementation for a request. The response is a HTTP/1.1 response.  
+ <a href="../../d2/dad/classtasks_1_1net_1_1uwsgi__request.html#details">More...</a></p>
+
 <p><code>#include &lt;<a class="el" href="../../d7/d13/uwsgi__request_8h_source.html">uwsgi_request.h</a>&gt;</code></p>
 <div class="dynheader">
 Collaboration diagram for tasks::net::uwsgi_request:</div>
@@ -88,9 +91,8 @@ Collaboration diagram for tasks::net::uwsgi_request:</div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-types"></a>
 Public Types</h2></td></tr>
-<tr class="memitem:aa9510cff3addf843b3f24a098432398f"><td class="memItemLeft" align="right" valign="top">typedef std::unordered_map<br class="typebreak"/>
-&lt; std::string, std::string &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/classtasks_1_1net_1_1uwsgi__request.html#aa9510cff3addf843b3f24a098432398f">uwsgi_vars_t</a></td></tr>
-<tr class="separator:aa9510cff3addf843b3f24a098432398f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a991c770579639fa1d89709148e291389"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a991c770579639fa1d89709148e291389">uwsgi_vars_t</a> = std::unordered_map&lt; std::string, std::string &gt;</td></tr>
+<tr class="separator:a991c770579639fa1d89709148e291389"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
@@ -98,7 +100,7 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a113e7edcdacc4a233b8a13100fbf6c2e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a95c712981c751ac39691dffffa7f917a"><td class="memItemLeft" align="right" valign="top">const std::string &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a95c712981c751ac39691dffffa7f917a">var</a> (std::string key) const </td></tr>
 <tr class="separator:a95c712981c751ac39691dffffa7f917a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a39bfded7bd860391dfad3ec48d1f6f48"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../d2/dad/classtasks_1_1net_1_1uwsgi__request.html#aa9510cff3addf843b3f24a098432398f">uwsgi_vars_t</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a39bfded7bd860391dfad3ec48d1f6f48">vars</a> () const </td></tr>
+<tr class="memitem:a39bfded7bd860391dfad3ec48d1f6f48"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a991c770579639fa1d89709148e291389">uwsgi_vars_t</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a39bfded7bd860391dfad3ec48d1f6f48">vars</a> () const </td></tr>
 <tr class="separator:a39bfded7bd860391dfad3ec48d1f6f48"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a7546e1f47e07ae70215c6af8570222ac"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a7546e1f47e07ae70215c6af8570222ac">print_header</a> () const </td></tr>
 <tr class="separator:a7546e1f47e07ae70215c6af8570222ac"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -109,12 +111,14 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a145d041d91e49d02c96dadfd7bb4527c"><td class="memItemLeft" align="right" valign="top">std::streamsize&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a145d041d91e49d02c96dadfd7bb4527c">read</a> (char *data, std::size_t size)</td></tr>
 <tr class="separator:a145d041d91e49d02c96dadfd7bb4527c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a191aa6626c9e448409660046ef4619b7"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a191aa6626c9e448409660046ef4619b7">read_data</a> (<a class="el" href="../../d5/d79/classtasks_1_1net_1_1socket.html">socket</a> &amp;sock)</td></tr>
+<tr class="memdesc:a191aa6626c9e448409660046ef4619b7"><td class="mdescLeft">&#160;</td><td class="mdescRight">Read request data from a socket.  <a href="#a191aa6626c9e448409660046ef4619b7">More...</a><br/></td></tr>
 <tr class="separator:a191aa6626c9e448409660046ef4619b7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a302568f847cf681e400bbcac20c9a33f"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a302568f847cf681e400bbcac20c9a33f">done</a> () const </td></tr>
 <tr class="separator:a302568f847cf681e400bbcac20c9a33f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a75eda4302cc85ffe167631ff3a1faabe"><td class="memItemLeft" align="right" valign="top">uwsgi_packet_header &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a75eda4302cc85ffe167631ff3a1faabe">header</a> ()</td></tr>
 <tr class="separator:a75eda4302cc85ffe167631ff3a1faabe"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a8af345ebdc8d5fab1f49c80bb8991361"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a8af345ebdc8d5fab1f49c80bb8991361">clear</a> ()</td></tr>
+<tr class="memdesc:a8af345ebdc8d5fab1f49c80bb8991361"><td class="mdescLeft">&#160;</td><td class="mdescRight">Reset an object.  <a href="#a8af345ebdc8d5fab1f49c80bb8991361">More...</a><br/></td></tr>
 <tr class="separator:a8af345ebdc8d5fab1f49c80bb8991361"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-static-attribs"></a>
@@ -125,12 +129,16 @@ Static Public Attributes</h2></td></tr>
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-methods"></a>
 Private Member Functions</h2></td></tr>
 <tr class="memitem:a392ab5b015d0d44a13b34430d0bd773b"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a392ab5b015d0d44a13b34430d0bd773b">read_header</a> (<a class="el" href="../../d5/d79/classtasks_1_1net_1_1socket.html">socket</a> &amp;sock)</td></tr>
+<tr class="memdesc:a392ab5b015d0d44a13b34430d0bd773b"><td class="mdescLeft">&#160;</td><td class="mdescRight">Read the header from a socket.  <a href="#a392ab5b015d0d44a13b34430d0bd773b">More...</a><br/></td></tr>
 <tr class="separator:a392ab5b015d0d44a13b34430d0bd773b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a9c0afb5a06ed140599e7e980f22c2bbf"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a9c0afb5a06ed140599e7e980f22c2bbf">read_vars</a> (<a class="el" href="../../d5/d79/classtasks_1_1net_1_1socket.html">socket</a> &amp;sock)</td></tr>
+<tr class="memdesc:a9c0afb5a06ed140599e7e980f22c2bbf"><td class="mdescLeft">&#160;</td><td class="mdescRight">Read the uwsgi parameters from a socket.  <a href="#a9c0afb5a06ed140599e7e980f22c2bbf">More...</a><br/></td></tr>
 <tr class="separator:a9c0afb5a06ed140599e7e980f22c2bbf"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a2670c87604212f49c98e61e8c09bfebd"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a2670c87604212f49c98e61e8c09bfebd">read_content</a> (<a class="el" href="../../d5/d79/classtasks_1_1net_1_1socket.html">socket</a> &amp;sock)</td></tr>
+<tr class="memdesc:a2670c87604212f49c98e61e8c09bfebd"><td class="mdescLeft">&#160;</td><td class="mdescRight">Read POST data into the content buffer.  <a href="#a2670c87604212f49c98e61e8c09bfebd">More...</a><br/></td></tr>
 <tr class="separator:a2670c87604212f49c98e61e8c09bfebd"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae0b8f002a767012f47b1472d989c901b"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/classtasks_1_1net_1_1uwsgi__request.html#ae0b8f002a767012f47b1472d989c901b">parse_vars</a> ()</td></tr>
+<tr class="memdesc:ae0b8f002a767012f47b1472d989c901b"><td class="mdescLeft">&#160;</td><td class="mdescRight">Parse the uswgi parameters into a hash map.  <a href="#ae0b8f002a767012f47b1472d989c901b">More...</a><br/></td></tr>
 <tr class="separator:ae0b8f002a767012f47b1472d989c901b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-attribs"></a>
@@ -143,24 +151,25 @@ Private Attributes</h2></td></tr>
 <tr class="separator:a9513eef3399c88d5d364e017e069d48d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a0cc11d403c7b742728fdf834a4fc28a0"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d31/namespacetasks_1_1net.html#a8970cc17aa017683bf3931ea229b56fa">io_state</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a0cc11d403c7b742728fdf834a4fc28a0">m_state</a> = <a class="el" href="../../d9/d31/namespacetasks_1_1net.html#a8970cc17aa017683bf3931ea229b56faa2baa69eafc7204f3bd8648eba580c489">io_state::READY</a></td></tr>
 <tr class="separator:a0cc11d403c7b742728fdf834a4fc28a0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a45e3796d6587c148842828278451ee57"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dad/classtasks_1_1net_1_1uwsgi__request.html#aa9510cff3addf843b3f24a098432398f">uwsgi_vars_t</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a45e3796d6587c148842828278451ee57">m_vars</a></td></tr>
+<tr class="memitem:a45e3796d6587c148842828278451ee57"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a991c770579639fa1d89709148e291389">uwsgi_vars_t</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a45e3796d6587c148842828278451ee57">m_vars</a></td></tr>
 <tr class="separator:a45e3796d6587c148842828278451ee57"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock">
-<p>Definition at line <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html#l00026">26</a> of file <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html">uwsgi_request.h</a>.</p>
+<div class="textblock"><p>The uwsgi protocol implementation for a request. The response is a HTTP/1.1 response. </p>
+
+<p>Definition at line <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html#l00027">27</a> of file <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html">uwsgi_request.h</a>.</p>
 </div><h2 class="groupheader">Member Typedef Documentation</h2>
-<a class="anchor" id="aa9510cff3addf843b3f24a098432398f"></a>
+<a class="anchor" id="a991c770579639fa1d89709148e291389"></a>
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">typedef std::unordered_map&lt;std::string, std::string&gt; <a class="el" href="../../d2/dad/classtasks_1_1net_1_1uwsgi__request.html#aa9510cff3addf843b3f24a098432398f">tasks::net::uwsgi_request::uwsgi_vars_t</a></td>
+          <td class="memname">using <a class="el" href="../../d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a991c770579639fa1d89709148e291389">tasks::net::uwsgi_request::uwsgi_vars_t</a> =  std::unordered_map&lt;std::string, std::string&gt;</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html#l00028">28</a> of file <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html">uwsgi_request.h</a>.</p>
+<p>Definition at line <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html#l00029">29</a> of file <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html">uwsgi_request.h</a>.</p>
 
 </div>
 </div>
@@ -186,7 +195,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html#l00032">32</a> of file <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html">uwsgi_request.h</a>.</p>
+<p>Definition at line <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html#l00033">33</a> of file <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html">uwsgi_request.h</a>.</p>
 
 </div>
 </div>
@@ -212,7 +221,9 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html#l00066">66</a> of file <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html">uwsgi_request.h</a>.</p>
+<p>Reset an object. </p>
+
+<p>Definition at line <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html#l00086">86</a> of file <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html">uwsgi_request.h</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -254,8 +265,9 @@ Here is the caller graph for this function:</div>
   </tr>
 </table>
 </div><div class="memdoc">
+<dl class="section return"><dt>Returns</dt><dd>True if a request has been read from a socket successfully or a response has been written to a socket successfully. </dd></dl>
 
-<p>Definition at line <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html#l00062">62</a> of file <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html">uwsgi_request.h</a>.</p>
+<p>Definition at line <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html#l00080">80</a> of file <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html">uwsgi_request.h</a>.</p>
 
 <p><div class="dynheader">
 Here is the caller graph for this function:</div>
@@ -288,8 +300,9 @@ Here is the caller graph for this function:</div>
   </tr>
 </table>
 </div><div class="memdoc">
+<dl class="section return"><dt>Returns</dt><dd>The uwsgi header struct. </dd></dl>
 
-<p>Definition at line <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html#l00064">64</a> of file <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html">uwsgi_request.h</a>.</p>
+<p>Definition at line <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html#l00083">83</a> of file <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html">uwsgi_request.h</a>.</p>
 
 <p><div class="dynheader">
 Here is the caller graph for this function:</div>
@@ -323,6 +336,8 @@ Here is the caller graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
+<p>Parse the uswgi parameters into a hash map. </p>
+
 <p>Definition at line <a class="el" href="../../da/dd2/uwsgi__request_8cpp_source.html#l00076">76</a> of file <a class="el" href="../../da/dd2/uwsgi__request_8cpp_source.html">uwsgi_request.cpp</a>.</p>
 
 <p><div class="dynheader">
@@ -339,7 +354,7 @@ Here is the caller graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../d2/dad/classtasks_1_1net_1_1uwsgi__request_ae0b8f002a767012f47b1472d989c901b_icgraph.png" border="0" usemap="#d2/dad/classtasks_1_1net_1_1uwsgi__request_ae0b8f002a767012f47b1472d989c901b_icgraph" alt=""/></div>
 <map name="d2/dad/classtasks_1_1net_1_1uwsgi__request_ae0b8f002a767012f47b1472d989c901b_icgraph" id="d2/dad/classtasks_1_1net_1_1uwsgi__request_ae0b8f002a767012f47b1472d989c901b_icgraph">
-<area shape="rect" id="node2" href="../../d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a9c0afb5a06ed140599e7e980f22c2bbf" title="tasks::net::uwsgi_request\l::read_vars" alt="" coords="227,5,399,46"/><area shape="rect" id="node3" href="../../d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a191aa6626c9e448409660046ef4619b7" title="tasks::net::uwsgi_request\l::read_data" alt="" coords="449,5,621,46"/><area shape="rect" id="node4" href="../../d1/da5/classtasks_1_1net_1_1uwsgi__task.html#ae36e9d54f000a845707dca0f80c97031" title="tasks::net::uwsgi_task\l::handle_event" alt="" coords="669,5,824,46"/></map>
+<area shape="rect" id="node2" href="../../d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a9c0afb5a06ed140599e7e980f22c2bbf" title="Read the uwsgi parameters from a socket. " alt="" coords="227,5,399,46"/><area shape="rect" id="node3" href="../../d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a191aa6626c9e448409660046ef4619b7" title="Read request data from a socket. " alt="" coords="449,5,621,46"/><area shape="rect" id="node4" href="../../d1/da5/classtasks_1_1net_1_1uwsgi__task.html#ae36e9d54f000a845707dca0f80c97031" title="tasks::net::uwsgi_task\l::handle_event" alt="" coords="669,5,824,46"/></map>
 </div>
 </p>
 
@@ -366,7 +381,7 @@ Here is the caller graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html#l00044">44</a> of file <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html">uwsgi_request.h</a>.</p>
+<p>Definition at line <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html#l00050">50</a> of file <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html">uwsgi_request.h</a>.</p>
 
 </div>
 </div>
@@ -391,7 +406,7 @@ Here is the caller graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html#l00050">50</a> of file <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html">uwsgi_request.h</a>.</p>
+<p>Definition at line <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html#l00056">56</a> of file <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html">uwsgi_request.h</a>.</p>
 
 </div>
 </div>
@@ -426,8 +441,17 @@ Here is the caller graph for this function:</div>
   </tr>
 </table>
 </div><div class="memdoc">
+<p>Read data from the content buffer.</p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">data</td><td>A pointer to the destination. </td></tr>
+    <tr><td class="paramname">size</td><td>The max number of bytes to copy. </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>The number of bytes copied. </dd></dl>
 
-<p>Definition at line <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html#l00058">58</a> of file <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html">uwsgi_request.h</a>.</p>
+<p>Definition at line <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html#l00073">73</a> of file <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html">uwsgi_request.h</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -462,6 +486,8 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
+<p>Read POST data into the content buffer. </p>
+
 <p>Definition at line <a class="el" href="../../da/dd2/uwsgi__request_8cpp_source.html#l00050">50</a> of file <a class="el" href="../../da/dd2/uwsgi__request_8cpp_source.html">uwsgi_request.cpp</a>.</p>
 
 <p><div class="dynheader">
@@ -478,7 +504,7 @@ Here is the caller graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../d2/dad/classtasks_1_1net_1_1uwsgi__request_a2670c87604212f49c98e61e8c09bfebd_icgraph.png" border="0" usemap="#d2/dad/classtasks_1_1net_1_1uwsgi__request_a2670c87604212f49c98e61e8c09bfebd_icgraph" alt=""/></div>
 <map name="d2/dad/classtasks_1_1net_1_1uwsgi__request_a2670c87604212f49c98e61e8c09bfebd_icgraph" id="d2/dad/classtasks_1_1net_1_1uwsgi__request_a2670c87604212f49c98e61e8c09bfebd_icgraph">
-<area shape="rect" id="node2" href="../../d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a191aa6626c9e448409660046ef4619b7" title="tasks::net::uwsgi_request\l::read_data" alt="" coords="227,5,399,46"/><area shape="rect" id="node3" href="../../d1/da5/classtasks_1_1net_1_1uwsgi__task.html#ae36e9d54f000a845707dca0f80c97031" title="tasks::net::uwsgi_task\l::handle_event" alt="" coords="448,5,603,46"/></map>
+<area shape="rect" id="node2" href="../../d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a191aa6626c9e448409660046ef4619b7" title="Read request data from a socket. " alt="" coords="227,5,399,46"/><area shape="rect" id="node3" href="../../d1/da5/classtasks_1_1net_1_1uwsgi__task.html#ae36e9d54f000a845707dca0f80c97031" title="tasks::net::uwsgi_task\l::handle_event" alt="" coords="448,5,603,46"/></map>
 </div>
 </p>
 
@@ -498,6 +524,8 @@ Here is the caller graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
+<p>Read request data from a socket. </p>
+
 <p>Definition at line <a class="el" href="../../da/dd2/uwsgi__request_8cpp_source.html#l00061">61</a> of file <a class="el" href="../../da/dd2/uwsgi__request_8cpp_source.html">uwsgi_request.cpp</a>.</p>
 
 <p><div class="dynheader">
@@ -505,7 +533,7 @@ Here is the call graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../d2/dad/classtasks_1_1net_1_1uwsgi__request_a191aa6626c9e448409660046ef4619b7_cgraph.png" border="0" usemap="#d2/dad/classtasks_1_1net_1_1uwsgi__request_a191aa6626c9e448409660046ef4619b7_cgraph" alt=""/></div>
 <map name="d2/dad/classtasks_1_1net_1_1uwsgi__request_a191aa6626c9e448409660046ef4619b7_cgraph" id="d2/dad/classtasks_1_1net_1_1uwsgi__request_a191aa6626c9e448409660046ef4619b7_cgraph">
-<area shape="rect" id="node2" href="../../d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a392ab5b015d0d44a13b34430d0bd773b" title="tasks::net::uwsgi_request\l::read_header" alt="" coords="227,91,399,133"/><area shape="rect" id="node6" href="../../dd/d66/classtasks_1_1tools_1_1buffer.html#a0e7449147cc621704167c8f9476252fa" title="tasks::tools::buffer\l::set_size" alt="" coords="483,390,613,431"/><area shape="rect" id="node14" href="../../d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a9c0afb5a06ed140599e7e980f22c2bbf" title="tasks::net::uwsgi_request\l::read_vars" alt="" coords="227,273,399,314"/><area shape="rect" id="node20" href="../../d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a2670c87604212f49c98e61e8c09bfebd" title="tasks::net::uwsgi_request\l::read_content" alt="" coords="227,207,399,249"/><area shape="rect" id="node3" href="../../d5/d79/classtasks_1_1net_1_1socket.html#a08fdb04977ad536af7d5222348007a3a" title="tasks::net::socket\l::read" alt="" coords="485,39,611,81"/><area shape="rect" id="node4" href="../../d5/d79/classtasks_1_1net_1_1socket.html#ab395b344aec48b4e41e27542709c3609" title="tasks::net::socket\l::addr" alt="" coords="711,6,838,47"/><area shape="rect" id="node5" href="../../d5/d79/classtasks_1_1net_1_1socket.html#aeec4664123928381e60ab090995a3687" title="tasks::net::socket::udp" alt="" coords="697,72,853,99"/><area shape="rect" id="node7" href="../../dd/d66/classtasks_1_1tools_1_1buffer.html#ad0eedb9145d09170ec24107999b9d8ee" title="tasks::tools::buffer\l::ptr_read" alt="" coords="709,345,840,386"/><area shape="rect" id="node8" href="../../dd/d66/classtasks_1_1tools_1_1buffer.html#aff2ff10a6510772460f298006d29402d" title="tasks::tools::buffer\l::ptr_write" alt="" coords="709,149,840,190"/><area shape="rect" id="node9" href="../../dd/d66/classtasks_1_1tools_1_1buffer.html#a921ee00ee75b2e36470e62a79e52e9a8" title="tasks::tools::buffer\l::offset_read" alt="" coords="709,279,840,321"/><area shape="rect" id="node10" href="../../dd/d66/classtasks_1_1tools_1_1buffer.html#a9bf648c8ca66a88555105a01b68c8b7d" title="tasks::tools::buffer\l::ptr_begin" alt="" coords="901,410,1032,451"/><area shape="rect" id="node11" href="../../dd/d66/classtasks_1_1tools_1_1buffer.html#a3249f073f0459f612626ebdd8422dc1c" title="tasks::tools::buffer\l::offset_write" alt="" coords="709,410,840,451"/><area shape="rect" id="node12" href="../../dd/d66/classtasks_1_1tools_1_1buffer.html#a1a4f0a538f046c0e640941529d9bffcb" title="tasks::tools::buffer::ptr" alt="" coords="697,527,852,553"/><area shape="rect" id="node13" href="../../dd/d66/classtasks_1_1tools_1_1buffer.html#a7ba8895adf0e926c085e69b3b5f9654a" title="tasks::tools::buffer\l::ptr_end" alt="" coords="709,214,840,255"/><area shape="rect" id="node15" href="../../dd/d66/classtasks_1_1tools_1_1buffer.html#a349e9558556660aa4a207a1fea27361c" title="tasks::tools::buffer\l::to_write" alt="" coords="483,273,613,314"/><area shape="rect" id="node16" href="../../dd/d66/classtasks_1_1tools_1_1buffer.html#ab11cdd85f5489482dae47b7ad1322832" title="tasks::tools::buffer\l::move_ptr_write" alt="" coords="483,207,613,249"/><area shape="rect" id="node17" href="../../d2/dad/classtasks_1_1net_1_1uwsgi__request.html#ae0b8f002a767012f47b1472d989c901b" title="tasks::net::uwsgi_request\l::parse_vars" alt="" coords="462,519,634,561"/><area shape="rect" id="node19" href="../../d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a95c712981c751ac39691dffffa7f917a" title="tasks::net::uwsgi_request::var" alt="" coords="449,339,647,365"/><area shape="rect" id="node18" href="../../dd/d66/classtasks_1_1tools_1_1buffer.html#af5630314b25a87931d442e3b457c09e4" title="tasks::tools::buffer\l::size" alt="" coords="709,578,840,619"/></map>
+<area shape="rect" id="node2" href="../../d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a392ab5b015d0d44a13b34430d0bd773b" title="Read the header from a socket. " alt="" coords="227,91,399,133"/><area shape="rect" id="node6" href="../../dd/d66/classtasks_1_1tools_1_1buffer.html#a0e7449147cc621704167c8f9476252fa" title="tasks::tools::buffer\l::set_size" alt="" coords="483,390,613,431"/><area shape="rect" id="node14" href="../../d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a9c0afb5a06ed140599e7e980f22c2bbf" title="Read the uwsgi parameters from a socket. " alt="" coords="227,273,399,314"/><area shape="rect" id="node20" href="../../d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a2670c87604212f49c98e61e8c09bfebd" title="Read POST data into the content buffer. " alt="" coords="227,207,399,249"/><area shape="rect" id="node3" href="../../d5/d79/classtasks_1_1net_1_1socket.html#a08fdb04977ad536af7d5222348007a3a" title="tasks::net::socket\l::read" alt="" coords="485,39,611,81"/><area shape="rect" id="node4" href="../../d5/d79/classtasks_1_1net_1_1socket.html#ab395b344aec48b4e41e27542709c3609" title="tasks::net::socket\l::addr" alt="" coords="711,6,838,47"/><area shape="rect" id="node5" href="../../d5/d79/classtasks_1_1net_1_1socket.html#aeec4664123928381e60ab090995a3687" title="tasks::net::socket::udp" alt="" coords="697,72,853,99"/><area shape="rect" id="node7" href="../../dd/d66/classtasks_1_1tools_1_1buffer.html#ad0eedb9145d09170ec24107999b9d8ee" title="tasks::tools::buffer\l::ptr_read" alt="" coords="709,345,840,386"/><area shape="rect" id="node8" href="../../dd/d66/classtasks_1_1tools_1_1buffer.html#aff2ff10a6510772460f298006d29402d" title="tasks::tools::buffer\l::ptr_write" alt="" coords="709,149,840,190"/><area shape="rect" id="node9" href="../../dd/d66/classtasks_1_1tools_1_1buffer.html#a921ee00ee75b2e36470e62a79e52e9a8" title="tasks::tools::buffer\l::offset_read" alt="" coords="709,279,840,321"/><area shape="rect" id="node10" href="../../dd/d66/classtasks_1_1tools_1_1buffer.html#a9bf648c8ca66a88555105a01b68c8b7d" title="tasks::tools::buffer\l::ptr_begin" alt="" coords="901,410,1032,451"/><area shape="rect" id="node11" href="../../dd/d66/classtasks_1_1tools_1_1buffer.html#a3249f073f0459f612626ebdd8422dc1c" title="tasks::tools::buffer\l::offset_write" alt="" coords="709,410,840,451"/><area shape="rect" id="node12" href="../../dd/d66/classtasks_1_1tools_1_1buffer.html#a1a4f0a538f046c0e640941529d9bffcb" title="tasks::tools::buffer::ptr" alt="" coords="697,527,852,553"/><area shape="rect" id="node13" href="../../dd/d66/classtasks_1_1tools_1_1buffer.html#a7ba8895adf0e926c085e69b3b5f9654a" title="tasks::tools::buffer\l::ptr_end" alt="" coords="709,214,840,255"/><area shape="rect" id="node15" href="../../dd/d66/classtasks_1_1tools_1_1buffer.html#a349e9558556660aa4a207a1fea27361c" title="tasks::tools::buffer\l::to_write" alt="" coords="483,273,613,314"/><area shape="rect" id="node16" href="../../dd/d66/classtasks_1_1tools_1_1buffer.html#ab11cdd85f5489482dae47b7ad1322832" title="tasks::tools::buffer\l::move_ptr_write" alt="" coords="483,207,613,249"/><area shape="rect" id="node17" href="../../d2/dad/classtasks_1_1net_1_1uwsgi__request.html#ae0b8f002a767012f47b1472d989c901b" title="Parse the uswgi parameters into a hash map. " alt="" coords="462,519,634,561"/><area shape="rect" id="node19" href="../../d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a95c712981c751ac39691dffffa7f917a" title="tasks::net::uwsgi_request::var" alt="" coords="449,339,647,365"/><area shape="rect" id="node18" href="../../dd/d66/classtasks_1_1tools_1_1buffer.html#af5630314b25a87931d442e3b457c09e4" title="tasks::tools::buffer\l::size" alt="" coords="709,578,840,619"/></map>
 </div>
 </p>
 
@@ -542,6 +570,8 @@ Here is the caller graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
+<p>Read the header from a socket. </p>
+
 <p>Definition at line <a class="el" href="../../da/dd2/uwsgi__request_8cpp_source.html#l00020">20</a> of file <a class="el" href="../../da/dd2/uwsgi__request_8cpp_source.html">uwsgi_request.cpp</a>.</p>
 
 <p><div class="dynheader">
@@ -558,7 +588,7 @@ Here is the caller graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../d2/dad/classtasks_1_1net_1_1uwsgi__request_a392ab5b015d0d44a13b34430d0bd773b_icgraph.png" border="0" usemap="#d2/dad/classtasks_1_1net_1_1uwsgi__request_a392ab5b015d0d44a13b34430d0bd773b_icgraph" alt=""/></div>
 <map name="d2/dad/classtasks_1_1net_1_1uwsgi__request_a392ab5b015d0d44a13b34430d0bd773b_icgraph" id="d2/dad/classtasks_1_1net_1_1uwsgi__request_a392ab5b015d0d44a13b34430d0bd773b_icgraph">
-<area shape="rect" id="node2" href="../../d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a191aa6626c9e448409660046ef4619b7" title="tasks::net::uwsgi_request\l::read_data" alt="" coords="227,5,399,46"/><area shape="rect" id="node3" href="../../d1/da5/classtasks_1_1net_1_1uwsgi__task.html#ae36e9d54f000a845707dca0f80c97031" title="tasks::net::uwsgi_task\l::handle_event" alt="" coords="448,5,603,46"/></map>
+<area shape="rect" id="node2" href="../../d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a191aa6626c9e448409660046ef4619b7" title="Read request data from a socket. " alt="" coords="227,5,399,46"/><area shape="rect" id="node3" href="../../d1/da5/classtasks_1_1net_1_1uwsgi__task.html#ae36e9d54f000a845707dca0f80c97031" title="tasks::net::uwsgi_task\l::handle_event" alt="" coords="448,5,603,46"/></map>
 </div>
 </p>
 
@@ -586,6 +616,8 @@ Here is the caller graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
+<p>Read the uwsgi parameters from a socket. </p>
+
 <p>Definition at line <a class="el" href="../../da/dd2/uwsgi__request_8cpp_source.html#l00028">28</a> of file <a class="el" href="../../da/dd2/uwsgi__request_8cpp_source.html">uwsgi_request.cpp</a>.</p>
 
 <p><div class="dynheader">
@@ -593,7 +625,7 @@ Here is the call graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../d2/dad/classtasks_1_1net_1_1uwsgi__request_a9c0afb5a06ed140599e7e980f22c2bbf_cgraph.png" border="0" usemap="#d2/dad/classtasks_1_1net_1_1uwsgi__request_a9c0afb5a06ed140599e7e980f22c2bbf_cgraph" alt=""/></div>
 <map name="d2/dad/classtasks_1_1net_1_1uwsgi__request_a9c0afb5a06ed140599e7e980f22c2bbf_cgraph" id="d2/dad/classtasks_1_1net_1_1uwsgi__request_a9c0afb5a06ed140599e7e980f22c2bbf_cgraph">
-<area shape="rect" id="node2" href="../../d5/d79/classtasks_1_1net_1_1socket.html#a08fdb04977ad536af7d5222348007a3a" title="tasks::net::socket\l::read" alt="" coords="263,63,390,105"/><area shape="rect" id="node5" href="../../dd/d66/classtasks_1_1tools_1_1buffer.html#aff2ff10a6510772460f298006d29402d" title="tasks::tools::buffer\l::ptr_write" alt="" coords="488,122,619,163"/><area shape="rect" id="node6" href="../../dd/d66/classtasks_1_1tools_1_1buffer.html#a349e9558556660aa4a207a1fea27361c" title="tasks::tools::buffer\l::to_write" alt="" coords="261,249,392,290"/><area shape="rect" id="node8" href="../../dd/d66/classtasks_1_1tools_1_1buffer.html#ab11cdd85f5489482dae47b7ad1322832" title="tasks::tools::buffer\l::move_ptr_write" alt="" coords="261,183,392,225"/><area shape="rect" id="node9" href="../../d2/dad/classtasks_1_1net_1_1uwsgi__request.html#ae0b8f002a767012f47b1472d989c901b" title="tasks::net::uwsgi_request\l::parse_vars" alt="" coords="241,437,413,478"/><area shape="rect" id="node12" href="../../d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a95c712981c751ac39691dffffa7f917a" title="tasks::net::uwsgi_request::var" alt="" coords="227,503,426,529"/><area shape="rect" id="node13" href="../../dd/d66/classtasks_1_1tools_1_1buffer.html#a0e7449147cc621704167c8f9476252fa" title="tasks::tools::buffer\l::set_size" alt="" coords="261,317,392,358"/><area shape="rect" id="node3" href="../../d5/d79/classtasks_1_1net_1_1socket.html#ab395b344aec48b4e41e27542709c3609" title="tasks::net::socket\l::addr" alt="" coords="490,5,617,46"/><area shape="rect" id="node4" href="../../d5/d79/classtasks_1_1net_1_1socket.html#aeec4664123928381e60ab090995a3687" title="tasks::net::socket::udp" alt="" coords="475,71,631,97"/><area shape="rect" id="node7" href="../../dd/d66/classtasks_1_1tools_1_1buffer.html#a7ba8895adf0e926c085e69b3b5f9654a" title="tasks::tools::buffer\l::ptr_end" alt="" coords="488,187,619,229"/><area shape="rect" id="node10" href="../../dd/d66/classtasks_1_1tools_1_1buffer.html#af5630314b25a87931d442e3b457c09e4" title="tasks::tools::buffer\l::size" alt="" coords="488,551,619,593"/><area shape="rect" id="node11" href="../../dd/d66/classtasks_1_1tools_1_1buffer.html#a1a4f0a538f046c0e640941529d9bffcb" title="tasks::tools::buffer::ptr" alt="" coords="476,500,631,527"/><area shape="rect" id="node14" href="../../dd/d66/classtasks_1_1tools_1_1buffer.html#ad0eedb9145d09170ec24107999b9d8ee" title="tasks::tools::buffer\l::ptr_read" alt="" coords="488,383,619,425"/><area shape="rect" id="node15" href="../../dd/d66/classtasks_1_1tools_1_1buffer.html#a921ee00ee75b2e36470e62a79e52e9a8" title="tasks::tools::buffer\l::offset_read" alt="" coords="488,253,619,294"/><area shape="rect" id="node16" href="../../dd/d66/classtasks_1_1tools_1_1buffer.html#a9bf648c8ca66a88555105a01b68c8b7d" title="tasks::tools::buffer\l::ptr_begin" alt="" coords="680,318,811,359"/><area shape="rect" id="node17" href="../../dd/d66/classtasks_1_1tools_1_1buffer.html#a3249f073f0459f612626ebdd8422dc1c" title="tasks::tools::buffer\l::offset_write" alt="" coords="488,318,619,359"/></map>
+<area shape="rect" id="node2" href="../../d5/d79/classtasks_1_1net_1_1socket.html#a08fdb04977ad536af7d5222348007a3a" title="tasks::net::socket\l::read" alt="" coords="263,63,390,105"/><area shape="rect" id="node5" href="../../dd/d66/classtasks_1_1tools_1_1buffer.html#aff2ff10a6510772460f298006d29402d" title="tasks::tools::buffer\l::ptr_write" alt="" coords="488,122,619,163"/><area shape="rect" id="node6" href="../../dd/d66/classtasks_1_1tools_1_1buffer.html#a349e9558556660aa4a207a1fea27361c" title="tasks::tools::buffer\l::to_write" alt="" coords="261,249,392,290"/><area shape="rect" id="node8" href="../../dd/d66/classtasks_1_1tools_1_1buffer.html#ab11cdd85f5489482dae47b7ad1322832" title="tasks::tools::buffer\l::move_ptr_write" alt="" coords="261,183,392,225"/><area shape="rect" id="node9" href="../../d2/dad/classtasks_1_1net_1_1uwsgi__request.html#ae0b8f002a767012f47b1472d989c901b" title="Parse the uswgi parameters into a hash map. " alt="" coords="241,437,413,478"/><area shape="rect" id="node12" href="../../d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a95c712981c751ac39691dffffa7f917a" title="tasks::net::uwsgi_request::var" alt="" coords="227,503,426,529"/><area shape="rect" id="node13" href="../../dd/d66/classtasks_1_1tools_1_1buffer.html#a0e7449147cc621704167c8f9476252fa" title="tasks::tools::buffer\l::set_size" alt="" coords="261,317,392,358"/><area shape="rect" id="node3" href="../../d5/d79/classtasks_1_1net_1_1socket.html#ab395b344aec48b4e41e27542709c3609" title="tasks::net::socket\l::addr" alt="" coords="490,5,617,46"/><area shape="rect" id="node4" href="../../d5/d79/classtasks_1_1net_1_1socket.html#aeec4664123928381e60ab090995a3687" title="tasks::net::socket::udp" alt="" coords="475,71,631,97"/><area shape="rect" id="node7" href="../../dd/d66/classtasks_1_1tools_1_1buffer.html#a7ba8895adf0e926c085e69b3b5f9654a" title="tasks::tools::buffer\l::ptr_end" alt="" coords="488,187,619,229"/><area shape="rect" id="node10" href="../../dd/d66/classtasks_1_1tools_1_1buffer.html#af5630314b25a87931d442e3b457c09e4" title="tasks::tools::buffer\l::size" alt="" coords="488,551,619,593"/><area shape="rect" id="node11" href="../../dd/d66/classtasks_1_1tools_1_1buffer.html#a1a4f0a538f046c0e640941529d9bffcb" title="tasks::tools::buffer::ptr" alt="" coords="476,500,631,527"/><area shape="rect" id="node14" href="../../dd/d66/classtasks_1_1tools_1_1buffer.html#ad0eedb9145d09170ec24107999b9d8ee" title="tasks::tools::buffer\l::ptr_read" alt="" coords="488,383,619,425"/><area shape="rect" id="node15" href="../../dd/d66/classtasks_1_1tools_1_1buffer.html#a921ee00ee75b2e36470e62a79e52e9a8" title="tasks::tools::buffer\l::offset_read" alt="" coords="488,253,619,294"/><area shape="rect" id="node16" href="../../dd/d66/classtasks_1_1tools_1_1buffer.html#a9bf648c8ca66a88555105a01b68c8b7d" title="tasks::tools::buffer\l::ptr_begin" alt="" coords="680,318,811,359"/><area shape="rect" id="node17" href="../../dd/d66/classtasks_1_1tools_1_1buffer.html#a3249f073f0459f612626ebdd8422dc1c" title="tasks::tools::buffer\l::offset_write" alt="" coords="488,318,619,359"/></map>
 </div>
 </p>
 
@@ -602,7 +634,7 @@ Here is the caller graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../d2/dad/classtasks_1_1net_1_1uwsgi__request_a9c0afb5a06ed140599e7e980f22c2bbf_icgraph.png" border="0" usemap="#d2/dad/classtasks_1_1net_1_1uwsgi__request_a9c0afb5a06ed140599e7e980f22c2bbf_icgraph" alt=""/></div>
 <map name="d2/dad/classtasks_1_1net_1_1uwsgi__request_a9c0afb5a06ed140599e7e980f22c2bbf_icgraph" id="d2/dad/classtasks_1_1net_1_1uwsgi__request_a9c0afb5a06ed140599e7e980f22c2bbf_icgraph">
-<area shape="rect" id="node2" href="../../d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a191aa6626c9e448409660046ef4619b7" title="tasks::net::uwsgi_request\l::read_data" alt="" coords="227,5,399,46"/><area shape="rect" id="node3" href="../../d1/da5/classtasks_1_1net_1_1uwsgi__task.html#ae36e9d54f000a845707dca0f80c97031" title="tasks::net::uwsgi_task\l::handle_event" alt="" coords="448,5,603,46"/></map>
+<area shape="rect" id="node2" href="../../d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a191aa6626c9e448409660046ef4619b7" title="Read request data from a socket. " alt="" coords="227,5,399,46"/><area shape="rect" id="node3" href="../../d1/da5/classtasks_1_1net_1_1uwsgi__task.html#ae36e9d54f000a845707dca0f80c97031" title="tasks::net::uwsgi_task\l::handle_event" alt="" coords="448,5,603,46"/></map>
 </div>
 </p>
 
@@ -629,15 +661,23 @@ Here is the caller graph for this function:</div>
   </tr>
 </table>
 </div><div class="memdoc">
+<p>Provide access to uwsgi parameters.</p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">key</td><td>The parameter name. </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>The parameter value. </dd></dl>
 
-<p>Definition at line <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html#l00034">34</a> of file <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html">uwsgi_request.h</a>.</p>
+<p>Definition at line <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html#l00039">39</a> of file <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html">uwsgi_request.h</a>.</p>
 
 <p><div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../d2/dad/classtasks_1_1net_1_1uwsgi__request_a95c712981c751ac39691dffffa7f917a_icgraph.png" border="0" usemap="#d2/dad/classtasks_1_1net_1_1uwsgi__request_a95c712981c751ac39691dffffa7f917a_icgraph" alt=""/></div>
 <map name="d2/dad/classtasks_1_1net_1_1uwsgi__request_a95c712981c751ac39691dffffa7f917a_icgraph" id="d2/dad/classtasks_1_1net_1_1uwsgi__request_a95c712981c751ac39691dffffa7f917a_icgraph">
-<area shape="rect" id="node2" href="../../d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a9c0afb5a06ed140599e7e980f22c2bbf" title="tasks::net::uwsgi_request\l::read_vars" alt="" coords="254,5,426,46"/><area shape="rect" id="node3" href="../../d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a191aa6626c9e448409660046ef4619b7" title="tasks::net::uwsgi_request\l::read_data" alt="" coords="475,5,647,46"/><area shape="rect" id="node4" href="../../d1/da5/classtasks_1_1net_1_1uwsgi__task.html#ae36e9d54f000a845707dca0f80c97031" title="tasks::net::uwsgi_task\l::handle_event" alt="" coords="696,5,851,46"/></map>
+<area shape="rect" id="node2" href="../../d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a9c0afb5a06ed140599e7e980f22c2bbf" title="Read the uwsgi parameters from a socket. " alt="" coords="254,5,426,46"/><area shape="rect" id="node3" href="../../d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a191aa6626c9e448409660046ef4619b7" title="Read request data from a socket. " alt="" coords="475,5,647,46"/><area shape="rect" id="node4" href="../../d1/da5/classtasks_1_1net_1_1uwsgi__task.html#ae36e9d54f000a845707dca0f80c97031" title="tasks::net::uwsgi_task\l::handle_event" alt="" coords="696,5,851,46"/></map>
 </div>
 </p>
 
@@ -651,7 +691,7 @@ Here is the caller graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">const <a class="el" href="../../d2/dad/classtasks_1_1net_1_1uwsgi__request.html#aa9510cff3addf843b3f24a098432398f">uwsgi_vars_t</a>&amp; tasks::net::uwsgi_request::vars </td>
+          <td class="memname">const <a class="el" href="../../d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a991c770579639fa1d89709148e291389">uwsgi_vars_t</a>&amp; tasks::net::uwsgi_request::vars </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td> const</td>
@@ -663,8 +703,9 @@ Here is the caller graph for this function:</div>
   </tr>
 </table>
 </div><div class="memdoc">
+<dl class="section return"><dt>Returns</dt><dd>The parameter map. </dd></dl>
 
-<p>Definition at line <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html#l00042">42</a> of file <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html">uwsgi_request.h</a>.</p>
+<p>Definition at line <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html#l00048">48</a> of file <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html">uwsgi_request.h</a>.</p>
 
 </div>
 </div>
@@ -699,8 +740,16 @@ Here is the caller graph for this function:</div>
   </tr>
 </table>
 </div><div class="memdoc">
+<p>Copy data into the content buffer.</p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">data</td><td>A pointer to the data. </td></tr>
+    <tr><td class="paramname">size</td><td>The number of bytes to copy. </td></tr>
+  </table>
+  </dd>
+</dl>
 
-<p>Definition at line <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html#l00056">56</a> of file <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html">uwsgi_request.h</a>.</p>
+<p>Definition at line <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html#l00066">66</a> of file <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html">uwsgi_request.h</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -732,7 +781,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html#l00079">79</a> of file <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html">uwsgi_request.h</a>.</p>
+<p>Definition at line <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html#l00099">99</a> of file <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html">uwsgi_request.h</a>.</p>
 
 </div>
 </div>
@@ -754,7 +803,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html#l00078">78</a> of file <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html">uwsgi_request.h</a>.</p>
+<p>Definition at line <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html#l00098">98</a> of file <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html">uwsgi_request.h</a>.</p>
 
 </div>
 </div>
@@ -776,7 +825,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html#l00077">77</a> of file <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html">uwsgi_request.h</a>.</p>
+<p>Definition at line <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html#l00097">97</a> of file <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html">uwsgi_request.h</a>.</p>
 
 </div>
 </div>
@@ -798,7 +847,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html#l00080">80</a> of file <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html">uwsgi_request.h</a>.</p>
+<p>Definition at line <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html#l00100">100</a> of file <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html">uwsgi_request.h</a>.</p>
 
 </div>
 </div>
@@ -810,7 +859,7 @@ Here is the call graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d2/dad/classtasks_1_1net_1_1uwsgi__request.html#aa9510cff3addf843b3f24a098432398f">uwsgi_vars_t</a> tasks::net::uwsgi_request::m_vars</td>
+          <td class="memname"><a class="el" href="../../d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a991c770579639fa1d89709148e291389">uwsgi_vars_t</a> tasks::net::uwsgi_request::m_vars</td>
         </tr>
       </table>
   </td>
@@ -820,7 +869,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html#l00081">81</a> of file <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html">uwsgi_request.h</a>.</p>
+<p>Definition at line <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html#l00101">101</a> of file <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html">uwsgi_request.h</a>.</p>
 
 </div>
 </div>
@@ -842,7 +891,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html#l00030">30</a> of file <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html">uwsgi_request.h</a>.</p>
+<p>Definition at line <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html#l00031">31</a> of file <a class="el" href="../../d7/d13/uwsgi__request_8h_source.html">uwsgi_request.h</a>.</p>
 
 </div>
 </div>

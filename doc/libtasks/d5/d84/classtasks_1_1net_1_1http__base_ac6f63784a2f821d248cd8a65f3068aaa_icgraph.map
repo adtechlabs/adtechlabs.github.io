@@ -1,4 +1,4 @@
 <map id="tasks::net::http_base::write_headers" name="tasks::net::http_base::write_headers">
-<area shape="rect" id="node2" href="$d5/d84/classtasks_1_1net_1_1http__base.html#ae6a64dae6aa6e72483f6e50dbee32401" title="tasks::net::http_base\l::write_data" alt="" coords="201,5,346,46"/>
+<area shape="rect" id="node2" href="$d5/d84/classtasks_1_1net_1_1http__base.html#ae6a64dae6aa6e72483f6e50dbee32401" title="Write a HTTP object to a socket. " alt="" coords="201,5,346,46"/>
 <area shape="rect" id="node3" href="$d1/da5/classtasks_1_1net_1_1uwsgi__task.html#ae36e9d54f000a845707dca0f80c97031" title="tasks::net::uwsgi_task\l::handle_event" alt="" coords="395,5,549,46"/>
 </map>

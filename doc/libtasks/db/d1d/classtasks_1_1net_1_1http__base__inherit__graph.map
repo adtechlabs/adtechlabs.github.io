@@ -1,4 +1,4 @@
 <map id="tasks::net::http_base" name="tasks::net::http_base">
-<area shape="rect" id="node2" href="$d3/d58/classtasks_1_1net_1_1http__request.html" title="tasks::net::http_request" alt="" coords="5,80,164,107"/>
-<area shape="rect" id="node3" href="$d5/d2f/classtasks_1_1net_1_1http__response.html" title="tasks::net::http_response" alt="" coords="189,80,360,107"/>
+<area shape="rect" id="node2" href="$d3/d58/classtasks_1_1net_1_1http__request.html" title="The HTTP request implementation. " alt="" coords="5,80,164,107"/>
+<area shape="rect" id="node3" href="$d5/d2f/classtasks_1_1net_1_1http__response.html" title="The HTTP response implementation. " alt="" coords="189,80,360,107"/>
 </map>

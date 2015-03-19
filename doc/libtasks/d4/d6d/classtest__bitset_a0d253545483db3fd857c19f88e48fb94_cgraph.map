@@ -1,12 +1,12 @@
 <map id="test_bitset::test" name="test_bitset::test">
-<area shape="rect" id="node2" href="$d9/d45/classtasks_1_1tools_1_1bitset.html#a8d22f625f1330594f807648c6502e68e" title="tasks::tools::bitset\l::buckets" alt="" coords="168,5,299,46"/>
-<area shape="rect" id="node3" href="$d1/d42/test__bitset_8cpp.html#a784ba4b2d0e67101fda9c0975503abe5" title="full_iteration" alt="" coords="187,187,279,213"/>
-<area shape="rect" id="node7" href="$d9/d45/classtasks_1_1tools_1_1bitset.html#aa039383e024099e58a973dcb15185b0a" title="tasks::tools::bitset::set" alt="" coords="349,304,505,331"/>
-<area shape="rect" id="node8" href="$d9/d45/classtasks_1_1tools_1_1bitset.html#a7aa917a033cfa6443b7978d8934bdef8" title="tasks::tools::bitset\l::unset" alt="" coords="361,70,492,111"/>
-<area shape="rect" id="node9" href="$d9/d45/classtasks_1_1tools_1_1bitset.html#a7c6a99290210f58bdd523a2b4310a7ed" title="tasks::tools::bitset\l::first" alt="" coords="168,333,299,374"/>
-<area shape="rect" id="node11" href="$d9/d45/classtasks_1_1tools_1_1bitset.html#a50f9de41bf24eeb68df54085c4b70cc2" title="tasks::tools::bitset\l::next" alt="" coords="168,70,299,111"/>
-<area shape="rect" id="node4" href="$d9/d45/classtasks_1_1tools_1_1bitset.html#a7e11240dd417a9fdbe58757a461ff208" title="tasks::tools::bitset\l::bits" alt="" coords="361,238,492,279"/>
-<area shape="rect" id="node5" href="$d9/d45/classtasks_1_1tools_1_1bitset.html#a8105d634f91256159989c8ea0b6e3581" title="tasks::tools::bitset\l::toggle" alt="" coords="555,157,685,198"/>
-<area shape="rect" id="node6" href="$d9/d45/classtasks_1_1tools_1_1bitset.html#a1a98a696eddee8fb05c9fea79e44ae23" title="tasks::tools::bitset\l::test" alt="" coords="555,70,685,111"/>
-<area shape="rect" id="node10" href="$d9/d45/classtasks_1_1tools_1_1bitset.html#a804101ff5ca0da6c78ae06cab26a5151" title="tasks::tools::bitset::any" alt="" coords="347,355,506,381"/>
+<area shape="rect" id="node2" href="$d9/d45/classtasks_1_1tools_1_1bitset.html#a8d22f625f1330594f807648c6502e68e" title="tasks::tools::bitset\l::buckets" alt="" coords="168,19,299,61"/>
+<area shape="rect" id="node3" href="$d1/d42/test__bitset_8cpp.html#a784ba4b2d0e67101fda9c0975503abe5" title="full_iteration" alt="" coords="187,151,279,177"/>
+<area shape="rect" id="node7" href="$d9/d45/classtasks_1_1tools_1_1bitset.html#aa039383e024099e58a973dcb15185b0a" title="Set a bit. " alt="" coords="349,201,505,228"/>
+<area shape="rect" id="node8" href="$d9/d45/classtasks_1_1tools_1_1bitset.html#a7aa917a033cfa6443b7978d8934bdef8" title="Unset a bit. " alt="" coords="361,253,492,294"/>
+<area shape="rect" id="node9" href="$d9/d45/classtasks_1_1tools_1_1bitset.html#a7c6a99290210f58bdd523a2b4310a7ed" title="tasks::tools::bitset\l::first" alt="" coords="168,309,299,350"/>
+<area shape="rect" id="node11" href="$d9/d45/classtasks_1_1tools_1_1bitset.html#a50f9de41bf24eeb68df54085c4b70cc2" title="tasks::tools::bitset\l::next" alt="" coords="168,85,299,126"/>
+<area shape="rect" id="node4" href="$d9/d45/classtasks_1_1tools_1_1bitset.html#a7e11240dd417a9fdbe58757a461ff208" title="tasks::tools::bitset\l::bits" alt="" coords="361,70,492,111"/>
+<area shape="rect" id="node5" href="$d9/d45/classtasks_1_1tools_1_1bitset.html#a8105d634f91256159989c8ea0b6e3581" title="Toggle a bit. " alt="" coords="361,135,492,177"/>
+<area shape="rect" id="node6" href="$d9/d45/classtasks_1_1tools_1_1bitset.html#a1a98a696eddee8fb05c9fea79e44ae23" title="Test if a bit is set. " alt="" coords="361,5,492,46"/>
+<area shape="rect" id="node10" href="$d9/d45/classtasks_1_1tools_1_1bitset.html#a9df0b55ae9abe9e876ca3ab6a6fb0cbb" title="tasks::tools::bitset::any" alt="" coords="347,319,506,345"/>
 </map>

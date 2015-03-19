@@ -1,4 +1,4 @@
 <map id="tasks::net::uwsgi_request::read_vars" name="tasks::net::uwsgi_request::read_vars">
-<area shape="rect" id="node2" href="$d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a191aa6626c9e448409660046ef4619b7" title="tasks::net::uwsgi_request\l::read_data" alt="" coords="227,5,399,46"/>
+<area shape="rect" id="node2" href="$d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a191aa6626c9e448409660046ef4619b7" title="Read request data from a socket. " alt="" coords="227,5,399,46"/>
 <area shape="rect" id="node3" href="$d1/da5/classtasks_1_1net_1_1uwsgi__task.html#ae36e9d54f000a845707dca0f80c97031" title="tasks::net::uwsgi_task\l::handle_event" alt="" coords="448,5,603,46"/>
 </map>

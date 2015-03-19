@@ -5,7 +5,7 @@
 <area shape="rect" id="node4" href="$de/d57/classecho__handler.html" title="echo_handler" alt="" coords="593,5,692,32"/>
 <area shape="rect" id="node5" href="$dc/d51/classtasks_1_1net_1_1acceptor.html" title="tasks::net::acceptor\&lt; T \&gt;" alt="" coords="557,56,728,83"/>
 <area shape="rect" id="node6" href="$d5/d2c/classtasks_1_1net_1_1http__sender.html" title="tasks::net::http_sender\l\&lt; handler_type \&gt;" alt="" coords="565,107,721,149"/>
-<area shape="rect" id="node7" href="$d1/da5/classtasks_1_1net_1_1uwsgi__task.html" title="tasks::net::uwsgi_task" alt="" coords="565,173,720,200"/>
+<area shape="rect" id="node7" href="$d1/da5/classtasks_1_1net_1_1uwsgi__task.html" title="The base class for the uwsgi protocol implementation. " alt="" coords="565,173,720,200"/>
 <area shape="rect" id="node11" href="$dd/d3f/classtest__http__close__handler.html" title="test_http_close_handler" alt="" coords="563,224,723,251"/>
 <area shape="rect" id="node8" href="$da/d73/classtasks_1_1net_1_1uwsgi__thrift__async__processor.html" title="tasks::net::uwsgi_thrift\l_async_processor\&lt; handler_type \&gt;" alt="" coords="776,61,1003,102"/>
 <area shape="rect" id="node9" href="$d3/d84/classtasks_1_1net_1_1uwsgi__thrift__processor.html" title="tasks::net::uwsgi_thrift\l_processor\&lt; processor_type,\l handler_type \&gt;" alt="" coords="794,125,985,181"/>

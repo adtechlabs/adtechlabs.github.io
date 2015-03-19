@@ -1,7 +1,7 @@
 <map id="full_iteration" name="full_iteration">
 <area shape="rect" id="node2" href="$d9/d45/classtasks_1_1tools_1_1bitset.html#a7e11240dd417a9fdbe58757a461ff208" title="tasks::tools::bitset\l::bits" alt="" coords="160,5,291,46"/>
-<area shape="rect" id="node3" href="$d9/d45/classtasks_1_1tools_1_1bitset.html#a8105d634f91256159989c8ea0b6e3581" title="tasks::tools::bitset\l::toggle" alt="" coords="352,93,483,134"/>
-<area shape="rect" id="node4" href="$d9/d45/classtasks_1_1tools_1_1bitset.html#a1a98a696eddee8fb05c9fea79e44ae23" title="tasks::tools::bitset\l::test" alt="" coords="352,179,483,221"/>
-<area shape="rect" id="node5" href="$d9/d45/classtasks_1_1tools_1_1bitset.html#aa039383e024099e58a973dcb15185b0a" title="tasks::tools::bitset::set" alt="" coords="147,188,303,215"/>
-<area shape="rect" id="node6" href="$d9/d45/classtasks_1_1tools_1_1bitset.html#a7aa917a033cfa6443b7978d8934bdef8" title="tasks::tools::bitset\l::unset" alt="" coords="160,122,291,163"/>
+<area shape="rect" id="node3" href="$d9/d45/classtasks_1_1tools_1_1bitset.html#a8105d634f91256159989c8ea0b6e3581" title="Toggle a bit. " alt="" coords="160,70,291,111"/>
+<area shape="rect" id="node4" href="$d9/d45/classtasks_1_1tools_1_1bitset.html#a1a98a696eddee8fb05c9fea79e44ae23" title="Test if a bit is set. " alt="" coords="160,135,291,177"/>
+<area shape="rect" id="node5" href="$d9/d45/classtasks_1_1tools_1_1bitset.html#aa039383e024099e58a973dcb15185b0a" title="Set a bit. " alt="" coords="147,201,303,228"/>
+<area shape="rect" id="node6" href="$d9/d45/classtasks_1_1tools_1_1bitset.html#a7aa917a033cfa6443b7978d8934bdef8" title="Unset a bit. " alt="" coords="160,253,291,294"/>
 </map>

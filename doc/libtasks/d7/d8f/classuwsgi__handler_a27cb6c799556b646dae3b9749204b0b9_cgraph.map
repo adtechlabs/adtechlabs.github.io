@@ -4,7 +4,7 @@
 <area shape="rect" id="node4" href="$d1/da5/classtasks_1_1net_1_1uwsgi__task.html#afc0dfec6ae11b0ca0228be9ee603eeb4" title="tasks::net::uwsgi_task\l::response" alt="" coords="213,135,368,177"/>
 <area shape="rect" id="node5" href="$d5/d2f/classtasks_1_1net_1_1http__response.html#ac5fc8b7ee8c6b4bfb2f64a596fb05c29" title="tasks::net::http_response\l::set_status" alt="" coords="205,201,376,242"/>
 <area shape="rect" id="node7" href="$d5/d84/classtasks_1_1net_1_1http__base.html#a2ade4fa3b41f57b280683eff053f5bc5" title="tasks::net::http_base\l::set_header" alt="" coords="218,266,363,307"/>
-<area shape="rect" id="node9" href="$d1/da5/classtasks_1_1net_1_1uwsgi__task.html#a049774118f72950828da30a7af01e10f" title="tasks::net::uwsgi_task\l::send_response" alt="" coords="213,331,368,373"/>
+<area shape="rect" id="node9" href="$d1/da5/classtasks_1_1net_1_1uwsgi__task.html#a049774118f72950828da30a7af01e10f" title="Send the resonse back. " alt="" coords="213,331,368,373"/>
 <area shape="rect" id="node19" href="$d2/da7/classstats.html#a89fe7d71d7b37cf174213d9387622c5b" title="stats::inc_req" alt="" coords="240,397,341,424"/>
 <area shape="rect" id="node6" href="$d5/d2f/classtasks_1_1net_1_1http__response.html#a4d33ac9e26dfcef21b6d9dcf0eaad3fa" title="tasks::net::http_response\l::status" alt="" coords="424,201,595,242"/>
 <area shape="rect" id="node8" href="$d5/d84/classtasks_1_1net_1_1http__base.html#a9e35f8333a96606212d57e40481687f1" title="tasks::net::http_base\l::header" alt="" coords="437,266,582,307"/>

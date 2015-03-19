@@ -2,7 +2,7 @@
 <area shape="rect" id="node2" href="$d9/d52/classtasks_1_1disk__io__task.html#ae03ee8a0504e129f628f67962cb8b415" title="tasks::disk_io_task::op" alt="" coords="197,41,355,68"/>
 <area shape="rect" id="node6" href="$d5/d2c/classtasks_1_1net_1_1http__sender.html#a05a811e7a63c526de3e1bf9c92aeb3ba" title="tasks::net::http_sender\l::handle_event" alt="" coords="198,93,354,134"/>
 <area shape="rect" id="node7" href="$d1/da5/classtasks_1_1net_1_1uwsgi__task.html#ae36e9d54f000a845707dca0f80c97031" title="tasks::net::uwsgi_task\l::handle_event" alt="" coords="199,158,353,199"/>
-<area shape="rect" id="node8" href="$d8/d64/classtasks_1_1net_1_1uwsgi__thrift__async__handler.html#a645feca93565947c36bb89194d9ad956" title="tasks::net::uwsgi_thrift\l_async_handler\&lt; IpService\l_lookup_result, IpService\l_lookup_args \&gt;::set_error" alt="" coords="186,223,366,294"/>
+<area shape="rect" id="node8" href="$d8/d64/classtasks_1_1net_1_1uwsgi__thrift__async__handler.html#a645feca93565947c36bb89194d9ad956" title="Report an error. " alt="" coords="186,223,366,294"/>
 <area shape="rect" id="node11" href="$d3/d84/classtasks_1_1net_1_1uwsgi__thrift__processor.html#a0db99757d968baf1fccf273b130e13d0" title="tasks::net::uwsgi_thrift\l_processor::handle_request" alt="" coords="185,318,367,359"/>
 <area shape="rect" id="node3" href="$d9/d52/classtasks_1_1disk__io__task.html#ac6adaca03bc7cb027c868c39c8b525af" title="tasks::disk_io_task\l::add_task" alt="" coords="418,34,553,75"/>
 <area shape="rect" id="node4" href="$da/dee/classtest__disk__io__task.html#a9c25624668ac4fb05d80c9e2f6248e3a" title="test_disk_io_task::\lwrite" alt="" coords="615,5,747,46"/>

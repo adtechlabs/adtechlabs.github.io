@@ -1,5 +1,5 @@
 <map id="tasks::net::http_response::parse_status" name="tasks::net::http_response::parse_status">
 <area shape="rect" id="node2" href="$d5/d2f/classtasks_1_1net_1_1http__response.html#a30fd03a0313a263157be8011d54a326b" title="tasks::net::http_response\l::parse_line" alt="" coords="224,5,395,46"/>
 <area shape="rect" id="node3" href="$d5/d2f/classtasks_1_1net_1_1http__response.html#ae3ec20fcf4c9d5584ab7c321383ffdaa" title="tasks::net::http_response\l::parse_data" alt="" coords="443,5,613,46"/>
-<area shape="rect" id="node4" href="$d5/d2f/classtasks_1_1net_1_1http__response.html#a6f329fee1d60843a18d073dc32c86ca1" title="tasks::net::http_response\l::read_data" alt="" coords="661,5,832,46"/>
+<area shape="rect" id="node4" href="$d5/d2f/classtasks_1_1net_1_1http__response.html#a6f329fee1d60843a18d073dc32c86ca1" title="Read an HTTP response from a socket. " alt="" coords="661,5,832,46"/>
 </map>

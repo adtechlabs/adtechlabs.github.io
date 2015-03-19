@@ -8,11 +8,11 @@
 <area shape="rect" id="node9" href="$d5/d6c/classtest__socket.html#a3358b600ab10f80b3dfe691e4f0a80b9" title="test_socket::tcp" alt="" coords="415,201,531,228"/>
 <area shape="rect" id="node10" href="$d5/d6c/classtest__socket.html#ab95cc4790a3c2dcddfd6795e5cc07da7" title="test_socket::udp" alt="" coords="414,252,533,279"/>
 <area shape="rect" id="node11" href="$d5/d6c/classtest__socket.html#a3e22f36f531e046ff56d124d017a7022" title="test_socket::unix" alt="" coords="412,303,535,329"/>
-<area shape="rect" id="node6" href="$d5/d84/classtasks_1_1net_1_1http__base.html#ae6a64dae6aa6e72483f6e50dbee32401" title="tasks::net::http_base\l::write_data" alt="" coords="622,70,767,111"/>
+<area shape="rect" id="node6" href="$d5/d84/classtasks_1_1net_1_1http__base.html#ae6a64dae6aa6e72483f6e50dbee32401" title="Write a HTTP object to a socket. " alt="" coords="622,70,767,111"/>
 <area shape="rect" id="node7" href="$d1/da5/classtasks_1_1net_1_1uwsgi__task.html#ae36e9d54f000a845707dca0f80c97031" title="tasks::net::uwsgi_task\l::handle_event" alt="" coords="829,229,984,270"/>
-<area shape="rect" id="node13" href="$d5/d2f/classtasks_1_1net_1_1http__response.html#a6f329fee1d60843a18d073dc32c86ca1" title="tasks::net::http_response\l::read_data" alt="" coords="388,485,559,526"/>
-<area shape="rect" id="node14" href="$d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a392ab5b015d0d44a13b34430d0bd773b" title="tasks::net::uwsgi_request\l::read_header" alt="" coords="387,550,559,591"/>
-<area shape="rect" id="node16" href="$d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a9c0afb5a06ed140599e7e980f22c2bbf" title="tasks::net::uwsgi_request\l::read_vars" alt="" coords="387,354,559,395"/>
-<area shape="rect" id="node17" href="$d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a2670c87604212f49c98e61e8c09bfebd" title="tasks::net::uwsgi_request\l::read_content" alt="" coords="387,419,559,461"/>
-<area shape="rect" id="node15" href="$d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a191aa6626c9e448409660046ef4619b7" title="tasks::net::uwsgi_request\l::read_data" alt="" coords="609,386,781,427"/>
+<area shape="rect" id="node13" href="$d5/d2f/classtasks_1_1net_1_1http__response.html#a6f329fee1d60843a18d073dc32c86ca1" title="Read an HTTP response from a socket. " alt="" coords="388,485,559,526"/>
+<area shape="rect" id="node14" href="$d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a392ab5b015d0d44a13b34430d0bd773b" title="Read the header from a socket. " alt="" coords="387,550,559,591"/>
+<area shape="rect" id="node16" href="$d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a9c0afb5a06ed140599e7e980f22c2bbf" title="Read the uwsgi parameters from a socket. " alt="" coords="387,354,559,395"/>
+<area shape="rect" id="node17" href="$d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a2670c87604212f49c98e61e8c09bfebd" title="Read POST data into the content buffer. " alt="" coords="387,419,559,461"/>
+<area shape="rect" id="node15" href="$d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a191aa6626c9e448409660046ef4619b7" title="Read request data from a socket. " alt="" coords="609,386,781,427"/>
 </map>

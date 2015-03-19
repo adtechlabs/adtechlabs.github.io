@@ -1,13 +1,13 @@
 var classtasks_1_1net_1_1uwsgi__thrift__async__handler =
 [
-    [ "args_t", "d8/d64/classtasks_1_1net_1_1uwsgi__thrift__async__handler.html#a8276527278c9f103c6fdffacaeae5001", null ],
-    [ "handler_finish_func_t", "d8/d64/classtasks_1_1net_1_1uwsgi__thrift__async__handler.html#a1fa825d94c7dfa42848902028619d0dc", null ],
-    [ "result_t", "d8/d64/classtasks_1_1net_1_1uwsgi__thrift__async__handler.html#a9da54c596b8f8deabc20273b5d6c8bcf", null ],
+    [ "args_t", "d8/d64/classtasks_1_1net_1_1uwsgi__thrift__async__handler.html#a333f897ccad1dacb0d59a081360692dd", null ],
+    [ "handler_finish_func_t", "d8/d64/classtasks_1_1net_1_1uwsgi__thrift__async__handler.html#a9b2b81761833aae6fa06f9c5acd19b41", null ],
+    [ "result_t", "d8/d64/classtasks_1_1net_1_1uwsgi__thrift__async__handler.html#a655888e29029624439782a56356c1047", null ],
     [ "~uwsgi_thrift_async_handler", "d8/d64/classtasks_1_1net_1_1uwsgi__thrift__async__handler.html#a9e1333575d6c0c92b8750e10c87f6671", null ],
     [ "finish", "d8/d64/classtasks_1_1net_1_1uwsgi__thrift__async__handler.html#ad39ace6c5d1a7da07b2e311b15bf58a3", null ],
     [ "on_finish", "d8/d64/classtasks_1_1net_1_1uwsgi__thrift__async__handler.html#a1e22fc2f3633b4b867058230a9fae962", null ],
-    [ "request", "d8/d64/classtasks_1_1net_1_1uwsgi__thrift__async__handler.html#a2a0f0aa41741217d8b045bd68b493c39", null ],
-    [ "request_p", "d8/d64/classtasks_1_1net_1_1uwsgi__thrift__async__handler.html#a180926b47d0ebd94be92f2f5f3f8c9d1", null ],
+    [ "request", "d8/d64/classtasks_1_1net_1_1uwsgi__thrift__async__handler.html#a0d67ad7479d391e9993c74f6d4f8dbdc", null ],
+    [ "request_p", "d8/d64/classtasks_1_1net_1_1uwsgi__thrift__async__handler.html#afe11d87353c0a6aab84aa772971eff3d", null ],
     [ "response", "d8/d64/classtasks_1_1net_1_1uwsgi__thrift__async__handler.html#a82b19c75d400a6f340776b50ed91f70a", null ],
     [ "response_p", "d8/d64/classtasks_1_1net_1_1uwsgi__thrift__async__handler.html#a9ae6be0d0816717669423839a1abfa75", null ],
     [ "result", "d8/d64/classtasks_1_1net_1_1uwsgi__thrift__async__handler.html#addd8d3a4738dfdb80a2af1c3d1f1f6a4", null ],

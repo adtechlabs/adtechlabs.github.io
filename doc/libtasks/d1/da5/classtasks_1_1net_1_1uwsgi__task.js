@@ -6,9 +6,13 @@ var classtasks_1_1net_1_1uwsgi__task =
     [ "handle_event", "d1/da5/classtasks_1_1net_1_1uwsgi__task.html#ae36e9d54f000a845707dca0f80c97031", null ],
     [ "handle_request", "d1/da5/classtasks_1_1net_1_1uwsgi__task.html#a31e7f2622677429e2621b119445ddbf2", null ],
     [ "request", "d1/da5/classtasks_1_1net_1_1uwsgi__task.html#adab21ebdc8659c22d4ecf620b340c558", null ],
+    [ "request", "d1/da5/classtasks_1_1net_1_1uwsgi__task.html#afc5b741f84b5ea38af66a5f267f76211", null ],
     [ "request_p", "d1/da5/classtasks_1_1net_1_1uwsgi__task.html#ad09bad790f8ca92ad615ee7ac27e6450", null ],
+    [ "request_p", "d1/da5/classtasks_1_1net_1_1uwsgi__task.html#abeeae8b96cb5909e237561b388c0b691", null ],
     [ "response", "d1/da5/classtasks_1_1net_1_1uwsgi__task.html#afc0dfec6ae11b0ca0228be9ee603eeb4", null ],
+    [ "response", "d1/da5/classtasks_1_1net_1_1uwsgi__task.html#a63471b8e3b13c2365371a80c2a410a58", null ],
     [ "response_p", "d1/da5/classtasks_1_1net_1_1uwsgi__task.html#a1a1a8f34968d69aac160c5fdbf1a0af9", null ],
+    [ "response_p", "d1/da5/classtasks_1_1net_1_1uwsgi__task.html#acf563916cee3fe69f3736547f4bfc424", null ],
     [ "send_response", "d1/da5/classtasks_1_1net_1_1uwsgi__task.html#a049774118f72950828da30a7af01e10f", null ],
     [ "m_request", "d1/da5/classtasks_1_1net_1_1uwsgi__task.html#a8d4560e8680d6b48ae126c2918c3e636", null ],
     [ "m_response", "d1/da5/classtasks_1_1net_1_1uwsgi__task.html#aaeb184121d3ca621cb9e40400b01b6de", null ]

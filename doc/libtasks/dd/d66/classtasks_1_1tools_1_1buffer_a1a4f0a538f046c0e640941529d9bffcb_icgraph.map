@@ -5,18 +5,18 @@
 <area shape="rect" id="node19" href="$d5/d2f/classtasks_1_1net_1_1http__response.html#ae3ec20fcf4c9d5584ab7c321383ffdaa" title="tasks::net::http_response\l::parse_data" alt="" coords="652,155,823,197"/>
 <area shape="rect" id="node20" href="$d5/d2f/classtasks_1_1net_1_1http__response.html#ae3a98f1dfc5109839ca2edc426a5096d" title="tasks::net::http_response\l::parse_status" alt="" coords="209,173,380,214"/>
 <area shape="rect" id="node22" href="$d5/d2f/classtasks_1_1net_1_1http__response.html#a75f926292e60c49c14c70b366ecf28a7" title="tasks::net::http_response\l::parse_header" alt="" coords="209,238,380,279"/>
-<area shape="rect" id="node23" href="$d2/dad/classtasks_1_1net_1_1uwsgi__request.html#ae0b8f002a767012f47b1472d989c901b" title="tasks::net::uwsgi_request\l::parse_vars" alt="" coords="209,482,381,523"/>
-<area shape="rect" id="node4" href="$d5/d2f/classtasks_1_1net_1_1http__response.html#a6f329fee1d60843a18d073dc32c86ca1" title="tasks::net::http_response\l::read_data" alt="" coords="873,155,1044,197"/>
+<area shape="rect" id="node23" href="$d2/dad/classtasks_1_1net_1_1uwsgi__request.html#ae0b8f002a767012f47b1472d989c901b" title="Parse the uswgi parameters into a hash map. " alt="" coords="209,482,381,523"/>
+<area shape="rect" id="node4" href="$d5/d2f/classtasks_1_1net_1_1http__response.html#a6f329fee1d60843a18d073dc32c86ca1" title="Read an HTTP response from a socket. " alt="" coords="873,155,1044,197"/>
 <area shape="rect" id="node6" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#a788700e34146dc3daee37d6269ca5b8a" title="tasks::tools::buffer\l::buffer" alt="" coords="451,238,581,279"/>
 <area shape="rect" id="node7" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#ae2d553ad39e48e38223e11d6cdff0942" title="tasks::tools::buffer\l::sputc" alt="" coords="451,303,581,345"/>
 <area shape="rect" id="node9" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#a88e8a4d0e8d53f1911090baff1efa68e" title="tasks::tools::buffer\l::xsputn" alt="" coords="451,421,581,462"/>
-<area shape="rect" id="node16" href="$d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a9c0afb5a06ed140599e7e980f22c2bbf" title="tasks::net::uwsgi_request\l::read_vars" alt="" coords="430,538,602,579"/>
-<area shape="rect" id="node17" href="$d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a191aa6626c9e448409660046ef4619b7" title="tasks::net::uwsgi_request\l::read_data" alt="" coords="651,538,823,579"/>
+<area shape="rect" id="node16" href="$d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a9c0afb5a06ed140599e7e980f22c2bbf" title="Read the uwsgi parameters from a socket. " alt="" coords="430,538,602,579"/>
+<area shape="rect" id="node17" href="$d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a191aa6626c9e448409660046ef4619b7" title="Read request data from a socket. " alt="" coords="651,538,823,579"/>
 <area shape="rect" id="node8" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#a4c7283c0d224faa04b880fba74e2529a" title="tasks::tools::buffer\l::overflow" alt="" coords="672,303,803,345"/>
 <area shape="rect" id="node10" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#a7bec8ac29d878f56e1d1167e4fa9891f" title="tasks::tools::buffer\l::write" alt="" coords="672,421,803,462"/>
 <area shape="rect" id="node11" href="$d5/d84/classtasks_1_1net_1_1http__base.html#a85e5143ed8e09d177f2e5c7b2d424be0" title="tasks::net::http_base\l::write" alt="" coords="886,362,1031,403"/>
-<area shape="rect" id="node12" href="$d3/d58/classtasks_1_1net_1_1http__request.html#a8e0ad7b40915a108dc3ba7df3b3b619a" title="tasks::net::http_request\l::prepare_data_buffer" alt="" coords="879,427,1039,469"/>
-<area shape="rect" id="node13" href="$d5/d2f/classtasks_1_1net_1_1http__response.html#a88d8c1a1ae75471dfdd51aa1ff1b2516" title="tasks::net::http_response\l::prepare_data_buffer" alt="" coords="873,493,1044,534"/>
+<area shape="rect" id="node12" href="$d3/d58/classtasks_1_1net_1_1http__request.html#a8e0ad7b40915a108dc3ba7df3b3b619a" title="Prepare a HTTP request/response to be sent. " alt="" coords="879,427,1039,469"/>
+<area shape="rect" id="node13" href="$d5/d2f/classtasks_1_1net_1_1http__response.html#a88d8c1a1ae75471dfdd51aa1ff1b2516" title="Prepare a HTTP request/response to be sent. " alt="" coords="873,493,1044,534"/>
 <area shape="rect" id="node14" href="$da/dee/classtest__disk__io__task.html#a9c25624668ac4fb05d80c9e2f6248e3a" title="test_disk_io_task::\lwrite" alt="" coords="893,231,1025,273"/>
 <area shape="rect" id="node15" href="$d2/dad/classtasks_1_1net_1_1uwsgi__request.html#aa55ce7b164b1f0d4c72456872a28ea37" title="tasks::net::uwsgi_request\l::write" alt="" coords="873,297,1045,338"/>
 <area shape="rect" id="node18" href="$d1/da5/classtasks_1_1net_1_1uwsgi__task.html#ae36e9d54f000a845707dca0f80c97031" title="tasks::net::uwsgi_task\l::handle_event" alt="" coords="881,558,1036,599"/>

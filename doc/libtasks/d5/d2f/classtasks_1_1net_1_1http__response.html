@@ -75,6 +75,9 @@ $(document).ready(function(){initNavTree('d5/d2f/classtasks_1_1net_1_1http__resp
 </div><!--header-->
 <div class="contents">
 
+<p>The HTTP response implementation.  
+ <a href="../../d5/d2f/classtasks_1_1net_1_1http__response.html#details">More...</a></p>
+
 <p><code>#include &lt;<a class="el" href="../../de/d49/http__response_8h_source.html">http_response.h</a>&gt;</code></p>
 <div class="dynheader">
 Inheritance diagram for tasks::net::http_response:</div>
@@ -102,10 +105,13 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a9a877b2f22109dcc28f0e899607186da"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2f/classtasks_1_1net_1_1http__response.html#a9a877b2f22109dcc28f0e899607186da">status_code</a> () const </td></tr>
 <tr class="separator:a9a877b2f22109dcc28f0e899607186da"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a88d8c1a1ae75471dfdd51aa1ff1b2516"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2f/classtasks_1_1net_1_1http__response.html#a88d8c1a1ae75471dfdd51aa1ff1b2516">prepare_data_buffer</a> ()</td></tr>
+<tr class="memdesc:a88d8c1a1ae75471dfdd51aa1ff1b2516"><td class="mdescLeft">&#160;</td><td class="mdescRight">Prepare a HTTP request/response to be sent.  <a href="#a88d8c1a1ae75471dfdd51aa1ff1b2516">More...</a><br/></td></tr>
 <tr class="separator:a88d8c1a1ae75471dfdd51aa1ff1b2516"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a6f329fee1d60843a18d073dc32c86ca1"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2f/classtasks_1_1net_1_1http__response.html#a6f329fee1d60843a18d073dc32c86ca1">read_data</a> (<a class="el" href="../../d5/d79/classtasks_1_1net_1_1socket.html">net::socket</a> &amp;sock)</td></tr>
+<tr class="memdesc:a6f329fee1d60843a18d073dc32c86ca1"><td class="mdescLeft">&#160;</td><td class="mdescRight">Read an HTTP response from a socket.  <a href="#a6f329fee1d60843a18d073dc32c86ca1">More...</a><br/></td></tr>
 <tr class="separator:a6f329fee1d60843a18d073dc32c86ca1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a52a509d321442026371d94658c5160f7"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2f/classtasks_1_1net_1_1http__response.html#a52a509d321442026371d94658c5160f7">clear</a> ()</td></tr>
+<tr class="memdesc:a52a509d321442026371d94658c5160f7"><td class="mdescLeft">&#160;</td><td class="mdescRight">Reset the http object.  <a href="#a52a509d321442026371d94658c5160f7">More...</a><br/></td></tr>
 <tr class="separator:a52a509d321442026371d94658c5160f7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pub_methods_classtasks_1_1net_1_1http__base"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_classtasks_1_1net_1_1http__base')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../d5/d84/classtasks_1_1net_1_1http__base.html">tasks::net::http_base</a></td></tr>
 <tr class="memitem:aae8ffafd83fb7f2a1a35eab2c683ea6e inherit pub_methods_classtasks_1_1net_1_1http__base"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d84/classtasks_1_1net_1_1http__base.html#aae8ffafd83fb7f2a1a35eab2c683ea6e">http_base</a> ()</td></tr>
@@ -126,6 +132,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a3a5a7dfa94f1fc2bf9c08482f11c575c inherit pub_methods_classtasks_1_1net_1_1http__base"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a85e5143ed8e09d177f2e5c7b2d424be0 inherit pub_methods_classtasks_1_1net_1_1http__base"><td class="memItemLeft" align="right" valign="top">std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d84/classtasks_1_1net_1_1http__base.html#a85e5143ed8e09d177f2e5c7b2d424be0">write</a> (std::string s)</td></tr>
 <tr class="separator:a85e5143ed8e09d177f2e5c7b2d424be0 inherit pub_methods_classtasks_1_1net_1_1http__base"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a29dcb5be4de34e2a971541523592fda8 inherit pub_methods_classtasks_1_1net_1_1http__base"><td class="memItemLeft" align="right" valign="top">std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d84/classtasks_1_1net_1_1http__base.html#a29dcb5be4de34e2a971541523592fda8">write</a> (const std::string &amp;s)</td></tr>
+<tr class="separator:a29dcb5be4de34e2a971541523592fda8 inherit pub_methods_classtasks_1_1net_1_1http__base"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a62b58add0fa445cfe5de026a816db449 inherit pub_methods_classtasks_1_1net_1_1http__base"><td class="memItemLeft" align="right" valign="top">std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d84/classtasks_1_1net_1_1http__base.html#a62b58add0fa445cfe5de026a816db449">write</a> (const char *data, std::size_t size)</td></tr>
 <tr class="separator:a62b58add0fa445cfe5de026a816db449 inherit pub_methods_classtasks_1_1net_1_1http__base"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af9598789f0ef6a1e9f93cf208e5597c7 inherit pub_methods_classtasks_1_1net_1_1http__base"><td class="memItemLeft" align="right" valign="top">std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d84/classtasks_1_1net_1_1http__base.html#af9598789f0ef6a1e9f93cf208e5597c7">read</a> (char *data, std::size_t size)</td></tr>
@@ -135,6 +143,7 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a1b21aff2bdc060691f41cfae4e0a5ca6 inherit pub_methods_classtasks_1_1net_1_1http__base"><td class="memItemLeft" align="right" valign="top">std::ostream &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d84/classtasks_1_1net_1_1http__base.html#a1b21aff2bdc060691f41cfae4e0a5ca6">content_ostream</a> ()</td></tr>
 <tr class="separator:a1b21aff2bdc060691f41cfae4e0a5ca6 inherit pub_methods_classtasks_1_1net_1_1http__base"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae6a64dae6aa6e72483f6e50dbee32401 inherit pub_methods_classtasks_1_1net_1_1http__base"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d84/classtasks_1_1net_1_1http__base.html#ae6a64dae6aa6e72483f6e50dbee32401">write_data</a> (<a class="el" href="../../d5/d79/classtasks_1_1net_1_1socket.html">socket</a> &amp;sock)</td></tr>
+<tr class="memdesc:ae6a64dae6aa6e72483f6e50dbee32401 inherit pub_methods_classtasks_1_1net_1_1http__base"><td class="mdescLeft">&#160;</td><td class="mdescRight">Write a HTTP object to a socket.  <a href="#ae6a64dae6aa6e72483f6e50dbee32401">More...</a><br/></td></tr>
 <tr class="separator:ae6a64dae6aa6e72483f6e50dbee32401 inherit pub_methods_classtasks_1_1net_1_1http__base"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a098e1714287e6f4f1e71d7399b9bfb30 inherit pub_methods_classtasks_1_1net_1_1http__base"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d84/classtasks_1_1net_1_1http__base.html#a098e1714287e6f4f1e71d7399b9bfb30">print</a> () const </td></tr>
 <tr class="separator:a098e1714287e6f4f1e71d7399b9bfb30 inherit pub_methods_classtasks_1_1net_1_1http__base"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -197,8 +206,9 @@ Additional Inherited Members</h2></td></tr>
 <tr class="separator:a703914bdd609db4f693cf7e8d752a5d1 inherit pro_attribs_classtasks_1_1net_1_1http__base"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock">
-<p>Definition at line <a class="el" href="../../de/d49/http__response_8h_source.html#l00018">18</a> of file <a class="el" href="../../de/d49/http__response_8h_source.html">http_response.h</a>.</p>
+<div class="textblock"><p>The HTTP response implementation. </p>
+
+<p>Definition at line <a class="el" href="../../de/d49/http__response_8h_source.html#l00019">19</a> of file <a class="el" href="../../de/d49/http__response_8h_source.html">http_response.h</a>.</p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
 <a class="anchor" id="ad9bea8afb2a98fb2a6e0718960cdcc75"></a>
 <div class="memitem">
@@ -221,7 +231,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../de/d49/http__response_8h_source.html#l00020">20</a> of file <a class="el" href="../../de/d49/http__response_8h_source.html">http_response.h</a>.</p>
+<p>Definition at line <a class="el" href="../../de/d49/http__response_8h_source.html#l00021">21</a> of file <a class="el" href="../../de/d49/http__response_8h_source.html">http_response.h</a>.</p>
 
 </div>
 </div>
@@ -247,16 +257,18 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
+<p>Reset the http object. </p>
+
 <p>Reimplemented from <a class="el" href="../../d5/d84/classtasks_1_1net_1_1http__base.html#a22c77ae44ee6f22484dd11e3f87969f2">tasks::net::http_base</a>.</p>
 
-<p>Definition at line <a class="el" href="../../de/d49/http__response_8h_source.html#l00035">35</a> of file <a class="el" href="../../de/d49/http__response_8h_source.html">http_response.h</a>.</p>
+<p>Definition at line <a class="el" href="../../de/d49/http__response_8h_source.html#l00041">41</a> of file <a class="el" href="../../de/d49/http__response_8h_source.html">http_response.h</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../d5/d2f/classtasks_1_1net_1_1http__response_a52a509d321442026371d94658c5160f7_cgraph.png" border="0" usemap="#d5/d2f/classtasks_1_1net_1_1http__response_a52a509d321442026371d94658c5160f7_cgraph" alt=""/></div>
 <map name="d5/d2f/classtasks_1_1net_1_1http__response_a52a509d321442026371d94658c5160f7_cgraph" id="d5/d2f/classtasks_1_1net_1_1http__response_a52a509d321442026371d94658c5160f7_cgraph">
-<area shape="rect" id="node2" href="../../d5/d84/classtasks_1_1net_1_1http__base.html#a22c77ae44ee6f22484dd11e3f87969f2" title="tasks::net::http_base\l::clear" alt="" coords="225,38,370,79"/><area shape="rect" id="node3" href="../../dd/d66/classtasks_1_1tools_1_1buffer.html#a494f1802fe64f3b446ad762793b8f37f" title="tasks::tools::buffer\l::clear" alt="" coords="419,38,549,79"/><area shape="rect" id="node4" href="../../dd/d66/classtasks_1_1tools_1_1buffer.html#a9bf648c8ca66a88555105a01b68c8b7d" title="tasks::tools::buffer\l::ptr_begin" alt="" coords="597,5,728,46"/><area shape="rect" id="node5" href="../../dd/d66/classtasks_1_1tools_1_1buffer.html#a7ba8895adf0e926c085e69b3b5f9654a" title="tasks::tools::buffer\l::ptr_end" alt="" coords="597,70,728,111"/></map>
+<area shape="rect" id="node2" href="../../d5/d84/classtasks_1_1net_1_1http__base.html#a22c77ae44ee6f22484dd11e3f87969f2" title="Reset the http object. " alt="" coords="225,38,370,79"/><area shape="rect" id="node3" href="../../dd/d66/classtasks_1_1tools_1_1buffer.html#a494f1802fe64f3b446ad762793b8f37f" title="tasks::tools::buffer\l::clear" alt="" coords="419,38,549,79"/><area shape="rect" id="node4" href="../../dd/d66/classtasks_1_1tools_1_1buffer.html#a9bf648c8ca66a88555105a01b68c8b7d" title="tasks::tools::buffer\l::ptr_begin" alt="" coords="597,5,728,46"/><area shape="rect" id="node5" href="../../dd/d66/classtasks_1_1tools_1_1buffer.html#a7ba8895adf0e926c085e69b3b5f9654a" title="tasks::tools::buffer\l::ptr_end" alt="" coords="597,70,728,111"/></map>
 </div>
 </p>
 
@@ -265,7 +277,7 @@ Here is the caller graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../d5/d2f/classtasks_1_1net_1_1http__response_a52a509d321442026371d94658c5160f7_icgraph.png" border="0" usemap="#d5/d2f/classtasks_1_1net_1_1http__response_a52a509d321442026371d94658c5160f7_icgraph" alt=""/></div>
 <map name="d5/d2f/classtasks_1_1net_1_1http__response_a52a509d321442026371d94658c5160f7_icgraph" id="d5/d2f/classtasks_1_1net_1_1http__response_a52a509d321442026371d94658c5160f7_icgraph">
-<area shape="rect" id="node2" href="../../d1/da5/classtasks_1_1net_1_1uwsgi__task.html#acd5f111537a00cde88ee733e63ff3be4" title="tasks::net::uwsgi_task\l::finish_request" alt="" coords="224,5,379,46"/><area shape="rect" id="node3" href="../../d1/da5/classtasks_1_1net_1_1uwsgi__task.html#ae36e9d54f000a845707dca0f80c97031" title="tasks::net::uwsgi_task\l::handle_event" alt="" coords="427,5,581,46"/></map>
+<area shape="rect" id="node2" href="../../d1/da5/classtasks_1_1net_1_1uwsgi__task.html#acd5f111537a00cde88ee733e63ff3be4" title="Called after a request has been responded. " alt="" coords="224,5,379,46"/><area shape="rect" id="node3" href="../../d1/da5/classtasks_1_1net_1_1uwsgi__task.html#ae36e9d54f000a845707dca0f80c97031" title="tasks::net::uwsgi_task\l::handle_event" alt="" coords="427,5,581,46"/></map>
 </div>
 </p>
 
@@ -308,7 +320,7 @@ Here is the caller graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../d5/d2f/classtasks_1_1net_1_1http__response_ae3ec20fcf4c9d5584ab7c321383ffdaa_icgraph.png" border="0" usemap="#d5/d2f/classtasks_1_1net_1_1http__response_ae3ec20fcf4c9d5584ab7c321383ffdaa_icgraph" alt=""/></div>
 <map name="d5/d2f/classtasks_1_1net_1_1http__response_ae3ec20fcf4c9d5584ab7c321383ffdaa_icgraph" id="d5/d2f/classtasks_1_1net_1_1http__response_ae3ec20fcf4c9d5584ab7c321383ffdaa_icgraph">
-<area shape="rect" id="node2" href="../../d5/d2f/classtasks_1_1net_1_1http__response.html#a6f329fee1d60843a18d073dc32c86ca1" title="tasks::net::http_response\l::read_data" alt="" coords="224,5,395,46"/></map>
+<area shape="rect" id="node2" href="../../d5/d2f/classtasks_1_1net_1_1http__response.html#a6f329fee1d60843a18d073dc32c86ca1" title="Read an HTTP response from a socket. " alt="" coords="224,5,395,46"/></map>
 </div>
 </p>
 
@@ -351,7 +363,7 @@ Here is the caller graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../d5/d2f/classtasks_1_1net_1_1http__response_a75f926292e60c49c14c70b366ecf28a7_icgraph.png" border="0" usemap="#d5/d2f/classtasks_1_1net_1_1http__response_a75f926292e60c49c14c70b366ecf28a7_icgraph" alt=""/></div>
 <map name="d5/d2f/classtasks_1_1net_1_1http__response_a75f926292e60c49c14c70b366ecf28a7_icgraph" id="d5/d2f/classtasks_1_1net_1_1http__response_a75f926292e60c49c14c70b366ecf28a7_icgraph">
-<area shape="rect" id="node2" href="../../d5/d2f/classtasks_1_1net_1_1http__response.html#a30fd03a0313a263157be8011d54a326b" title="tasks::net::http_response\l::parse_line" alt="" coords="224,5,395,46"/><area shape="rect" id="node3" href="../../d5/d2f/classtasks_1_1net_1_1http__response.html#ae3ec20fcf4c9d5584ab7c321383ffdaa" title="tasks::net::http_response\l::parse_data" alt="" coords="443,5,613,46"/><area shape="rect" id="node4" href="../../d5/d2f/classtasks_1_1net_1_1http__response.html#a6f329fee1d60843a18d073dc32c86ca1" title="tasks::net::http_response\l::read_data" alt="" coords="661,5,832,46"/></map>
+<area shape="rect" id="node2" href="../../d5/d2f/classtasks_1_1net_1_1http__response.html#a30fd03a0313a263157be8011d54a326b" title="tasks::net::http_response\l::parse_line" alt="" coords="224,5,395,46"/><area shape="rect" id="node3" href="../../d5/d2f/classtasks_1_1net_1_1http__response.html#ae3ec20fcf4c9d5584ab7c321383ffdaa" title="tasks::net::http_response\l::parse_data" alt="" coords="443,5,613,46"/><area shape="rect" id="node4" href="../../d5/d2f/classtasks_1_1net_1_1http__response.html#a6f329fee1d60843a18d073dc32c86ca1" title="Read an HTTP response from a socket. " alt="" coords="661,5,832,46"/></map>
 </div>
 </p>
 
@@ -394,7 +406,7 @@ Here is the caller graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../d5/d2f/classtasks_1_1net_1_1http__response_a30fd03a0313a263157be8011d54a326b_icgraph.png" border="0" usemap="#d5/d2f/classtasks_1_1net_1_1http__response_a30fd03a0313a263157be8011d54a326b_icgraph" alt=""/></div>
 <map name="d5/d2f/classtasks_1_1net_1_1http__response_a30fd03a0313a263157be8011d54a326b_icgraph" id="d5/d2f/classtasks_1_1net_1_1http__response_a30fd03a0313a263157be8011d54a326b_icgraph">
-<area shape="rect" id="node2" href="../../d5/d2f/classtasks_1_1net_1_1http__response.html#ae3ec20fcf4c9d5584ab7c321383ffdaa" title="tasks::net::http_response\l::parse_data" alt="" coords="224,5,395,46"/><area shape="rect" id="node3" href="../../d5/d2f/classtasks_1_1net_1_1http__response.html#a6f329fee1d60843a18d073dc32c86ca1" title="tasks::net::http_response\l::read_data" alt="" coords="443,5,613,46"/></map>
+<area shape="rect" id="node2" href="../../d5/d2f/classtasks_1_1net_1_1http__response.html#ae3ec20fcf4c9d5584ab7c321383ffdaa" title="tasks::net::http_response\l::parse_data" alt="" coords="224,5,395,46"/><area shape="rect" id="node3" href="../../d5/d2f/classtasks_1_1net_1_1http__response.html#a6f329fee1d60843a18d073dc32c86ca1" title="Read an HTTP response from a socket. " alt="" coords="443,5,613,46"/></map>
 </div>
 </p>
 
@@ -437,7 +449,7 @@ Here is the caller graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="../../d5/d2f/classtasks_1_1net_1_1http__response_ae3a98f1dfc5109839ca2edc426a5096d_icgraph.png" border="0" usemap="#d5/d2f/classtasks_1_1net_1_1http__response_ae3a98f1dfc5109839ca2edc426a5096d_icgraph" alt=""/></div>
 <map name="d5/d2f/classtasks_1_1net_1_1http__response_ae3a98f1dfc5109839ca2edc426a5096d_icgraph" id="d5/d2f/classtasks_1_1net_1_1http__response_ae3a98f1dfc5109839ca2edc426a5096d_icgraph">
-<area shape="rect" id="node2" href="../../d5/d2f/classtasks_1_1net_1_1http__response.html#a30fd03a0313a263157be8011d54a326b" title="tasks::net::http_response\l::parse_line" alt="" coords="224,5,395,46"/><area shape="rect" id="node3" href="../../d5/d2f/classtasks_1_1net_1_1http__response.html#ae3ec20fcf4c9d5584ab7c321383ffdaa" title="tasks::net::http_response\l::parse_data" alt="" coords="443,5,613,46"/><area shape="rect" id="node4" href="../../d5/d2f/classtasks_1_1net_1_1http__response.html#a6f329fee1d60843a18d073dc32c86ca1" title="tasks::net::http_response\l::read_data" alt="" coords="661,5,832,46"/></map>
+<area shape="rect" id="node2" href="../../d5/d2f/classtasks_1_1net_1_1http__response.html#a30fd03a0313a263157be8011d54a326b" title="tasks::net::http_response\l::parse_line" alt="" coords="224,5,395,46"/><area shape="rect" id="node3" href="../../d5/d2f/classtasks_1_1net_1_1http__response.html#ae3ec20fcf4c9d5584ab7c321383ffdaa" title="tasks::net::http_response\l::parse_data" alt="" coords="443,5,613,46"/><area shape="rect" id="node4" href="../../d5/d2f/classtasks_1_1net_1_1http__response.html#a6f329fee1d60843a18d073dc32c86ca1" title="Read an HTTP response from a socket. " alt="" coords="661,5,832,46"/></map>
 </div>
 </p>
 
@@ -463,6 +475,8 @@ Here is the caller graph for this function:</div>
   </tr>
 </table>
 </div><div class="memdoc">
+
+<p>Prepare a HTTP request/response to be sent. </p>
 
 <p>Implements <a class="el" href="../../d5/d84/classtasks_1_1net_1_1http__base.html#a4fd2b9f2149622cd27fbaeb7f6007462">tasks::net::http_base</a>.</p>
 
@@ -492,6 +506,8 @@ Here is the call graph for this function:</div>
         </tr>
       </table>
 </div><div class="memdoc">
+
+<p>Read an HTTP response from a socket. </p>
 
 <p>Definition at line <a class="el" href="../../df/db8/http__response_8cpp_source.html#l00040">40</a> of file <a class="el" href="../../df/db8/http__response_8cpp_source.html">http_response.cpp</a>.</p>
 
@@ -528,7 +544,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../de/d49/http__response_8h_source.html#l00022">22</a> of file <a class="el" href="../../de/d49/http__response_8h_source.html">http_response.h</a>.</p>
+<p>Definition at line <a class="el" href="../../de/d49/http__response_8h_source.html#l00023">23</a> of file <a class="el" href="../../de/d49/http__response_8h_source.html">http_response.h</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -570,8 +586,9 @@ Here is the caller graph for this function:</div>
   </tr>
 </table>
 </div><div class="memdoc">
+<dl class="section return"><dt>Returns</dt><dd>The HTTP status string. </dd></dl>
 
-<p>Definition at line <a class="el" href="../../de/d49/http__response_8h_source.html#l00027">27</a> of file <a class="el" href="../../de/d49/http__response_8h_source.html">http_response.h</a>.</p>
+<p>Definition at line <a class="el" href="../../de/d49/http__response_8h_source.html#l00029">29</a> of file <a class="el" href="../../de/d49/http__response_8h_source.html">http_response.h</a>.</p>
 
 <p><div class="dynheader">
 Here is the caller graph for this function:</div>
@@ -604,8 +621,9 @@ Here is the caller graph for this function:</div>
   </tr>
 </table>
 </div><div class="memdoc">
+<dl class="section return"><dt>Returns</dt><dd>The HTTP status code. </dd></dl>
 
-<p>Definition at line <a class="el" href="../../de/d49/http__response_8h_source.html#l00029">29</a> of file <a class="el" href="../../de/d49/http__response_8h_source.html">http_response.h</a>.</p>
+<p>Definition at line <a class="el" href="../../de/d49/http__response_8h_source.html#l00032">32</a> of file <a class="el" href="../../de/d49/http__response_8h_source.html">http_response.h</a>.</p>
 
 </div>
 </div>
@@ -628,7 +646,7 @@ Here is the caller graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../de/d49/http__response_8h_source.html#l00052">52</a> of file <a class="el" href="../../de/d49/http__response_8h_source.html">http_response.h</a>.</p>
+<p>Definition at line <a class="el" href="../../de/d49/http__response_8h_source.html#l00058">58</a> of file <a class="el" href="../../de/d49/http__response_8h_source.html">http_response.h</a>.</p>
 
 </div>
 </div>
@@ -650,7 +668,7 @@ Here is the caller graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../de/d49/http__response_8h_source.html#l00051">51</a> of file <a class="el" href="../../de/d49/http__response_8h_source.html">http_response.h</a>.</p>
+<p>Definition at line <a class="el" href="../../de/d49/http__response_8h_source.html#l00057">57</a> of file <a class="el" href="../../de/d49/http__response_8h_source.html">http_response.h</a>.</p>
 
 </div>
 </div>
@@ -672,7 +690,7 @@ Here is the caller graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../de/d49/http__response_8h_source.html#l00050">50</a> of file <a class="el" href="../../de/d49/http__response_8h_source.html">http_response.h</a>.</p>
+<p>Definition at line <a class="el" href="../../de/d49/http__response_8h_source.html#l00056">56</a> of file <a class="el" href="../../de/d49/http__response_8h_source.html">http_response.h</a>.</p>
 
 </div>
 </div>
@@ -694,7 +712,7 @@ Here is the caller graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../de/d49/http__response_8h_source.html#l00049">49</a> of file <a class="el" href="../../de/d49/http__response_8h_source.html">http_response.h</a>.</p>
+<p>Definition at line <a class="el" href="../../de/d49/http__response_8h_source.html#l00055">55</a> of file <a class="el" href="../../de/d49/http__response_8h_source.html">http_response.h</a>.</p>
 
 </div>
 </div>
@@ -716,7 +734,7 @@ Here is the caller graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../de/d49/http__response_8h_source.html#l00048">48</a> of file <a class="el" href="../../de/d49/http__response_8h_source.html">http_response.h</a>.</p>
+<p>Definition at line <a class="el" href="../../de/d49/http__response_8h_source.html#l00054">54</a> of file <a class="el" href="../../de/d49/http__response_8h_source.html">http_response.h</a>.</p>
 
 </div>
 </div>
@@ -738,7 +756,7 @@ Here is the caller graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../de/d49/http__response_8h_source.html#l00046">46</a> of file <a class="el" href="../../de/d49/http__response_8h_source.html">http_response.h</a>.</p>
+<p>Definition at line <a class="el" href="../../de/d49/http__response_8h_source.html#l00052">52</a> of file <a class="el" href="../../de/d49/http__response_8h_source.html">http_response.h</a>.</p>
 
 </div>
 </div>
@@ -760,7 +778,7 @@ Here is the caller graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../de/d49/http__response_8h_source.html#l00047">47</a> of file <a class="el" href="../../de/d49/http__response_8h_source.html">http_response.h</a>.</p>
+<p>Definition at line <a class="el" href="../../de/d49/http__response_8h_source.html#l00053">53</a> of file <a class="el" href="../../de/d49/http__response_8h_source.html">http_response.h</a>.</p>
 
 </div>
 </div>

@@ -1,6 +1,6 @@
 var classtasks_1_1net_1_1uwsgi__request =
 [
-    [ "uwsgi_vars_t", "d2/dad/classtasks_1_1net_1_1uwsgi__request.html#aa9510cff3addf843b3f24a098432398f", null ],
+    [ "uwsgi_vars_t", "d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a991c770579639fa1d89709148e291389", null ],
     [ "uwsgi_request", "d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a113e7edcdacc4a233b8a13100fbf6c2e", null ],
     [ "clear", "d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a8af345ebdc8d5fab1f49c80bb8991361", null ],
     [ "done", "d2/dad/classtasks_1_1net_1_1uwsgi__request.html#a302568f847cf681e400bbcac20c9a33f", null ],

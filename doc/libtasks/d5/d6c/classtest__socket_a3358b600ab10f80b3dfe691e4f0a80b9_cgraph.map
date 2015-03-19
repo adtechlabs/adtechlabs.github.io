@@ -1,6 +1,6 @@
 <map id="test_socket::tcp" name="test_socket::tcp">
 <area shape="rect" id="node2" href="$d6/dc9/classtasks_1_1dispatcher.html#a36c445936d02e0bdd2f6d064311efb5e" title="tasks::dispatcher::\linstance" alt="" coords="171,5,301,46"/>
-<area shape="rect" id="node3" href="$d5/d79/classtasks_1_1net_1_1socket.html#a5101c68446d407058882445be9df4007" title="tasks::net::socket\l::set_blocking" alt="" coords="173,70,299,111"/>
+<area shape="rect" id="node3" href="$d5/d79/classtasks_1_1net_1_1socket.html#a5101c68446d407058882445be9df4007" title="Set the socket to blocking mode. " alt="" coords="173,70,299,111"/>
 <area shape="rect" id="node4" href="$d5/d79/classtasks_1_1net_1_1socket.html#a8300379d403e015e38284929f270f76c" title="tasks::net::socket\l::connect" alt="" coords="173,135,299,177"/>
 <area shape="rect" id="node6" href="$d5/d79/classtasks_1_1net_1_1socket.html#a1730bf0b7cdfe224a3d9b0b58400f05c" title="tasks::net::socket\l::write" alt="" coords="173,201,299,242"/>
 <area shape="rect" id="node10" href="$d5/d79/classtasks_1_1net_1_1socket.html#a08fdb04977ad536af7d5222348007a3a" title="tasks::net::socket\l::read" alt="" coords="173,266,299,307"/>

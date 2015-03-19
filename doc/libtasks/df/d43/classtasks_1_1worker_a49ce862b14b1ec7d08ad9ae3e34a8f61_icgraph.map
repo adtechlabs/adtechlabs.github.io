@@ -15,7 +15,7 @@
 <area shape="rect" id="node6" href="$d5/d2c/classtasks_1_1net_1_1http__sender.html#aa557541342d08a5b760a7ab8ef0a01cf" title="tasks::net::http_sender\l::send" alt="" coords="635,135,791,177"/>
 <area shape="rect" id="node8" href="$d5/d2c/classtasks_1_1net_1_1http__sender.html#a05a811e7a63c526de3e1bf9c92aeb3ba" title="tasks::net::http_sender\l::handle_event" alt="" coords="635,201,791,242"/>
 <area shape="rect" id="node9" href="$d1/da5/classtasks_1_1net_1_1uwsgi__task.html#ae36e9d54f000a845707dca0f80c97031" title="tasks::net::uwsgi_task\l::handle_event" alt="" coords="636,266,791,307"/>
-<area shape="rect" id="node10" href="$d1/da5/classtasks_1_1net_1_1uwsgi__task.html#a049774118f72950828da30a7af01e10f" title="tasks::net::uwsgi_task\l::send_response" alt="" coords="636,331,791,373"/>
+<area shape="rect" id="node10" href="$d1/da5/classtasks_1_1net_1_1uwsgi__task.html#a049774118f72950828da30a7af01e10f" title="Send the resonse back. " alt="" coords="636,331,791,373"/>
 <area shape="rect" id="node11" href="$d7/d8f/classuwsgi__handler.html#a27cb6c799556b646dae3b9749204b0b9" title="uwsgi_handler::handle\l_request" alt="" coords="857,266,1007,307"/>
 <area shape="rect" id="node12" href="$d3/d84/classtasks_1_1net_1_1uwsgi__thrift__processor.html#a0db99757d968baf1fccf273b130e13d0" title="tasks::net::uwsgi_thrift\l_processor::handle_request" alt="" coords="841,331,1023,373"/>
 <area shape="rect" id="node16" href="$d6/dc9/classtasks_1_1dispatcher.html#a6fc3fb597041623eb87c696364a0a08c" title="tasks::dispatcher::\lremove_event_task" alt="" coords="645,397,781,438"/>

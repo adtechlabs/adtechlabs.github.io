@@ -1,5 +1,5 @@
 <map id="test_socket::udp" name="test_socket::udp">
-<area shape="rect" id="node2" href="$d5/d79/classtasks_1_1net_1_1socket.html#a5101c68446d407058882445be9df4007" title="tasks::net::socket\l::set_blocking" alt="" coords="174,5,301,46"/>
+<area shape="rect" id="node2" href="$d5/d79/classtasks_1_1net_1_1socket.html#a5101c68446d407058882445be9df4007" title="Set the socket to blocking mode. " alt="" coords="174,5,301,46"/>
 <area shape="rect" id="node3" href="$d5/d79/classtasks_1_1net_1_1socket.html#a4c6c2915bbcce71ead9f639a5b179270" title="tasks::net::socket\l::bind" alt="" coords="174,70,301,111"/>
 <area shape="rect" id="node4" href="$d5/d79/classtasks_1_1net_1_1socket.html#a1730bf0b7cdfe224a3d9b0b58400f05c" title="tasks::net::socket\l::write" alt="" coords="174,201,301,242"/>
 <area shape="rect" id="node9" href="$d5/d79/classtasks_1_1net_1_1socket.html#a08fdb04977ad536af7d5222348007a3a" title="tasks::net::socket\l::read" alt="" coords="174,135,301,177"/>

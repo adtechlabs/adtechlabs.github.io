@@ -15,6 +15,6 @@
 <area shape="rect" id="node21" href="$dd/dff/structtasks_1_1loop__t.html" title="Needed to use std::unique_ptr&lt;&gt; " alt="" coords="1247,12,1345,39"/>
 <area shape="rect" id="node23" title="STL class. " alt="" coords="1254,77,1338,104"/>
 <area shape="rect" id="node24" href="$d6/df6/classtasks_1_1disposable.html" title="Base class for objects/tasks that can be deleted. " alt="" coords="1001,260,1125,287"/>
-<area shape="rect" id="node26" href="$d5/d79/classtasks_1_1net_1_1socket.html" title="tasks::net::socket" alt="" coords="1233,340,1359,367"/>
+<area shape="rect" id="node26" href="$d5/d79/classtasks_1_1net_1_1socket.html" title="The socket class. " alt="" coords="1233,340,1359,367"/>
 <area shape="rect" id="node27" href="$d8/dc6/classio__base.html" title="Base class for socket and term. " alt="" coords="1029,361,1096,388"/>
 </map>

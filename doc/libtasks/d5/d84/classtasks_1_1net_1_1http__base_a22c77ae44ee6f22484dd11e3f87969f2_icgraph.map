@@ -1,6 +1,6 @@
 <map id="tasks::net::http_base::clear" name="tasks::net::http_base::clear">
-<area shape="rect" id="node2" href="$d3/d58/classtasks_1_1net_1_1http__request.html#a0ea173b27bfb6a379918dc6956c9cca7" title="tasks::net::http_request\l::clear" alt="" coords="205,5,365,46"/>
-<area shape="rect" id="node3" href="$d5/d2f/classtasks_1_1net_1_1http__response.html#a52a509d321442026371d94658c5160f7" title="tasks::net::http_response\l::clear" alt="" coords="200,70,371,111"/>
-<area shape="rect" id="node4" href="$d1/da5/classtasks_1_1net_1_1uwsgi__task.html#acd5f111537a00cde88ee733e63ff3be4" title="tasks::net::uwsgi_task\l::finish_request" alt="" coords="419,70,573,111"/>
+<area shape="rect" id="node2" href="$d3/d58/classtasks_1_1net_1_1http__request.html#a0ea173b27bfb6a379918dc6956c9cca7" title="Reset the http object. " alt="" coords="205,5,365,46"/>
+<area shape="rect" id="node3" href="$d5/d2f/classtasks_1_1net_1_1http__response.html#a52a509d321442026371d94658c5160f7" title="Reset the http object. " alt="" coords="200,70,371,111"/>
+<area shape="rect" id="node4" href="$d1/da5/classtasks_1_1net_1_1uwsgi__task.html#acd5f111537a00cde88ee733e63ff3be4" title="Called after a request has been responded. " alt="" coords="419,70,573,111"/>
 <area shape="rect" id="node5" href="$d1/da5/classtasks_1_1net_1_1uwsgi__task.html#ae36e9d54f000a845707dca0f80c97031" title="tasks::net::uwsgi_task\l::handle_event" alt="" coords="621,70,776,111"/>
 </map>

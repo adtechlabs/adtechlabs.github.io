@@ -1,8 +1,8 @@
 var classtasks_1_1net_1_1uwsgi__thrift__async__processor =
 [
-    [ "in_transport_type", "da/d73/classtasks_1_1net_1_1uwsgi__thrift__async__processor.html#af4439e7fbbc1c414489a8dbd5e0be4d8", null ],
-    [ "out_transport_type", "da/d73/classtasks_1_1net_1_1uwsgi__thrift__async__processor.html#a58706d113c1fa020b802ebc4fcb0d73c", null ],
-    [ "protocol_type", "da/d73/classtasks_1_1net_1_1uwsgi__thrift__async__processor.html#a744d1165195a8794a0658356de8f3cb7", null ],
+    [ "in_transport_type", "da/d73/classtasks_1_1net_1_1uwsgi__thrift__async__processor.html#a5625da2a8e715db4e953c01f667ef453", null ],
+    [ "out_transport_type", "da/d73/classtasks_1_1net_1_1uwsgi__thrift__async__processor.html#a02137c368f6a0489f3094ea47c34b042", null ],
+    [ "protocol_type", "da/d73/classtasks_1_1net_1_1uwsgi__thrift__async__processor.html#a1ca1806695e34dcbe44689fe03db9338", null ],
     [ "uwsgi_thrift_async_processor", "da/d73/classtasks_1_1net_1_1uwsgi__thrift__async__processor.html#ae525f04c3779c69177e69f3981c50a48", null ],
     [ "~uwsgi_thrift_async_processor", "da/d73/classtasks_1_1net_1_1uwsgi__thrift__async__processor.html#ad70b612d1f606f6f25d15b1d34101150", null ],
     [ "get_string", "da/d73/classtasks_1_1net_1_1uwsgi__thrift__async__processor.html#a2e87169342b1c83062cf7332c13c8313", null ],

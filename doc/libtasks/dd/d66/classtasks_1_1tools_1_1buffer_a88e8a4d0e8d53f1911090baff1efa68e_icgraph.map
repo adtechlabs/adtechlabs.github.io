@@ -1,8 +1,8 @@
 <map id="tasks::tools::buffer::xsputn" name="tasks::tools::buffer::xsputn">
 <area shape="rect" id="node2" href="$dd/d66/classtasks_1_1tools_1_1buffer.html#a7bec8ac29d878f56e1d1167e4fa9891f" title="tasks::tools::buffer\l::write" alt="" coords="184,135,315,177"/>
 <area shape="rect" id="node3" href="$d5/d84/classtasks_1_1net_1_1http__base.html#a85e5143ed8e09d177f2e5c7b2d424be0" title="tasks::net::http_base\l::write" alt="" coords="377,5,522,46"/>
-<area shape="rect" id="node4" href="$d3/d58/classtasks_1_1net_1_1http__request.html#a8e0ad7b40915a108dc3ba7df3b3b619a" title="tasks::net::http_request\l::prepare_data_buffer" alt="" coords="369,70,529,111"/>
-<area shape="rect" id="node5" href="$d5/d2f/classtasks_1_1net_1_1http__response.html#a88d8c1a1ae75471dfdd51aa1ff1b2516" title="tasks::net::http_response\l::prepare_data_buffer" alt="" coords="364,135,535,177"/>
+<area shape="rect" id="node4" href="$d3/d58/classtasks_1_1net_1_1http__request.html#a8e0ad7b40915a108dc3ba7df3b3b619a" title="Prepare a HTTP request/response to be sent. " alt="" coords="369,70,529,111"/>
+<area shape="rect" id="node5" href="$d5/d2f/classtasks_1_1net_1_1http__response.html#a88d8c1a1ae75471dfdd51aa1ff1b2516" title="Prepare a HTTP request/response to be sent. " alt="" coords="364,135,535,177"/>
 <area shape="rect" id="node6" href="$da/dee/classtest__disk__io__task.html#a9c25624668ac4fb05d80c9e2f6248e3a" title="test_disk_io_task::\lwrite" alt="" coords="383,201,515,242"/>
 <area shape="rect" id="node7" href="$d2/dad/classtasks_1_1net_1_1uwsgi__request.html#aa55ce7b164b1f0d4c72456872a28ea37" title="tasks::net::uwsgi_request\l::write" alt="" coords="363,266,535,307"/>
 </map>
